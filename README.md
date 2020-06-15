@@ -12,6 +12,18 @@
 
 
 
+### 星期月份
+
+| 星期     |         |          |           |          |          |          |        |
+| -------- | ------- | -------- | --------- | -------- | -------- | -------- | ------ |
+| 1-7      | Monday  | Tuesday  | Wednesday | Thursday | Friday   | Saturday | Sunday |
+|          |         |          |           |          |          |          |        |
+| **月份** |         |          |           |          |          |          |        |
+| 1-6      | January | February | March     | March    | May      | June     |        |
+| 6-12     | July    | August   | September | October  | November | December |        |
+
+
+
 ### 常见数字
 
 | 数字      |          |            |         |         |      |      |       |       |      |      |
@@ -21,6 +33,8 @@
 | 13-16     | thirteen | fourteen   | fifteen | sixteen |      |      |       |       |      |      |
 | 20-21     | twenty   | twenty-one |         |         |      |      |       |       |      |      |
 | 3 4 5 [0] | thirty   | forty      | fifty   | sixty   |      |      |       |       |      |      |
+| 百    千  | hundred  | thousand   |         |         |      |      |       |       |      |      |
+| 拼数字    | double   | triple     |         |         |      |      |       |       |      |      |
 
 
 
@@ -29,7 +43,7 @@
 | 国家            | 国籍       | 首都                  |
 | --------------- | ---------- | --------------------- |
 | China           | Chinese    | Beijing               |
-| Japn            | Janpanese  | Tokyo                 |
+| Japan           | Janpanese  | Tokyo                 |
 | Korea           | Korean     | Seoul                 |
 | Italy           | Italian    | Rome                  |
 | Russia          | Russian    | Moscow(莫斯科)        |
@@ -73,7 +87,7 @@
 
 
 
-**名词复数**
+#### 名词复数
 
 ```
 1. 一般情况加s。
@@ -86,7 +100,7 @@
 
 
 
-**三单形式**
+#### 三单形式
 
 ```
 
@@ -154,7 +168,8 @@ She is very friendly to me.
 
 #### 一般现在时疑问句
 
-> 一般现在时的一般疑问句中，把**do** 置于 **I**, **you**, **we** 和 **they**之前，把**does** 置于**he**, **she** 和 **it**之前。把动词置于代名词之后。请看表，看看问句的例句。 
+> do和does可以用作助动词，完成一般现在时的问句及回答和否定句中，其中does用在第三人称单数
+> 一般现在时疑问句中，把**do**/**does** 置于主语之前，把动词置于代名词之后
 
 | **一般疑问句** |          |                  | **简短的回答**    |                     |
 | -------------- | -------- | ---------------- | ----------------- | ------------------- |
@@ -166,7 +181,7 @@ She is very friendly to me.
 
 
 
-> 用疑问词构成一般现在时疑问句，把疑问词置于**do**或**does**之前。 
+> 一般现在时特殊疑问句，把疑问词置于**do**或**does**之前 
 
 | **疑问词**       | **do / does** |           |
 | ---------------- | ------------- | --------- |
@@ -188,13 +203,13 @@ Pardon ?
 Can you repeat that, please? 
 
 
-拼数字，双：double 三：triple
-
-one two three four five six seven eight nine ten
-
-
 I like dogs # 一般说喜欢形容种类
 I like this dog
+
+
+prefer sth/to do sth.更喜欢，倾向于
+
+would rather do sth.更喜欢
 ```
 
 
@@ -227,132 +242,71 @@ How many students are there?
 
 
 
+#### 形容词
+
+| 形容词             |                     |                     |                |
+| ------------------ | ------------------- | ------------------- | -------------- |
+| east 东方的        | west 西方的         | north 北方的        | south 南方的   |
+| brown 棕色的       | blond 金色的        | funny 好笑的        | serious 严肃的 |
+| intelligent 机智的 | stupid 愚蠢的       | hardworking 勤勉的  | lazy 懒惰的    |
+| friendly 友好的    | unfriendly 不友善的 | exciting 激动人心的 | boring 无聊的  |
+| beautiful 美丽的   | ugly 丑陋的         | wonderful 完美的    | terribe 糟糕的 |
+| busy 忙碌的        | free 空闲的         | expensive 贵的      | cheap 便宜的   |
+| boiling 滚烫的     | ice 冰冷的          |                     |                |
+|                    |                     |                     |                |
+
+
+
+#### 职位
+
+| 职位                     |                    |                  |                  |
+| ------------------------ | ------------------ | ---------------- | ---------------- |
+| nurse 护士               | doctor 医生        | secretary 秘书   | artist 艺术家    |
+| sales assistant 销售助理 | firefighter 消防员 | businessman 商人 | architect 建筑师 |
+|                          |                    |                  |                  |
+|                          |                    |                  |                  |
+
+
+
+#### 物品
+
+| 物品    |      |      |      |
+| ------- | ---- | ---- | ---- |
+| clothes |      |      |      |
+|         |      |      |      |
+|         |      |      |      |
+|         |      |      |      |
+|         |      |      |      |
+
+
+
+#### 吃喝
+
+|      |      |      |      |      |
+| ---- | ---- | ---- | ---- | ---- |
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
+
+
+
+#### 其他
+
+|      |      |      |      |
+| ---- | ---- | ---- | ---- |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+
+
+
 ```
-
-
-
-
-
-=============
-
-brown hair
-
-blond hair
-
-
 
 What company do you work for?	
 您在哪家公司上班？
 
-
-That's interesting.	
-真有趣。
-
-Really?	
-真的吗？
-
-That's great!	
-太棒了！
-
-nurse
-护士
-
-doctor
-医生
-
-secretary
-秘书
-
-artist
-艺术家
-
-architect
-建筑师
-
-firefighter 
-消防员
-
-clothes store
-服装店
-
-businessman
-商人
-
-sales assistant
-销售助理
-
-hardworking
- 勤勉的
-
-intelligent 
-机智的
-
-friendly 
-友好的
-
-unfriendly 
-不友善的
-
-serious  
-严肃的
-
-hardworking – lazy 
-奋的 - 懒惰的
-
-intelligent – stupid 
-聪明的 - 愚蠢的
-
-serious – funny 
-严肃的 - 有趣的
-
-
-
-描述性格
-What's she like?
-
-
-
-
-
-
-what do you do?
-
-a kind of 种类
-
-practice 练习
-
-exciting		boring
-	
-beautiful		ugly
-
-busy		free	
-
-big		small
-
-wonderful 	terribe
-
-expensive		cheap
-
-
-north 北部	south
-
-
-
-在in, from, to, for 和 with这样的介词之后用宾格。
- 
-I have a question for him.      
-我有个问题要问他。
-
-She is very friendly to me.
-她对我很友好。
-
-
-
-当描述一个事物和另一个事物的关系时使用介词 with 
-
-John is with them.                   
-
-John 和他们在一起。
 
 
 pronounce 发音；宣判
@@ -368,11 +322,6 @@ Do助动词(提问、否定)  → 谓语动词
 Does 第三人称单数
 
 Did 一般过去式
-
-
-boiling 炽热的
-
-icy        冰冷的 也可以修容人 冷冰冰(贬义词)
 
 
 
@@ -419,23 +368,6 @@ I play basketball with my friends on the weekend.
 
 I am from Anyang, Henan Province. 
 
-water
-
-weather
-
-decision /dɪ'sɪʒ(ə)n/ n. 决定
-
-subject + verb +object
-
-
-Confidence
-
-
-
-live	居住
-
-
-Greet/ gri:t/ v.打招呼；欢迎；问候
 
 
 
@@ -445,9 +377,6 @@ company	公司
 
 employee	员工
 
-hundred	百
-
-thousand	千
 
 elevator	电梯
 
@@ -455,7 +384,6 @@ kitchen	厨房
 
 machine	机器
 
-terrible 可怕的 糟糕的
 
 
 ======================================
@@ -501,29 +429,6 @@ Subscriptions
 
 故事的起点 发散点
 
-周一：Monday
-周二：Tuesday
-周三：Wednesday
-周四：Thursday
-周五：Friday
-周六：Saturday
-周日：Sunday
-周一至周日：from Monday to Sunday
-
-
-
-1、一月：January [ˈdʒænjuəri]
-2、二月：February [ˈfebruəri] 
-3、三月：March [mɑ:tʃ] 
-4、四月：April[ˈeɪprəl]
-5、五月：May [meɪ]
-6、六月：June[dʒuːn]
-7、七月：July [dʒuˈlaɪ] 
-8、八月：August [ˈɔ:gəst] 
-9、九月：September [sepˈtembə(r)]
-10、十月：October [ɒkˈtəʊbə(r)] 
-11、十一月：November [nəʊˈvembə(r)] 
-12、十二月：December[dɪˈsembə(r)]
 
 ```
 
