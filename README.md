@@ -40,21 +40,25 @@
 
 ### 常见国家
 
-| 国家            | 国籍       | 首都                  |
-| --------------- | ---------- | --------------------- |
-| China           | Chinese    | Beijing               |
-| Japan           | Janpanese  | Tokyo                 |
-| Korea           | Korean     | Seoul                 |
-| Italy           | Italian    | Rome                  |
-| Russia          | Russian    | Moscow(莫斯科)        |
-| Australia       | Australian | Canberra(坎波拉)      |
-| Brazil          | Brazilian  | Brasilia(巴西利亚)    |
-| Canada          | Canadian   | Ottawa(渥太华)        |
-| France          | French     | Paris(巴黎)           |
-| Mexico          | Mexican    | Mexico City(墨西哥城) |
-| Germany         | German     | Berlin(柏林)          |
-| Britain(the UK) | British    | London(伦敦)          |
-| America(the US) | American   | Washington(华盛顿)    |
+| 国家              | 国籍          | 首都                  |
+| ----------------- | ------------- | --------------------- |
+| China             | Chinese       | Beijing               |
+| Japan             | Janpanese     | Tokyo                 |
+| Korea             | Korean        | Seoul                 |
+| Italy             | Italian       | Rome                  |
+| Russia            | Russian       | Moscow(莫斯科)        |
+| Australia         | Australian    | Canberra(坎波拉)      |
+| Brazil            | Brazilian     | Brasilia(巴西利亚)    |
+| Canada            | Canadian      | Ottawa(渥太华)        |
+| France            | French        | Paris(巴黎)           |
+| Mexico            | Mexican       | Mexico City(墨西哥城) |
+| Germany           | German        | Berlin(柏林)          |
+| Britain(the UK)   | British       | London(伦敦)          |
+| America(the US)   | American      | Washington(华盛顿)    |
+| South Africa 南非 | South African |                       |
+| India 印度        | indian        |                       |
+| Sweden            | Swedish       |                       |
+|                   |               |                       |
 
 
 
@@ -83,59 +87,6 @@
 
 
 
-### 不同形式
-
-
-
-#### 名词复数
-
-```
-1. 一般情况加s。
-2. 以s,x, sh, ch结尾加es，读/iz/。
-3. 以辅音字母+y结尾，变y为i再加es，读/iz/。
-4. 以y结尾的专有名词或元音字母+y结尾的名词变复数时，直接加s，读/z/
-5. 以o结尾的名词，有些加词尾-s，有些加-es，有些加-s或-es均可。
-6. 以f，fe结尾，去f，fe变ves。
-```
-
-
-
-#### 三单形式
-
-```
-
-1.当主语为第三人称he she it的时候 一般情况下后面接的动词要加S或者es
-
-He lives in BeiJing.
-他住在北京
-
-he has two sisters.
-他有两个姐妹
-
-
-2.动词  为否定时，不得使用单数形式
-
-He doesn't live in BeiJing.
-他没有住在北京
-
-He doesn't have any brothers.
-他没有兄弟
-```
-
-
-
-**在in, from, to, for 和 with这样的介词之后用宾格。**
-
-```
-I have a question for him.      
-我有个问题要问他。
-
-She is very friendly to me.
-她对我很友好。
-```
-
-
-
 ### 语句时态
 
 ####  **一般现在时的陈述句** 
@@ -153,9 +104,8 @@ She is very friendly to me.
 
 ####  **一般现在时的否定句** 
 
-> **I**、**you**、**we** 或 **they** 的一般现在时否定陈述句，用 **do not +** 主动词。对于 **he**、**she** 或 **it** 的一般现在时否定陈述句，则用 **does not +** 主动词。注意，主动词形式不变。
-
-> 在英语口语中，否定表达**do not** 几乎总是缩写为**don't**。否定表达**does not** 几乎总缩写为**doesn't**。 
+> **I**、**you**、**we** 或 **they** 的一般现在时否定陈述句，用 **do not +** 主动词。
+> 对于 **he**、**she** 或 **it** 的一般现在时否定陈述句，则用 **does not +** 主动词。注意，主动词形式不变。
 
 | **否定词**  |                       |          |
 | ----------- | --------------------- | -------- |
@@ -192,6 +142,72 @@ She is very friendly to me.
 
 
 
+#### 现在进行时
+
+> 用现在进行时描述正在发生的动作。动词 **be** 和动词 **+ ing**构成现在进行时。 
+
+| **陈述句** |         |                | **否定词**                            |                    |
+| ---------- | ------- | -------------- | ------------------------------------- | ------------------ |
+| **主语**   | **be**  | **动词 + ing** | **be + not**                          | **动词** **+ ing** |
+| I          | **am**  | **coming.**    | I'm not                               | **coming.** |
+| You        | **are** | **coming.**    | You're not/You aren't | **coming.**        |
+| He/She/It  | **is**  | **coming.**    | He's not / He isn't / She's not / She isn't | **coming.**        |
+| WeYou/You/They | **are** | **coming.** | We're not / We aren't / You're not / You aren't | **coming.**        |
+
+
+
+> 将动词 **be** 置于句首构成一般疑问句。 
+
+```
+陈述句
+He is wearing a beautiful shirt.	他身穿一件漂亮的衬衫。
+They are going home.	他们回家了。		
+
+一般疑问句
+Are they going home?	他们是不是要回家了？
+Is he wearing a beautiful shirt?	他是不是身穿一件漂亮的衬衫？
+```
+
+
+
+> 将**what** 或 **where**这样的疑问词置于句首构成特殊疑问句。 
+
+```
+陈述句	 	 		
+You are going home.	您要回家了。	
+She is wearing a blue dress.	她身穿一条蓝色连衣裙。
+
+带疑问词的疑问句
+Where are you going?	您去哪？
+What is she wearing?	她穿什么？
+```
+
+
+
+> 用短语how much 询问价格。动词cost指价格。用it's 或 it costs 出价。
+
+```
+
+A: How much is this?
+这多少钱？
+
+B: It's $36.89.
+36.89美元。
+ 	 	 
+
+A: How much do they cost?  	
+那些得花多少钱？
+
+B: They cost $86.45.	
+那些得花86.45美元。
+
+完整的表达
+$14.65 – fourteen dollars and sixty-five cents
+
+简短的表达
+$14.65 – fourteen sixty-five
+```
+
 
 
 ### 每日语句
@@ -207,24 +223,90 @@ I like dogs # 一般说喜欢形容种类
 I like this dog
 
 
-prefer sth/to do sth.更喜欢，倾向于
+What does he look like?
+他看起来怎么样？
 
-would rather do sth.更喜欢
+Almost nothing. 
+几乎没有
+
+
+What company do you work for?	
+您在哪家公司上班？
+
+
+I play basketball with my friends on the weekend. 
 ```
 
 
 
 ### 每日语法
 
+#### 名词复数
+
 ```
+1. 一般情况加s。
+2. 以s,x, sh, ch结尾加es，读/iz/。
+3. 以辅音字母+y结尾，变y为i再加es，读/iz/。
+4. 以y结尾的专有名词或元音字母+y结尾的名词变复数时，直接加s，读/z/
+5. 以o结尾的名词，有些加词尾-s，有些加-es，有些加-s或-es均可。
+6. 以f，fe结尾，去f，fe变ves。
+```
+
+
+
+#### 三单形式
+
+```
+1.当主语为第三人称he she it的时候 一般情况下后面接的动词要加S或者es
+
+He lives in BeiJing.
+他住在北京
+
+he has two sisters.
+他有两个姐妹
+
+
+2.动词  为否定时，不得使用单数形式
+
+He doesn't live in BeiJing.
+他没有住在北京
+
+He doesn't have any brothers.
+他没有兄弟
+```
+
+
+
+#### 在in, from, to, for 和 with这样的介词之后用宾格。
+
+```
+I have a question for him.      
+我有个问题要问他。
+
+She is very friendly to me.
+她对我很友好。
+```
+
+
+
+### 常见语法
+
+```
+prefer to do sth.更喜欢，倾向于
+
+would rather do sth.更喜欢
+
+# 通过词组表达量词
+a pair of shoes
+a packet of meat
+a basket of vegetables
+
 How many ··· are there?
 There are 13.
 
 Do we need to buy new ones?
 No,We don't new ones.
 
-What does he look like?
-他看起来怎么样？
 
 How many students are there? 
 学生有多少人？
@@ -242,6 +324,92 @@ How many students are there?
 
 
 
+#### 吃
+
+| 吃              |                      |               |               |                 |
+| --------------- | -------------------- | ------------- | ------------- | --------------- |
+| rice 米饭       | street food 街头小吃 | noodle 面条   |               |                 |
+| mutton 羊肉     | beef 牛肉            | chicken 鸡肉  | prok 猪肉     | bacon 咸肉 腊肉 |
+| seafood 海鲜    | prawns / shrimp 虾   | octopus 章鱼  | salmon 三文鱼 | tuna 金枪鱼     |
+| vegetables 蔬菜 | carrot 胡萝卜        | tomato 西红柿 | potato 马铃薯 |                 |
+| mushrooms 蘑菇  | grape 葡萄           | orange 橘子   | banana 香蕉   |                 |
+| salt 盐         | Oil 油               |               |               |                 |
+
+
+
+#### 喝
+
+| 喝                |                         |                    |         |
+| ----------------- | ----------------------- | ------------------ | ------- |
+| tea 茶            | milk 牛奶               | tea with milk 奶茶 | wine 酒 |
+| orange juice 橙汁 | watermelon juice 西瓜汁 | cola 可乐          | soup 汤 |
+|                   |                         |                    |         |
+
+
+
+#### 物品
+
+| 物品                      |               |                  |                        |
+| ------------------------- | ------------- | ---------------- | ---------------------- |
+| clothes 衣服              | elevator 电梯 | kitchen 厨房     | coffee machine 咖啡机  |
+| monitor	监视器、显示器 | umbrella 雨伞 | dispenser 贩卖机 | water dispenser 饮水机 |
+| carpet 地毯               | case 箱子     | blouse 女衬衫    | bottle 瓶子            |
+|                           |               |                  |                        |
+|                           |               |                  |                        |
+
+
+
+#### 地方
+
+| 地方                  |                           |                    |                   |
+| --------------------- | ------------------------- | ------------------ | ----------------- |
+| museum 博物馆         | restaurant 餐馆           | company 公司       | upstairs 楼上     |
+| cotton 棉质           | wool 羊毛                 | polyester 聚酯纤维 | mall 大型购物中心 |
+| clothing store 服装店 | department store 百货商店 |                    |                   |
+|                       |                           |                    |                   |
+
+
+
+#### 职位
+
+| 职位                     |                    |                  |                    |
+| ------------------------ | ------------------ | ---------------- | ------------------ |
+| nurse 护士               | doctor 医生        | secretary 秘书   | artist 艺术家      |
+| sales assistant 销售助理 | firefighter 消防员 | businessman 商人 | architect 建筑师   |
+| policeman 警察           | policewoman 女警察 | postman 邮递员   | milkman 送牛奶的人 |
+| taxi driver 出租车司机   | air hostess 空姐   | mechanic 机械师  | hairdresser 理发师 |
+| housewife 家庭妇女       | hostess 女主人     |                  |                    |
+
+
+
+#### 软件
+
+| 软件                  |                       |                     |                   |
+| --------------------- | --------------------- | ------------------- | ----------------- |
+| Cancel 取消，返回     | Time Capsule 时间胶囊 | Contacts 联系人     | Moments 瞬间      |
+| Favorites 收藏 喜爱   | Wallet 钱包           | Balance 余额 平衡   | Amount 总计 总和  |
+| Pay Merchant 支付商人 | Receive 接受 收到     | Split Bill 清单列表 | Transactions 交易 |
+| Subscriptions 订阅    |                       |                     |                   |
+|                       |                       |                     |                   |
+|                       |                       |                     |                   |
+|                       |                       |                     |                   |
+|                       |                       |                     |                   |
+
+
+
+#### 其他
+
+| 其他            |                 |                 |                     |
+| --------------- | --------------- | --------------- | ------------------- |
+| academic 学术上 | confidence 信心 | vocabulary 词汇 | pronounce 发音 宣判 |
+| percent 百分比  | describe 描述   |                 |                     |
+|                 |                 |                 |                     |
+|                 |                 |                 |                     |
+
+
+
+
+
 #### 形容词
 
 | 形容词             |                     |                     |                |
@@ -252,183 +420,8 @@ How many students are there?
 | friendly 友好的    | unfriendly 不友善的 | exciting 激动人心的 | boring 无聊的  |
 | beautiful 美丽的   | ugly 丑陋的         | wonderful 完美的    | terribe 糟糕的 |
 | busy 忙碌的        | free 空闲的         | expensive 贵的      | cheap 便宜的   |
-| boiling 滚烫的     | ice 冰冷的          |                     |                |
-|                    |                     |                     |                |
+| boiling 滚烫的     | ice 冰冷的          | crowded 拥挤的      | lovely 可爱的  |
+| positive 积极的    | negative 消极的     |                     |                |
 
 
-
-#### 职位
-
-| 职位                     |                    |                  |                  |
-| ------------------------ | ------------------ | ---------------- | ---------------- |
-| nurse 护士               | doctor 医生        | secretary 秘书   | artist 艺术家    |
-| sales assistant 销售助理 | firefighter 消防员 | businessman 商人 | architect 建筑师 |
-|                          |                    |                  |                  |
-|                          |                    |                  |                  |
-
-
-
-#### 物品
-
-| 物品    |      |      |      |
-| ------- | ---- | ---- | ---- |
-| clothes |      |      |      |
-|         |      |      |      |
-|         |      |      |      |
-|         |      |      |      |
-|         |      |      |      |
-
-
-
-#### 吃喝
-
-|      |      |      |      |      |
-| ---- | ---- | ---- | ---- | ---- |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-
-
-
-#### 其他
-
-|      |      |      |      |
-| ---- | ---- | ---- | ---- |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-
-
-
-```
-
-What company do you work for?	
-您在哪家公司上班？
-
-
-
-pronounce 发音；宣判
-
-prefer sth/to do sth.更喜欢，倾向于
-
-would rather do sth.更喜欢
-
-vegetables
-
-Do助动词(提问、否定)  → 谓语动词
-
-Does 第三人称单数
-
-Did 一般过去式
-
-
-
-
-wine 红酒
-
-street food 街头小吃
-
-vegetables 蔬菜
-
-noodle
-
-eat 清音结尾
-
-drink 清音结尾
-
-vital 至关重要的,有活力的
-virtual 虚拟的
-
-common 常用的
-
-Academic 学术上
-
-Confidence 信心
-
-vocabulary 词汇
-
-habits
-
-plus 加
-
-emails
-
-verb 动词
-跟在be后 叫比宾语
-
-on 周几
-
-on the weekend
-
-on the weekend.
-
-I play basketball with my friends on the weekend. 
-
-I am from Anyang, Henan Province. 
-
-
-
-
-monitor	监视器、显示器
-
-company	公司
-
-employee	员工
-
-
-elevator	电梯
-
-kitchen	厨房
-
-machine	机器
-
-
-
-======================================
-
-
-Cancel
-
-Time Capsule
-
-Contacts
-
-Moments
-
-Favorites
-
-Offers
-
-Wallet
-
-Balance
-
-Amount
-
-Pay Merchant
-
-Receive
-
-Split Bill
-
-Packets Nearby
-
-Transactions
-
-Yield
-
-Top Up
-
-Withdraw
-
-Sticker Gallery
-
-Subscriptions
-
-故事的起点 发散点
-
-
-```
 
