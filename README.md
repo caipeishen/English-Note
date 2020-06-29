@@ -19,7 +19,7 @@
 | 1-7      | Monday  | Tuesday  | Wednesday | Thursday | Friday   | Saturday | Sunday |
 |          |         |          |           |          |          |          |        |
 | **月份** |         |          |           |          |          |          |        |
-| 1-6      | January | February | March     | March    | May      | June     |        |
+| 1-6      | January | February | March     | April    | May      | June     |        |
 | 6-12     | July    | August   | September | October  | November | December |        |
 
 
@@ -40,25 +40,25 @@
 
 ### 常见国家
 
-| 国家              | 国籍          | 首都                  |
-| ----------------- | ------------- | --------------------- |
-| China             | Chinese       | Beijing               |
-| Japan             | Janpanese     | Tokyo                 |
-| Korea             | Korean        | Seoul                 |
-| Italy             | Italian       | Rome                  |
-| Russia            | Russian       | Moscow(莫斯科)        |
-| Australia         | Australian    | Canberra(坎波拉)      |
-| Brazil            | Brazilian     | Brasilia(巴西利亚)    |
-| Canada            | Canadian      | Ottawa(渥太华)        |
-| France            | French        | Paris(巴黎)           |
-| Mexico            | Mexican       | Mexico City(墨西哥城) |
-| Germany           | German        | Berlin(柏林)          |
-| Britain(the UK)   | British       | London(伦敦)          |
-| America(the US)   | American      | Washington(华盛顿)    |
-| South Africa 南非 | South African |                       |
-| India 印度        | indian        |                       |
-| Sweden            | Swedish       |                       |
-|                   |               |                       |
+| 国家 Country      | 国籍 Nationality | 首都 Capital          |
+| ----------------- | ---------------- | --------------------- |
+| China             | Chinese          | Beijing               |
+| Japan             | Janpanese        | Tokyo                 |
+| Korea             | Korean           | Seoul                 |
+| Italy             | Italian          | Rome                  |
+| Russia            | Russian          | Moscow(莫斯科)        |
+| Australia         | Australian       | Canberra(坎波拉)      |
+| Brazil            | Brazilian        | Brasilia(巴西利亚)    |
+| Canada            | Canadian         | Ottawa(渥太华)        |
+| France            | French           | Paris(巴黎)           |
+| Mexico            | Mexican          | Mexico City(墨西哥城) |
+| Germany           | German           | Berlin(柏林)          |
+| Britain(the UK)   | British          | London(伦敦)          |
+| America(the US)   | American         | Washington(华盛顿)    |
+| South Africa 南非 | South African    |                       |
+| India 印度        | Indian           |                       |
+| Sweden            | Swedish          |                       |
+| Norway            | Norwegian        |                       |
 
 
 
@@ -277,18 +277,6 @@ He doesn't have any brothers.
 
 
 
-#### 在in, from, to, for 和 with这样的介词之后用宾格。
-
-```
-I have a question for him.      
-我有个问题要问他。
-
-She is very friendly to me.
-她对我很友好。
-```
-
-
-
 ### 常见语法
 
 ```
@@ -297,6 +285,7 @@ prefer to do sth.更喜欢，倾向于
 would rather do sth.更喜欢
 
 # 通过词组表达量词
+a bowl of soup
 a pair of shoes
 a packet of meat
 a basket of vegetables
@@ -326,14 +315,17 @@ How many students are there?
 
 #### 吃
 
-| 吃              |                      |               |               |                 |
-| --------------- | -------------------- | ------------- | ------------- | --------------- |
-| rice 米饭       | street food 街头小吃 | noodle 面条   |               |                 |
-| mutton 羊肉     | beef 牛肉            | chicken 鸡肉  | prok 猪肉     | bacon 咸肉 腊肉 |
-| seafood 海鲜    | prawns / shrimp 虾   | octopus 章鱼  | salmon 三文鱼 | tuna 金枪鱼     |
-| vegetables 蔬菜 | carrot 胡萝卜        | tomato 西红柿 | potato 马铃薯 |                 |
-| mushrooms 蘑菇  | grape 葡萄           | orange 橘子   | banana 香蕉   |                 |
-| salt 盐         | Oil 油               |               |               |                 |
+| 吃                    |                      |                  |               |                 |
+| --------------------- | -------------------- | ---------------- | ------------- | --------------- |
+| rice 米饭             | street food 街头小吃 | noodle 面条      |               |                 |
+| mutton 羊肉           | beef 牛肉            | chicken 鸡肉     | pork 猪肉     | bacon 咸肉      |
+| seafood 海鲜          | prawn / shrimp 虾    | octopus 章鱼     | salmon 三文鱼 | tuna 金枪鱼     |
+| vegetables 蔬菜       | carrot 胡萝卜        | tomato 西红柿    | potato 马铃薯 |                 |
+| mushrooms 蘑菇        | grape 葡萄           | orange 橘子      | banana 香蕉   |                 |
+| salt 盐               | Oil 油               | hamburger 汉堡   | fries 炸薯条  | sandwich 三明治 |
+| dessert 甜点          | chocolate 巧克力     | ice cream 冰淇淋 | cheese 奶酪   | pasta 意大利面  |
+| french fries 薯条     | fried chicken 炸鸡   | pizza 披萨       | fruit 水果    | bread 面包      |
+| dairy products 奶制品 | grains 谷物          | Lemons 柠檬      |               |                 |
 
 
 
@@ -343,7 +335,7 @@ How many students are there?
 | ----------------- | ----------------------- | ------------------ | ------- |
 | tea 茶            | milk 牛奶               | tea with milk 奶茶 | wine 酒 |
 | orange juice 橙汁 | watermelon juice 西瓜汁 | cola 可乐          | soup 汤 |
-|                   |                         |                    |         |
+| yogurt 酸奶       |                         |                    |         |
 
 
 
@@ -375,10 +367,10 @@ How many students are there?
 | 职位                     |                    |                  |                    |
 | ------------------------ | ------------------ | ---------------- | ------------------ |
 | nurse 护士               | doctor 医生        | secretary 秘书   | artist 艺术家      |
-| sales assistant 销售助理 | firefighter 消防员 | businessman 商人 | architect 建筑师   |
+| sales assistant 销售助理 | firefighter 消防员 | businessman 商人 | architect建筑师    |
 | policeman 警察           | policewoman 女警察 | postman 邮递员   | milkman 送牛奶的人 |
 | taxi driver 出租车司机   | air hostess 空姐   | mechanic 机械师  | hairdresser 理发师 |
-| housewife 家庭妇女       | hostess 女主人     |                  |                    |
+| housewife 家庭妇女       | hostess 女主人     | officer 军官     | tourist 旅游者     |
 
 
 
@@ -389,7 +381,7 @@ How many students are there?
 | Cancel 取消，返回     | Time Capsule 时间胶囊 | Contacts 联系人     | Moments 瞬间      |
 | Favorites 收藏 喜爱   | Wallet 钱包           | Balance 余额 平衡   | Amount 总计 总和  |
 | Pay Merchant 支付商人 | Receive 接受 收到     | Split Bill 清单列表 | Transactions 交易 |
-| Subscriptions 订阅    |                       |                     |                   |
+| Subscriptions 订阅    | cost 费用             |                     |                   |
 |                       |                       |                     |                   |
 |                       |                       |                     |                   |
 |                       |                       |                     |                   |
@@ -402,7 +394,7 @@ How many students are there?
 | 其他            |                 |                 |                     |
 | --------------- | --------------- | --------------- | ------------------- |
 | academic 学术上 | confidence 信心 | vocabulary 词汇 | pronounce 发音 宣判 |
-| percent 百分比  | describe 描述   |                 |                     |
+| percent 百分比  | describe 描述   | perhaps 大概    |                     |
 |                 |                 |                 |                     |
 |                 |                 |                 |                     |
 
@@ -412,16 +404,23 @@ How many students are there?
 
 #### 形容词
 
-| 形容词             |                     |                     |                |
-| ------------------ | ------------------- | ------------------- | -------------- |
-| east 东方的        | west 西方的         | north 北方的        | south 南方的   |
-| brown 棕色的       | blond 金色的        | funny 好笑的        | serious 严肃的 |
-| intelligent 机智的 | stupid 愚蠢的       | hardworking 勤勉的  | lazy 懒惰的    |
-| friendly 友好的    | unfriendly 不友善的 | exciting 激动人心的 | boring 无聊的  |
-| beautiful 美丽的   | ugly 丑陋的         | wonderful 完美的    | terribe 糟糕的 |
-| busy 忙碌的        | free 空闲的         | expensive 贵的      | cheap 便宜的   |
-| boiling 滚烫的     | ice 冰冷的          | crowded 拥挤的      | lovely 可爱的  |
-| positive 积极的    | negative 消极的     |                     |                |
+| 形容词             |                     |                     |                         |
+| ------------------ | ------------------- | ------------------- | ----------------------- |
+| east 东方的        | west 西方的         | north 北方的        | south 南方的            |
+| brown 棕色的       | blond 金色的        | funny 好笑的        | serious 严肃的          |
+| intelligent 机智的 | stupid 愚蠢的       | hardworking 勤勉的  | lazy 懒惰的             |
+| friendly 友好的    | unfriendly 不友善的 | exciting 激动人心的 | boring 无聊的           |
+| beautiful 美丽的   | ugly 丑陋的         | wonderful 完美的    | terribe 糟糕的          |
+| busy 忙碌的        | free 空闲的         | expensive 贵的      | cheap 便宜的            |
+| boiling 滚烫的     | ice 冰冷的          | crowded 拥挤的      | lovely 可爱的           |
+| positive 积极的    | negative 消极的     | borrible 可怕的     | seriously 认真的 严肃的 |
+| hungry 饥饿的      | angry 生气的        | spicy 辛辣的        | sour 酸的               |
+| sweet 甜的         | fresh 新鲜的        | delicious 美味的    | awful 可怕的            |
+| tastes 味道        | roast 烧、烤        | fried 煎、炸、炒    |                         |
+| modern 现代的      | old 老的            | safe 安全           | dangerous 危险的        |
+| streeful 压抑的    | relaxing 轻松的     | quite 安静的        | noisy 吵闹的            |
+|                    |                     |                     |                         |
+|                    |                     |                     |                         |
 
 
 
