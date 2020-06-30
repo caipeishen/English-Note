@@ -394,7 +394,7 @@ How many students are there?
 | 其他            |                 |                 |                     |
 | --------------- | --------------- | --------------- | ------------------- |
 | academic 学术上 | confidence 信心 | vocabulary 词汇 | pronounce 发音 宣判 |
-| percent 百分比  | describe 描述   | perhaps 大概    |                     |
+| percent 百分比  | describe 描述   | perhaps 大概    | matter 事情         |
 |                 |                 |                 |                     |
 |                 |                 |                 |                     |
 
@@ -419,8 +419,8 @@ How many students are there?
 | tastes 味道        | roast 烧、烤        | fried 煎、炸、炒    |                         |
 | modern 现代的      | old 老的            | safe 安全           | dangerous 危险的        |
 | streeful 压抑的    | relaxing 轻松的     | quite 安静的        | noisy 吵闹的            |
-|                    |                     |                     |                         |
-|                    |                     |                     |                         |
+| light 轻的 光      | heavy 重的          | open 打开           | shut 关着               |
+| thin 瘦的          | fat 胖的            | tired 疲惫的        | thirsty 渴的            |
 
 
 
