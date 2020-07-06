@@ -241,6 +241,17 @@ I play basketball with my friends on the weekend.
 
 ### 每日语法
 
+#### Be动词 助动词
+
+```
+what do you do what is your job
+那么这里选用do和is有什么根据呢？
+第一句里面，第二个do是指你做什么，也就是你的工作，就是一个实义动词。按中文说，what you do已经足够了。可是英语里面就不行，必须跟一个助动词，也就是do.
+这里就有了一个结论：当句子中有动词时，我们就用助动词do或是does.如果没有动词时，我们就选用is或是are，也就是b“Be”除了原形的“be”之外，还有另外七种形式：am, is, are, been, being, was, were.
+```
+
+
+
 #### 名词复数
 
 ```
@@ -341,24 +352,27 @@ How many students are there?
 
 #### 物品
 
-| 物品                      |               |                  |                        |
-| ------------------------- | ------------- | ---------------- | ---------------------- |
-| clothes 衣服              | elevator 电梯 | kitchen 厨房     | coffee machine 咖啡机  |
-| monitor	监视器、显示器 | umbrella 雨伞 | dispenser 贩卖机 | water dispenser 饮水机 |
-| carpet 地毯               | case 箱子     | blouse 女衬衫    | bottle 瓶子            |
-|                           |               |                  |                        |
-|                           |               |                  |                        |
+| 物品                         |                   |                    |                        |
+| ---------------------------- | ----------------- | ------------------ | ---------------------- |
+| clothes 衣服                 | elevator 电梯     | television 电视    | coffee machine 咖啡机  |
+| monitor	监视器、显示器    | umbrella 雨伞     | dispenser 贩卖机   | water dispenser 饮水机 |
+| carpet 地毯                  | case 箱子         | blouse 女衬衫      | dressing table 梳妆台  |
+| cotton 棉质                  | wool 羊毛         | polyester 聚酯纤维 | plate 盘子             |
+| cup 被子                     | glass 玻璃杯      | bottle 瓶子        | tin 罐 罐头            |
+| knife 刀子；匕首             | fork 叉子         | spoon 勺子         | cupboard 橱柜          |
+| sharp 急剧的；锋利的；强烈的 | blunt 钝的 生硬的 | box 盒子 箱子      | case 行李箱 包装箱     |
+| sigarette 香烟               | magazine 杂志     | newsparper 报纸    | stereo 立体的          |
 
 
 
 #### 地方
 
-| 地方                  |                           |                    |                   |
-| --------------------- | ------------------------- | ------------------ | ----------------- |
-| museum 博物馆         | restaurant 餐馆           | company 公司       | upstairs 楼上     |
-| cotton 棉质           | wool 羊毛                 | polyester 聚酯纤维 | mall 大型购物中心 |
-| clothing store 服装店 | department store 百货商店 |                    |                   |
-|                       |                           |                    |                   |
+| 地方                  |                           |              |                   |
+| --------------------- | ------------------------- | ------------ | ----------------- |
+| museum 博物馆         | restaurant 餐馆           | company 公司 | upstairs 楼上     |
+|                       |                           |              | mall 大型购物中心 |
+| clothing store 服装店 | department store 百货商店 | kitchen 厨房 |                   |
+|                       |                           |              |                   |
 
 
 
