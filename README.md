@@ -26,15 +26,28 @@
 
 ### 常见数字
 
-| 数字      |          |            |         |         |      |      |       |       |      |      |
+| 基数词    |          |            |         |         |      |      |       |       |      |      |
 | --------- | -------- | ---------- | ------- | ------- | ---- | ---- | ----- | ----- | ---- | ---- |
 | 1-10      | one      | two        | three   | four    | five | six  | seven | eight | nine | ten  |
 | 11-12     | eleven   | twelve     |         |         |      |      |       |       |      |      |
 | 13-16     | thirteen | fourteen   | fifteen | sixteen |      |      |       |       |      |      |
 | 20-21     | twenty   | twenty-one |         |         |      |      |       |       |      |      |
 | 3 4 5 [0] | thirty   | forty      | fifty   | sixty   |      |      |       |       |      |      |
-| 百    千  | hundred  | thousand   |         |         |      |      |       |       |      |      |
+| 百 千 万  | hundred  | thousand   | million |         |      |      |       |       |      |      |
 | 拼数字    | double   | triple     |         |         |      |      |       |       |      |      |
+
+
+
+| **序数**词 |            | 多以th结尾       |                   |                  |       |       |         |        |       |       |
+| ---------- | ---------- | ---------------- | ----------------- | ---------------- | ----- | ----- | ------- | ------ | ----- | ----- |
+| 1-10       | first      | second           | third             | fourth           | fifth | sixth | seventh | eighth | ninth | tenth |
+| 11-12      | eleventh   | twelfth          |                   |                  |       |       |         |        |       |       |
+| 13-16      | thirteenth | fourteenth       | fifteenth         | sixteenth        |       |       |         |        |       |       |
+| 20-21      | twentieth  | **twenty-first** | **twenty-second** | **twenty-third** |       |       |         |        |       |       |
+| 3 4        | thirtieth  | fortieth         | fiftieth          | sixtieth         |       |       |         |        |       |       |
+| 其他       | hundredth  | thousandth       | millionth         |                  |       |       |         |        |       |       |
+
+ 
 
 
 
@@ -362,6 +375,7 @@ How many students are there?
 | knife 刀子；匕首             | fork 叉子         | spoon 勺子         | cupboard 橱柜          |
 | sharp 急剧的；锋利的；强烈的 | blunt 钝的 生硬的 | box 盒子 箱子      | case 行李箱 包装箱     |
 | sigarette 香烟               | magazine 杂志     | newsparper 报纸    | stereo 立体的          |
+| wardrobe 衣柜                |                   |                    |                        |
 
 
 
@@ -370,7 +384,7 @@ How many students are there?
 | 地方                  |                           |              |                   |
 | --------------------- | ------------------------- | ------------ | ----------------- |
 | museum 博物馆         | restaurant 餐馆           | company 公司 | upstairs 楼上     |
-|                       |                           |              | mall 大型购物中心 |
+| apartment 公寓        |                           |              | mall 大型购物中心 |
 | clothing store 服装店 | department store 百货商店 | kitchen 厨房 |                   |
 |                       |                           |              |                   |
 
