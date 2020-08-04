@@ -100,6 +100,33 @@
 
 
 
+> 元音划分法
+
+|      |      |      |      |
+| ---- | ---- | ---- | ---- |
+|      | r    | y    | w    |
+| a    | ar   | ay   | aw   |
+| e    | er   | ey   | ew   |
+| i    | ir   | /    | /    |
+| o    | or   | oy   | ow   |
+| u    | ur   | buy  | /    |
+
+
+
+> 开音节(long-vowel)	闭音节(short-vowel) 
+
+| 开音节(long-vowel) | 元 + 辅 + e |      | short-vowel | 元 + 辅 |
+| ------------------ | ----------- | ---- | ----------- | ------- |
+| a                  | make/pale   |      | /æ/         | pal     |
+| e                  | these/theme |      | /e/         | them    |
+| i                  | kite/like   |      | /r/         | lick    |
+| o                  | rope/hope   |      | /ɒ/         | hop     |
+| u                  | mute/cute   |      | /ʌ/         | cut     |
+
+
+
+
+
 ### 语句时态
 
 ####  **一般现在时的陈述句** 
@@ -278,25 +305,37 @@ what do you do what is your job
 
 
 
-#### 三单形式
+#### to do / doing
 
 ```
-1.当主语为第三人称he she it的时候 一般情况下后面接的动词要加S或者es
+出生 —— to do （不定态）
+存续 —— doing （进行态 ）
+死亡 —— done （完成态）
+我们知道 to do 和 doing 是动词的两个不同的发展阶段，to do 表示还未发生，而doing表示正在发生
+所以凡是需要表示还未发生的那么就接动词 to do， 凡是已经发生，或者正在发生的，那么就用动词doing
 
-He lives in BeiJing.
-他住在北京
-
-he has two sisters.
-他有两个姐妹
+I like playing basketball. 我喜欢打篮球
+I like to play basketball today. 我今天想打篮球
+```
 
 
-2.动词  为否定时，不得使用单数形式
 
-He doesn't live in BeiJing.
-他没有住在北京
+#### 动名词做主语
 
-He doesn't have any brothers.
-他没有兄弟
+> 动名词是由动词 -ing 形式构成的名词。
+
+```
+She loves swimming.            	她爱游泳
+I like cooking for my family.	我喜欢为我的家人做饭
+He enjoys playing soccer.	他喜欢踢足球
+```
+
+> 与其他名词一样，动名词也可作句子主语。
+
+```
+Swimming is her favorite activity.  	游泳是她最爱的活动
+Playing soccer is good exercise.		踢足球是一种很好的锻炼
+Cooking for my family is a lot of fun.	为我的家人做饭充满趣味
 ```
 
 
@@ -390,18 +429,6 @@ How many students are there?
 
 
 
-#### 职位
-
-| 职位                     |                    |                  |                    |
-| ------------------------ | ------------------ | ---------------- | ------------------ |
-| nurse 护士               | doctor 医生        | secretary 秘书   | artist 艺术家      |
-| sales assistant 销售助理 | firefighter 消防员 | businessman 商人 | architect建筑师    |
-| policeman 警察           | policewoman 女警察 | postman 邮递员   | milkman 送牛奶的人 |
-| taxi driver 出租车司机   | air hostess 空姐   | mechanic 机械师  | hairdresser 理发师 |
-| housewife 家庭妇女       | hostess 女主人     | officer 军官     | tourist 旅游者     |
-
-
-
 #### 软件
 
 | 软件                  |                       |                     |                   |
@@ -449,6 +476,81 @@ How many students are there?
 | streeful 压抑的    | relaxing 轻松的     | quite 安静的        | noisy 吵闹的            |
 | light 轻的 光      | heavy 重的          | open 打开           | shut 关着               |
 | thin 瘦的          | fat 胖的            | tired 疲惫的        | thirsty 渴的            |
+
+
+
+### EF English Online
+
+
+
+
+
+### EF English Work Shop
+
+#### 衣服
+
+| clothes           |                     |                          |                   |
+| ----------------- | ------------------- | ------------------------ | ----------------- |
+| dress 连衣裙      | skirt 短裙          | shirt 男衬衫             | blouse 女衬衫     |
+| pants 长裤(Ame)   | trousers 长裤(Brit) | jeans 牛仔裤             | jacket 夹克       |
+| shoes 鞋子        | boots 靴子          | sport shoes 运动鞋(Brit) | sneakers(Ame)     |
+| high-heels 高跟鞋 | socks 袜子          | stocking 长筒袜          | sunglasses 太阳镜 |
+| scarf 围脖        | tie 领带            | belt 腰带                | stripes 条纹      |
+| hat 圆帽子        | cap 鸭舌帽          | coat 外套                | down coat 羽绒服  |
+| light 浅 光       | dark 深 黑暗        |                          |                   |
+| small 小          | medium 中等         | large 大                 | extra large 超大  |
+
+
+
+#### 职业
+
+| profession               |                          |                        |                          |
+| ------------------------ | ------------------------ | ---------------------- | ------------------------ |
+| nurse 护士               | doctor 医生              | secretary 秘书         | artist 艺术家            |
+| sales assistant 销售助理 | firefighter 消防员       | businessman 商人       | architect建筑师          |
+| police man 警察          | policewoman 女警察       | postman 邮递员         | milkman 送牛奶的人       |
+| taxi driver 出租车司机   | air hostess 空姐         | mechanic 机械师        | hairdresser 理发师       |
+| housewife 家庭妇女       | hostess 女主人           | officer 军官           | tourist 旅游者           |
+| instructor 教练 讲师     | shop assistant 售货员    | hair dresser 理发师    | receptionist 前台        |
+| engineer 工程师          | mechanic 机械师          | cook 厨师 / chef  大厨 | accountant 会计          |
+| bar tender 调酒师        | designer 设计师          | doctor 医生            | nurse 护士               |
+| policeman 男警察(Brit）  | police officer 警察(Ame) | secretary 秘书         | sales assistant 销售助手 |
+| firefighter 消防员       | delivery man 快递员      | lawyer 律师            | architect 建筑师         |
+| editor 编辑              | artist 艺术家            |                        |                          |
+
+
+
+> 语句
+
+```
+where do you work?
+
+what's the name of your company?
+
+what time do you get to work?
+
+what are your duities?(职责)
+
+talk about requirements 讨论需求
+```
+
+
+
+
+
+#### 运动
+
+| sports           |             |              |               |
+| ---------------- | ----------- | ------------ | ------------- |
+| badminton 羽毛球 | tennis 网球 | surfing 冲浪 | swimming 游泳 |
+|                  |             |              |               |
+|                  |             |              |               |
+|                  |             |              |               |
+|                  |             |              |               |
+|                  |             |              |               |
+|                  |             |              |               |
+|                  |             |              |               |
+|                  |             |              |               |
 
 
 
