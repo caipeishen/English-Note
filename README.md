@@ -1,3 +1,22 @@
+### 词性
+
+| 词性                                                         |      |
+| ------------------------------------------------------------ | ---- |
+| 名词，Nouns (n.)  表示人或事物的名称 box,pen,tree,apple      |      |
+| 代词，Pronouns (pron.) 代替名词、数词、形容词baiWe,this,them,myself |      |
+| 形容，Adjectives(adj.)  用来bai修饰名词,表示人或事物的特征 good,sad,high,short |      |
+| 数词，Numerals(num.) 表示数目或顺序 one,two,first            |      |
+| 动词，Verb (v.)  表示动作或状态 Jump,sing,visit              |      |
+| 副词，Adverbs（adv.)  修饰动、形、副等词,表示动作特征 quickly,widely,suddenly |      |
+| 冠词，Articles (art.)  用在名词前,帮助说明名词所指的范围 a,an,the |      |
+| 介词，Prepositions (prep.)  用在名词或代词前,说明它与别的词的关系 in,on,down,up |      |
+| 连词，Conjunctions (conj.)  表示人或事物的名称if,because,but |      |
+| 感叹，Interjections (int.) 代替名词、数词、形容词等 oh,hello,hi,yeah |      |
+| 及物动词，(vt.)后必须跟宾语：sing a song                     |      |
+| 不及物动词，(vi.)后不直接带宾语或不带宾语：jump high         |      |
+
+
+
 ### 人称代词
 
 | 人称代词     | 主格      | 宾格       | 形容词性物主代词 | 名词应物主代 | 反身代词               |
@@ -210,20 +229,6 @@ Is he wearing a beautiful shirt?	他是不是身穿一件漂亮的衬衫？
 
 
 
-> 将**what** 或 **where**这样的疑问词置于句首构成特殊疑问句。 
-
-```
-陈述句	 	 		
-You are going home.	您要回家了。	
-She is wearing a blue dress.	她身穿一条蓝色连衣裙。
-
-带疑问词的疑问句
-Where are you going?	您去哪？
-What is she wearing?	她穿什么？
-```
-
-
-
 > 用短语how much 询问价格。动词cost指价格。用it's 或 it costs 出价。
 
 ```
@@ -425,7 +430,7 @@ How many students are there?
 | museum 博物馆         | restaurant 餐馆           | company 公司 | upstairs 楼上     |
 | apartment 公寓        |                           |              | mall 大型购物中心 |
 | clothing store 服装店 | department store 百货商店 | kitchen 厨房 |                   |
-|                       |                           |              |                   |
+| neighborhood 街坊     |                           |              |                   |
 
 
 
@@ -450,7 +455,7 @@ How many students are there?
 | --------------- | --------------- | --------------- | ------------------- |
 | academic 学术上 | confidence 信心 | vocabulary 词汇 | pronounce 发音 宣判 |
 | percent 百分比  | describe 描述   | perhaps 大概    | matter 事情         |
-|                 |                 |                 |                     |
+| correct 正确    | mistake 错误    |                 |                     |
 |                 |                 |                 |                     |
 
 
@@ -459,27 +464,98 @@ How many students are there?
 
 #### 形容词
 
-| 形容词             |                     |                     |                         |
-| ------------------ | ------------------- | ------------------- | ----------------------- |
-| east 东方的        | west 西方的         | north 北方的        | south 南方的            |
-| brown 棕色的       | blond 金色的        | funny 好笑的        | serious 严肃的          |
-| intelligent 机智的 | stupid 愚蠢的       | hardworking 勤勉的  | lazy 懒惰的             |
-| friendly 友好的    | unfriendly 不友善的 | exciting 激动人心的 | boring 无聊的           |
-| beautiful 美丽的   | ugly 丑陋的         | wonderful 完美的    | terribe 糟糕的          |
-| busy 忙碌的        | free 空闲的         | expensive 贵的      | cheap 便宜的            |
-| boiling 滚烫的     | ice 冰冷的          | crowded 拥挤的      | lovely 可爱的           |
-| positive 积极的    | negative 消极的     | borrible 可怕的     | seriously 认真的 严肃的 |
-| hungry 饥饿的      | angry 生气的        | spicy 辛辣的        | sour 酸的               |
-| sweet 甜的         | fresh 新鲜的        | delicious 美味的    | awful 可怕的            |
-| tastes 味道        | roast 烧、烤        | fried 煎、炸、炒    |                         |
-| modern 现代的      | old 老的            | safe 安全           | dangerous 危险的        |
-| streeful 压抑的    | relaxing 轻松的     | quite 安静的        | noisy 吵闹的            |
-| light 轻的 光      | heavy 重的          | open 打开           | shut 关着               |
-| thin 瘦的          | fat 胖的            | tired 疲惫的        | thirsty 渴的            |
+| 形容词             |                     |                         |                           |
+| ------------------ | ------------------- | ----------------------- | ------------------------- |
+| east 东方的        | west 西方的         | north 北方的            | south 南方的              |
+| brown 棕色的       | blond 金色的        | funny 好笑的            | serious 严肃的            |
+| intelligent 机智的 | stupid 愚蠢的       | hardworking 勤勉的      | lazy 懒惰的               |
+| friendly 友好的    | unfriendly 不友善的 | exciting 激动人心的     | boring 无聊的             |
+| beautiful 美丽的   | ugly 丑陋的         | wonderful 完美的        | terribe 糟糕的            |
+| busy 忙碌的        | free 空闲的         | expensive 贵的          | cheap 便宜的              |
+| boiling 滚烫的     | ice 冰冷的          | crowded 拥挤的          | lovely 可爱的             |
+| positive 积极的    | negative 消极的     | borrible 可怕的         | seriously 认真的 严肃的   |
+| hungry 饥饿的      | angry 生气的        | spicy 辛辣的            | sour 酸的                 |
+| sweet 甜的         | fresh 新鲜的        | delicious 美味的        | awful 可怕的              |
+| tastes 味道        | roast 烧、烤        | fried 煎、炸、炒        | complicated 难懂的 复杂的 |
+| modern 现代的      | old 老的            | safe 安全               | dangerous 危险的          |
+| streeful 压抑的    | relaxing 轻松的     | quite 安静的            | noisy 吵闹的              |
+| light 轻的 光      | heavy 重的          | open 打开               | shut 关着                 |
+| thin 瘦的          | fat 胖的            | tired 疲惫的            | thirsty 渴的              |
+| excellent 极好的   | expensive 贵的      | pretty 非常 漂亮 可爱的 |                           |
 
 
 
 ### EF English Online
+
+#### 二级
+
+
+
+##### 地方和交通
+
+```
+公交车通常用数字（number）表示。地铁和火车通常用线路（line）表示。线路可以用名字或者数字表示。
+Take the number 17 bus to the subway station.	
+坐 17 路公交车去地铁站。
+
+You should take the subway.
+您应该坐地铁。
+
+Take line 3. /Get on line 3.
+坐 3 号线。
+
+Change at the university to Line 2.
+在大学换2号线。
+
+Change from the red to the blue line.
+从红线换到蓝线。
+
+Get off at Pine Street.
+在 Pine 街下车。
+
+How long does it take by bus?   	
+坐公交车需要多久呢？
+
+It takes about 30 minutes.	
+需要三十分钟
+```
+
+
+
+##### 方位
+
+```
+使用 next to 表示某场所与另一场所相邻。
+The library is next to the playground.	图书馆在操场旁边。
+
+使用on the corner 表示在街角
+There's a good place for coffee on the corner.	在街角有家喝咖啡的好店。
+
+使用 on the corner of + 两条街道的名称表示两条街道交汇的地方。
+The bank is on the corner of Pine Street and First Street.	银行在 Pine 街和 First 街街口。
+
+使用 in front of 表示某场所位于另一场所的前方
+The bus stop is in front of the supermarket.	公交车站在超市前面。
+
+使用 between + 两个场所的名称表示某场所在这两个场所之间。
+The post office is between the restaurant and the movie theater.	邮局在餐厅和电影院之间。
+
+使用 behind 表示某场所在另一场所的后面。
+The pizza place is behind the library.	比萨店在图书馆后面。
+
+使用 across the street 表示某场所在街对面，across the street from 则表示某场所与另一场所隔街对望。
+The bookstore is across the street.	书店在街对面。
+The bookstore is across the street from the restaurant.	书店与餐厅隔街对望。
+```
+
+
+
+##### 方向
+
+```
+Go straight.
+直走
+```
 
 
 
