@@ -128,7 +128,7 @@
 | e    | er   | ey   | ew   |
 | i    | ir   | /    | /    |
 | o    | or   | oy   | ow   |
-| u    | ur   | buy  | /    |
+| u    | ur   | uy   | /    |
 
 
 
@@ -280,6 +280,19 @@ What company do you work for?
 
 
 I play basketball with my friends on the weekend. 
+
+I have never been there before.
+I have been to both of them.
+
+疑问句做并于从句时，使用陈述句式
+I don't know who he is.
+Do you know where the bank is?
+
+
+介词后接名词或动名词 (verb + -ing)。
+What about a game of cards?    	玩牌怎么样？
+How about watching a movie?	看电影怎么样？
+
 ```
 
 
@@ -371,6 +384,11 @@ How many students are there?
 #在how many的问句中，名词总是复数的。
 #注意一些名词，如people这样的词，是不规则的复数，词尾不需要加s。 
 
+be good at doing sth. 擅长某事
+I am good at playing tennis.
+Are you good at playing table tennis?
+
+How much time do you spend on playing basketball in a day?
 ```
 
 
@@ -428,9 +446,9 @@ How many students are there?
 | 地方                  |                           |              |                   |
 | --------------------- | ------------------------- | ------------ | ----------------- |
 | museum 博物馆         | restaurant 餐馆           | company 公司 | upstairs 楼上     |
-| apartment 公寓        |                           |              | mall 大型购物中心 |
+| apartment 公寓        | neighborhood 街坊         |              | mall 大型购物中心 |
 | clothing store 服装店 | department store 百货商店 | kitchen 厨房 |                   |
-| neighborhood 街坊     |                           |              |                   |
+|                       |                           |              |                   |
 
 
 
@@ -487,11 +505,9 @@ How many students are there?
 
 ### EF English Online
 
-#### 二级
 
 
-
-##### 地方和交通
+#### 地方和交通
 
 ```
 公交车通常用数字（number）表示。地铁和火车通常用线路（line）表示。线路可以用名字或者数字表示。
@@ -510,6 +526,9 @@ Change at the university to Line 2.
 Change from the red to the blue line.
 从红线换到蓝线。
 
+Get on at Hong mei Street.
+在 Pine 街下车。
+
 Get off at Pine Street.
 在 Pine 街下车。
 
@@ -522,7 +541,7 @@ It takes about 30 minutes.
 
 
 
-##### 方位
+#### 方位
 
 ```
 使用 next to 表示某场所与另一场所相邻。
@@ -550,7 +569,7 @@ The bookstore is across the street from the restaurant.	书店与餐厅隔街对
 
 
 
-##### 方向
+#### 方向
 
 ```
 Go straight.
@@ -627,6 +646,108 @@ talk about requirements 讨论需求
 |                  |             |              |               |
 |                  |             |              |               |
 |                  |             |              |               |
+
+
+
+#### Giving your address
+
+```
+apartment 公寓
+village 村庄
+town 镇
+
+district 区
+avenue 大道
+street 街道
+Community 小区
+building noe 一号楼
+unit 单元
+
+从小到大～假如地址是北京市朝阳区建国门大街23号楼302室，可以写成：
+#Room 302，Building 23 Jianguomen Avenue, Chaoyang District, Beijing, 100000
+
+conversation
+
+-----------------------------------------------------------------------------------------
+Are you coming to my party this Friday? 你这周五来参加我的派对么？
+
+Sure! What’s your address? 好啊！你住哪？
+
+It’s 758 Beach Road. 海滩路758号。
+
+What’s your apartment number? 你公寓号多少？／ 你住在几号公寓？
+
+It’s number 15. 15号。
+
+Which floor is it on？ 在几层？
+
+It’s on the seventh floor. 7层。
+
+Great！See you on Friday. 好的，周五见。
+
+Super, see you. 太棒了，再见。
+------
+What’s your apartment number? 你住几号？
+Which unit is your apartment in? 几单元？
+-----------------------------------------------------------------------------------------
+```
+
+
+
+#### Inviting somebody to do something together. 
+
+```
+Inviting your colleague to do something together. 
+邀请你同事做某事
+
+Do you spend any free time whit your colleagues? 
+你会花费一些空闲的时间和你同事一起吗？
+
+Yes,I do, I always eat out with my colleagues.
+是的我会，我总是和同事一起出去吃饭.
+
+conversation
+
+-----------------------------------------------------------------------------------------
+Hi, Matt! How are you?
+
+Great, thanks! Oh, John, do you play soccer? We play on the weekend.
+
+Well, no, I don’t play soccer, but I play tennis. Do you play tennis?
+
+Yes, I do, but I’m not very good.
+
+No problem. I play on Wednesday evenings. Can you make it?
+
+Yes, I can! Sounds good!
+
+------
+What do you like to do in your free time?
+I like to cook and play computer games in my free time.
+------
+When would you like to meet?
+When do you have free time?
+Do you have free time on the weekend?
+I am free on Sunday afternoon.
+------
+How often do you play basketball/do yoga in a week?
+How much time do you spend on playing basketball in a day?
+-----------------------------------------------------------------------------------------
+
+Can you make it? 你能来吗？
+
+be good at doing something. 在某方面擅长
+Are you good at playing basketball?
+
+Can we go shopping together? 
+我们可以一起去购物吗？|can后面跟动词原形(go)，shopping做的动名词|
+
+
+```
+
+
+
+
 
 
 
