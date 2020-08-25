@@ -12,8 +12,8 @@
 | 介词，Prepositions (prep.)  用在名词或代词前,说明它与别的词的关系 in,on,down,up |      |
 | 连词，Conjunctions (conj.)  表示人或事物的名称if,because,but |      |
 | 感叹，Interjections (int.) 代替名词、数词、形容词等 oh,hello,hi,yeah |      |
-| 及物动词，(vt.)后必须跟宾语：sing a song                     |      |
-| 不及物动词，(vi.)后不直接带宾语或不带宾语：jump high         |      |
+| 及物动词，(vt.)后必须跟宾语，才能表达完整的语义：sing a song |      |
+| 不及物动词，(vi.)后不直接带宾语或不带宾语，也能表达具体语义：He is looking around |      |
 
 
 
