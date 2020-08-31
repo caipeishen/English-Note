@@ -358,6 +358,28 @@ Cooking for my family is a lot of fun.	为我的家人做饭充满趣味
 
 
 
+#### 表达频率
+
+> 你可以使用频率副词表达你多久做某事一次。频率副词程度不一，有从表示最高频率的 **always** 到表示某事从未发生的 **never**。
+
+|      | 100% = *always*   | 100% = 总是 |
+| ---- | ----------------- | ----------- |
+|      | 80% = *usually*   | 80% = 通常  |
+|      | 60% = *often*     | 60% = 常常  |
+|      | 40% = *sometimes* | 40% = 有时  |
+|      | 20% = rarely      | 20% = 很少  |
+|      | 0% = *never*      | 0% = 从未   |
+
+
+
+> 频率副词位于句中 **be** 动词之后，但在所有其他动词的前面。
+
+|      | A: *Are you ever late to work?* B: *No, **I'm never** late!* | 你上班迟到过吗？ 不，我从没迟到过。     |
+| ---- | ------------------------------------------------------------ | --------------------------------------- |
+|      | A: *How often do you go to the theater?* B: *I **rarely go**. It's too expensive.* | 你多久去一次电影院？ 我很少去。太贵了。 |
+
+
+
 ### 常见语法
 
 ```
@@ -700,7 +722,7 @@ Which unit is your apartment in? 几单元？
 Inviting your colleague to do something together. 
 邀请你同事做某事
 
-Do you spend any free time whit your colleagues? 
+Do you spend any free time with your colleagues? 
 你会花费一些空闲的时间和你同事一起吗？
 
 Yes,I do, I always eat out with my colleagues.
@@ -714,7 +736,7 @@ Hi, Matt! How are you?
 Great, thanks! Oh, John, do you play soccer? We play on the weekend.
 
 Well, no, I don’t play soccer, but I play tennis. Do you play tennis?
-
+。
 Yes, I do, but I’m not very good.
 
 No problem. I play on Wednesday evenings. Can you make it?
