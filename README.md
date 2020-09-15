@@ -12,22 +12,22 @@
 | 介词，Prepositions (prep.)  用在名词或代词前,说明它与别的词的关系 in,on,down,up |      |
 | 连词，Conjunctions (conj.)  表示人或事物的名称if,because,but |      |
 | 感叹，Interjections (int.) 代替名词、数词、形容词等 oh,hello,hi,yeah |      |
-| 及物动词，(vt.)后必须跟宾语，才能表达完整的语义：sing a song |      |
-| 不及物动词，(vi.)后不直接带宾语或不带宾语，也能表达具体语义：He is looking around |      |
+| 及物动词，(vt.)后直接加宾语，不能单独使用：I reach shanghai.而不能说I reach.或I reach +prep.+shanghai. |      |
+| 不及物动词，(vi.)后不能直接加宾语,句子到此为止,如要加宾语需要用介词，例I arrive. /I arrive in shanghai. 而不能说I arrive shanghai. |      |
 
 
 
 ### 人称代词
 
-| 人称代词     | 主格      | 宾格       | 形容词性物主代词 | 名词应物主代 | 反身代词               |
-| :----------- | --------- | ---------- | ---------------- | ------------ | ---------------------- |
-| 第一人称单数 | I         | me         | my               | mine         | myself                 |
-| 第二人称单数 | you       | you        | your             | yours        | yourself               |
-| 第三人称单数 | it/he/she | it/him/her | its/his/her      | its/his/hers | itself/himself/herself |
-|              |           |            |                  |              |                        |
-| 第一人称复数 | we        | us         | our              | ours         | ourselves              |
-| 第二人称复数 | you       | you        | your             | yours        | yourselves             |
-| 第三人称复数 | they      | them       | their            | theirs       | themselves             |
+| 人称代词     | 主格      | 宾格       | 形容词性物主代词 | 名词性物主代词 | 反身代词               |
+| :----------- | --------- | ---------- | ---------------- | -------------- | ---------------------- |
+| 第一人称单数 | I         | me         | my               | mine           | myself                 |
+| 第二人称单数 | you       | you        | your             | yours          | yourself               |
+| 第三人称单数 | it/he/she | it/him/her | its/his/her      | its/his/hers   | itself/himself/herself |
+|              |           |            |                  |                |                        |
+| 第一人称复数 | we        | us         | our              | ours           | ourselves              |
+| 第二人称复数 | you       | you        | your             | yours          | yourselves             |
+| 第三人称复数 | they      | them       | their            | theirs         | themselves             |
 
 
 
