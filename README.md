@@ -380,6 +380,46 @@ Cooking for my family is a lot of fun.	为我的家人做饭充满趣味
 
 
 
+#### **表达持续时间** 
+
+> 使用动词 **last** 谈论某事从开始到结束的持续时间。
+
+```
+A: How long does Carnaval last?		嘉年华持续多长时间？
+B: The big events last a few days.	大规模的活动持续几天。
+```
+
+
+
+> 使用动词 **take** 谈论完成某事所需的时间。
+
+```
+A: How long does it take to walk from the hotel to the parade?从酒店来到游行现场步行需要多久？
+B: It takes a half-hour.	需要半小时。
+
+```
+
+
+
+>使用介词 **for** 表示某事持续的时间。
+
+```
+We celebrate for a week.	我们庆祝了一个星期。
+```
+
+
+
+> 使用介词 **during** 表示某事在一段时间内发生。
+
+```
+I party a lot during the summer.	夏天我参加了很多派对。              
+What do you do during Carnaval?		嘉年华你做什么？         
+```
+
+ 
+
+
+
 ### 常见语法
 
 ```
@@ -504,24 +544,32 @@ How much time do you spend on playing basketball in a day?
 
 #### 形容词
 
-| 形容词             |                     |                         |                           |
-| ------------------ | ------------------- | ----------------------- | ------------------------- |
-| east 东方的        | west 西方的         | north 北方的            | south 南方的              |
-| brown 棕色的       | blond 金色的        | funny 好笑的            | serious 严肃的            |
-| intelligent 机智的 | stupid 愚蠢的       | hardworking 勤勉的      | lazy 懒惰的               |
-| friendly 友好的    | unfriendly 不友善的 | exciting 激动人心的     | boring 无聊的             |
-| beautiful 美丽的   | ugly 丑陋的         | wonderful 完美的        | terribe 糟糕的            |
-| busy 忙碌的        | free 空闲的         | expensive 贵的          | cheap 便宜的              |
-| boiling 滚烫的     | ice 冰冷的          | crowded 拥挤的          | lovely 可爱的             |
-| positive 积极的    | negative 消极的     | borrible 可怕的         | seriously 认真的 严肃的   |
-| hungry 饥饿的      | angry 生气的        | spicy 辛辣的            | sour 酸的                 |
-| sweet 甜的         | fresh 新鲜的        | delicious 美味的        | awful 可怕的              |
-| tastes 味道        | roast 烧、烤        | fried 煎、炸、炒        | complicated 难懂的 复杂的 |
-| modern 现代的      | old 老的            | safe 安全               | dangerous 危险的          |
-| streeful 压抑的    | relaxing 轻松的     | quite 安静的            | noisy 吵闹的              |
-| light 轻的 光      | heavy 重的          | open 打开               | shut 关着                 |
-| thin 瘦的          | fat 胖的            | tired 疲惫的            | thirsty 渴的              |
-| excellent 极好的   | expensive 贵的      | pretty 非常 漂亮 可爱的 |                           |
+| 形容词                  |                     |                         |                           |
+| ----------------------- | ------------------- | ----------------------- | ------------------------- |
+| east 东方的             | west 西方的         | north 北方的            | south 南方的              |
+| brown 棕色的            | blond 金色的        | funny 好笑的            | serious 严肃的            |
+| intelligent 机智的      | stupid 愚蠢的       | hardworking 勤勉的      | lazy 懒惰的               |
+| friendly 友好的         | unfriendly 不友善的 | exciting 激动人心的     | boring 无聊的             |
+| beautiful 美丽的        | ugly 丑陋的         | wonderful 完美的        | terrible 糟糕的           |
+| busy 忙碌的             | free 空闲的         | expensive 贵的          | cheap 便宜的              |
+| boiling 滚烫的          | ice 冰冷的          | crowded 拥挤的          | lovely 可爱的             |
+| positive 积极的         | negative 消极的     | terrible 可怕的         | seriously 认真的 严肃的   |
+| hungry 饥饿的           | angry 生气的        | spicy 辛辣的            | sour 酸的                 |
+| sweet 甜的              | fresh 新鲜的        | delicious 美味的        | awful 可怕的              |
+| tastes 味道             | roast 烧、烤        | fried 煎、炸、炒        | complicated 难懂的 复杂的 |
+| modern 现代的           | old 老的            | safe 安全               | dangerous 危险的          |
+| stressful 压抑的 紧张的 | relaxing 轻松的     | quite 安静的            | noisy 吵闹的              |
+| light 轻的 光           | heavy 重的          | open 打开               | shut 关着                 |
+| thin 瘦的               | fat 胖的            | tired 疲惫的            | thirsty 渴的              |
+| excellent 极好的        | expensive 贵的      | pretty 非常 漂亮 可爱的 |                           |
+| entertaining 有趣的     | dull 乏味的         | special 特别的          | ordinary 平常的           |
+| different 不同的        | the same 相同的     | funny 有趣的            | serious 严肃的            |
+| scary 恐怖的            | not scary 不恐怖的  | colorful 多彩的         | colorless 无色的          |
+| gorgeous 华丽的         | hideous 丑陋的      | popular 流行的          | unpopular 不流行的        |
+| noisy 吵闹的            | quiet 安静的        | crowded 拥挤的          | empty 空旷的              |
+|                         |                     |                         |                           |
+|                         |                     |                         |                           |
+|                         |                     |                         |                           |
 
 
 
