@@ -10,7 +10,7 @@ scary - not scary 	恐怖的 - 不恐怖的
 不要总是使用 beautiful 或者 ugly，你可以使用类似下面这些形容词：
 colorful - colorless 	多彩的 - 无色的
 gorgeous - hideous  	华丽的 - 丑陋的
-
+	
 
 这里还有一些形容词和其相应的反义词，可用于描述假日和庆典：
 popular - unpopular 流行的 - 不流行的
@@ -19,13 +19,17 @@ crowded - empty 	拥挤的 - 空旷的
 
 
 How do you celebrate?  你们如何庆祝？
+We went out to a restaurant to celebrate. 我们到一家饭店里庆祝了一番
 
 How long does Carnaval last for? 嘉年华持续多长时间？
 
 entertaining	有趣的
-Fantastic! 		太棒了
-Definitely.		一定
-Exactly.		确实如此
+fantastic! 		太棒了 极出色的
+definitely.		明确地，肯定地
+certainly		一定
+exactly.		确实如此
+amazing		吃惊的
+incredible		不能相信的，难以置信的
 
 使用类似这样的词汇谈论会演：
 festival	会演
