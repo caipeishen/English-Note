@@ -544,32 +544,32 @@ How much time do you spend on playing basketball in a day?
 
 #### 形容词
 
-| 形容词                  |                     |                         |                           |
-| ----------------------- | ------------------- | ----------------------- | ------------------------- |
-| east 东方的             | west 西方的         | north 北方的            | south 南方的              |
-| brown 棕色的            | blond 金色的        | funny 好笑的            | serious 严肃的            |
-| intelligent 机智的      | stupid 愚蠢的       | hardworking 勤勉的      | lazy 懒惰的               |
-| friendly 友好的         | unfriendly 不友善的 | exciting 激动人心的     | boring 无聊的             |
-| beautiful 美丽的        | ugly 丑陋的         | wonderful 完美的        | terrible 糟糕的           |
-| busy 忙碌的             | free 空闲的         | expensive 贵的          | cheap 便宜的              |
-| boiling 滚烫的          | ice 冰冷的          | crowded 拥挤的          | lovely 可爱的             |
-| positive 积极的         | negative 消极的     | terrible 可怕的         | seriously 认真的 严肃的   |
-| hungry 饥饿的           | angry 生气的        | spicy 辛辣的            | sour 酸的                 |
-| sweet 甜的              | fresh 新鲜的        | delicious 美味的        | awful 可怕的              |
-| tastes 味道             | roast 烧、烤        | fried 煎、炸、炒        | complicated 难懂的 复杂的 |
-| modern 现代的           | old 老的            | safe 安全               | dangerous 危险的          |
-| stressful 压抑的 紧张的 | relaxing 轻松的     | quite 安静的            | noisy 吵闹的              |
-| light 轻的 光           | heavy 重的          | open 打开               | shut 关着                 |
-| thin 瘦的               | fat 胖的            | tired 疲惫的            | thirsty 渴的              |
-| excellent 极好的        | expensive 贵的      | pretty 非常 漂亮 可爱的 |                           |
-| entertaining 有趣的     | dull 乏味的         | special 特别的          | ordinary 平常的           |
-| different 不同的        | the same 相同的     | funny 有趣的            | serious 严肃的            |
-| scary 恐怖的            | not scary 不恐怖的  | colorful 多彩的         | colorless 无色的          |
-| gorgeous 华丽的         | hideous 丑陋的      | popular 流行的          | unpopular 不流行的        |
-| noisy 吵闹的            | quiet 安静的        | crowded 拥挤的          | empty 空旷的              |
-|                         |                     |                         |                           |
-|                         |                     |                         |                           |
-|                         |                     |                         |                           |
+| 形容词                  |                       |                         |                           |
+| ----------------------- | --------------------- | ----------------------- | ------------------------- |
+| east 东方的             | west 西方的           | north 北方的            | south 南方的              |
+| brown 棕色的            | blond 金色的          | funny 好笑的            | serious 严肃的            |
+| intelligent 机智的      | stupid 愚蠢的         | hardworking 勤勉的      | lazy 懒惰的               |
+| friendly 友好的         | unfriendly 不友善的   | exciting 激动人心的     | boring 无聊的             |
+| beautiful 美丽的        | ugly 丑陋的           | wonderful 完美的        | terrible 糟糕的           |
+| busy 忙碌的             | free 空闲的           | expensive 贵的          | cheap 便宜的              |
+| boiling 滚烫的          | ice 冰冷的            | crowded 拥挤的          | lovely 可爱的             |
+| positive 积极的         | negative 消极的       | terrible 可怕的         | seriously 认真的 严肃的   |
+| hungry 饥饿的           | angry 生气的          | spicy 辛辣的            | sour 酸的                 |
+| sweet 甜的              | fresh 新鲜的          | delicious 美味的        | awful 可怕的              |
+| tastes 味道             | roast 烧、烤          | fried 煎、炸、炒        | complicated 难懂的 复杂的 |
+| modern 现代的           | old 老的              | safe 安全               | dangerous 危险的          |
+| stressful 压抑的 紧张的 | relaxing 轻松的       | quite 安静的            | noisy 吵闹的              |
+| light 轻的 光           | heavy 重的            | open 打开               | shut 关着                 |
+| thin 瘦的               | fat 胖的              | tired 疲惫的            | thirsty 渴的              |
+| excellent 极好的        | expensive 贵的        | pretty 非常 漂亮 可爱的 |                           |
+| entertaining 有趣的     | dull 乏味的           | special 特别的          | ordinary 平常的           |
+| different 不同的        | the same 相同的       | funny 有趣的            | serious 严肃的            |
+| scary 恐怖的            | not scary 不恐怖的    | colorful 多彩的         | colorless 无色的          |
+| gorgeous 华丽的         | hideous 丑陋的        | popular 流行的          | unpopular 不流行的        |
+| noisy 吵闹的            | quiet 安静的          | crowded 拥挤的          | empty 空旷的              |
+| attractive 迷人的       | unattractive 不迷人的 | ugly 丑陋的             |                           |
+| expensive 昂贵          | inexpensive 不贵      | cheap 便宜的            |                           |
+|                         |                       |                         |                           |
 
 
 
@@ -816,6 +816,53 @@ Can we go shopping together?
 ```
 
 
+
+| 很多形容词有一个以上的反义词。这些反义词可以有相同或不同的意思。这里有一些不同形容词有相同意思的例子。 |                             |                   |
+| ------------------------------------------------------------ | --------------------------- | ----------------- |
+|                                                              | *attractive - unattractive* | 迷人的 - 不迷人的 |
+|                                                              | *attractive - ugly*         | 迷人的 - 丑陋的   |
+|                                                              | *safe - unsafe*             | 安全 - 不安全     |
+|                                                              | *safe - dangerous*          | 安全 - 危险       |
+
+| 在使用形容词**cheap**时要小心。它可以指便宜也可以形容做工差。 |                                            |                                |
+| ------------------------------------------------------------ | ------------------------------------------ | ------------------------------ |
+|                                                              | *expensive - inexpensive*                  | 昂贵 - 不贵                    |
+|                                                              | *expensive - cheap*                        | 昂贵 - 便宜                    |
+|                                                              | *That's a cheap price. Buy it!*            | (价格很便宜。买下它!)          |
+|                                                              | *That computer looks cheap. Don't buy it.* | (那台电脑看起来质量差。别买。) |
+
+
+
+## 3.5 金钱和购买
+
+> 很多形容词有一个以上的反义词。这些反义词可以有相同或不同的意思。这里有一些不同形容词有相同意思的例子。 
+
+| attractive - unattractive | 迷人的 - 不迷人的 |      |
+| ------------------------- | ----------------- | ---- |
+| attractive - ugly         | 迷人的 - 丑陋的   |      |
+| safe - unsafe             | 安全 - 不安全     |      |
+| safe - dangerous          | 安全 - 危险       |      |
+
+
+
+> 在使用形容词**cheap**时要小心。它可以指便宜也可以形容做工差。 
+
+| *expensive - inexpensive*                | 昂贵 - 不贵                    |      |
+| ---------------------------------------- | ------------------------------ | ---- |
+| expensive - cheap                        | 昂贵 - 便宜                    |      |
+| That's a cheap price. Buy it!            | (价格很便宜。买下它!)          |      |
+| That computer looks cheap. Don't buy it. | (那台电脑看起来质量差。别买。) |      |
+
+​	
+
+> 这里有一些其他描述产品的形容词。
+
+| *powerful - weak*     | 强劲的 - 柔弱的   |      |
+| --------------------- | ----------------- | ---- |
+| heavy - light         | 重 - 轻           |      |
+| reliable - unreliable | 可靠的 - 不可靠的 |      |
+| easy - difficult      | 简单 - 困难       |      |
+| fancy - plain         | 花哨的 - 朴素的   |      |
 
 
 
