@@ -837,32 +837,88 @@ Can we go shopping together?
 
 > 很多形容词有一个以上的反义词。这些反义词可以有相同或不同的意思。这里有一些不同形容词有相同意思的例子。 
 
-| attractive - unattractive | 迷人的 - 不迷人的 |      |
-| ------------------------- | ----------------- | ---- |
-| attractive - ugly         | 迷人的 - 丑陋的   |      |
-| safe - unsafe             | 安全 - 不安全     |      |
-| safe - dangerous          | 安全 - 危险       |      |
+| attractive - unattractive | 迷人的 - 不迷人的 |
+| ------------------------- | ----------------- |
+| attractive - ugly         | 迷人的 - 丑陋的   |
+| safe - unsafe             | 安全 - 不安全     |
+| safe - dangerous          | 安全 - 危险       |
 
 
 
 > 在使用形容词**cheap**时要小心。它可以指便宜也可以形容做工差。 
 
-| *expensive - inexpensive*                | 昂贵 - 不贵                    |      |
-| ---------------------------------------- | ------------------------------ | ---- |
-| expensive - cheap                        | 昂贵 - 便宜                    |      |
-| That's a cheap price. Buy it!            | (价格很便宜。买下它!)          |      |
-| That computer looks cheap. Don't buy it. | (那台电脑看起来质量差。别买。) |      |
+| *expensive - inexpensive*                | 昂贵 - 不贵                    |
+| ---------------------------------------- | ------------------------------ |
+| expensive - cheap                        | 昂贵 - 便宜                    |
+| That's a cheap price. Buy it!            | (价格很便宜。买下它!)          |
+| That computer looks cheap. Don't buy it. | (那台电脑看起来质量差。别买。) |
 
 ​	
 
 > 这里有一些其他描述产品的形容词。
 
-| *powerful - weak*     | 强劲的 - 柔弱的   |      |
-| --------------------- | ----------------- | ---- |
-| heavy - light         | 重 - 轻           |      |
-| reliable - unreliable | 可靠的 - 不可靠的 |      |
-| easy - difficult      | 简单 - 困难       |      |
-| fancy - plain         | 花哨的 - 朴素的   |      |
+| *powerful - weak*     | 强劲的 - 柔弱的   |
+| --------------------- | ----------------- |
+| heavy - light         | 重 - 轻           |
+| reliable - unreliable | 可靠的 - 不可靠的 |
+| easy - difficult      | 简单 - 困难       |
+| fancy - plain         | 花哨的 - 朴素的   |
+
+
+
+> 这有一些描述产品问题的说法: 
+
+| It's too big.              | 太大了。       |
+| -------------------------- | -------------- |
+| It doesn't fit.            | 不合适。       |
+| There's a hole in it.      | 破了个洞。     |
+| It's stained.              | 有污渍。       |
+| It's damaged.              | (损坏了。)     |
+| It doesn't work.           | (不运作了。)   |
+| It's broken.               | 坏掉了。       |
+| It's too difficult to use. | (太难使用了。) |
+| I don't like it.           | (我不喜欢。)   |
+
+
+
+### 购物退货
+
+#### 退货
+
+> 当您退货时，这里有一些有用的表达短语： 
+
+| I'd like to return these shorts.  | 我想退这条短裤。   |      |
+| --------------------------------- | ------------------ | ---- |
+| I'd like a refund, please.        | 我想申请退款。     |      |
+| I'd like to exchange  this dress. | 我想换这条连衣裙。 |      |
+
+> 客服代表会问您想要退货还是换货。 
+
+| What seems to be the problem?     | (出了什么问题呢?) |
+| --------------------------------- | ----------------- |
+| Is there something wrong with it? | (有什么问题吗?)   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
