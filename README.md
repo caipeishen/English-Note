@@ -535,7 +535,7 @@ How much time do you spend on playing basketball in a day?
 | --------------- | --------------- | --------------- | ------------------- |
 | academic 学术上 | confidence 信心 | vocabulary 词汇 | pronounce 发音 宣判 |
 | percent 百分比  | describe 描述   | perhaps 大概    | matter 事情         |
-| correct 正确    | mistake 错误    |                 |                     |
+| correct 正确    | mistake 错误    | increase 增加   | decrease 减少       |
 |                 |                 |                 |                     |
 
 
@@ -898,21 +898,30 @@ Can we go shopping together?
 | --------------------------------- | ----------------- |
 | Is there something wrong with it? | (有什么问题吗?)   |
 
+> 请给出您退货或换货的理由 
+
+| It doesn't work.                             | (不运作了。)                   |
+| -------------------------------------------- | ------------------------------ |
+| It doesn't fit.                              | (不合适。)                     |
+| There's nothing wrong. I just don't like it. | (没出什么问题。我只是不喜欢。) |
+
+> 有各种各样的方式获取您的退款。 
+
+| Here's your refund of $27.99.     | 这是您得到的退款，共27.99美元。       |      |
+| --------------------------------- | ------------------------------------- | ---- |
+| Here's a store credit for $27.99. | 这是价值 27.99 美元的商店专用信用卡。 |      |
 
 
 
 
 
+> More bad news today: The prices of housing and utilities are both up by more than 20%. Gas prices are going to increase for the next few months. The cost of education is also going up . There is some good news: The price of food is down by 10%. 
 
 
 
 
 
-
-
-
-
-
+> In my country, prices are always increasing. Healthcare and housing costs are going up fast. Prices for food are also increasing, but more slowly. People live well, but the cost of living is difficult. The good news is that technology prices are decreasing. I want to buy a new tablet, but it's too expensive right now. 
 
 
 
