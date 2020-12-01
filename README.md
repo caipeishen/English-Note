@@ -927,6 +927,116 @@ Can we go shopping together?
 
 
 
+## 3.6 工作和公司
+
+**工作词汇**
+
+> 哪些动词后接 **-er** 或者 **-or**，没有严格的规则，但是有一些基本的拼写规范。
+
+| 大多数工作名词都是由动词加上 **-er** 或者 **-or** 组成的。 |                     |                 |
+| ---------------------------------------------------------- | ------------------- | --------------- |
+|                                                            | *bank > banker*     | 银行 > 银行家   |
+|                                                            | *design > designer* | 设计 > 设计师   |
+|                                                            | *clean > cleaner*   | 清洁 > 清洁工   |
+|                                                            | *act > actor*       | 表演 > 演员     |
+|                                                            | *direct > director* | 指导 > 指导者   |
+|                                                            | *edit > editor*     | 编辑 > 编辑人员 |
+
+​	
+
+
+
+
+
+> So, how's your new job?
+>
+> l love it I'm so happy I got it.
+>
+> Cool. That's great news.
+>
+> Yeah. The pay's higher than my last job, and my boss is really nice.
+>
+> Where were you before?
+>
+> Ugh. Sunset Computer Systems.
+>
+> How was it there?
+>
+> It was terrible. The pay was low, my boss was horrible and business was really bad.
+>
+> How long were you there for?
+>
+> l was there for eight months. Long enough.
+>
+> Yeah.
+>
+> But I'm much happier at Nuway Networks.
+>
+> That's great. Hey! l have some news.
+>
+> Oh, yeah?
+>
+> l have a new job, too.
+>
+> Really?
+>
+> l can 't tell you too much at the moment, because its a bit of a top secret, but ...
+
+
+
+> I'm very happy in my new job at Tomorrow Computers. I'm a programmer. My last boss was awful. I wasn't happy there.
+>
+> Where were you before ?
+>
+> I was at Dyno Systems. I was an engineer.
+>
+> Was that your first job?
+>
+> No. Before that , I was at LM Computers.
+>
+> Well, I'm happy that you like your new job.
+>
+> Me, too. Thanks. 
+
+
+
+> Excuse me, everyone.
+>
+> I'd like to introduce Simon Price, our new director of engineering.
+>
+> Uh, Simon comes to us from Dyna Systems. He was the engineering manager therefor three years.
+>
+> He has a master's degree in computer science from Stanford University.
+>
+> Um, Simon worked in Paris for three years, and he speaks fluent French.
+>
+> So,uh, let's welcome Simon to his new company!
+>
+> Thanks, everyone, for the warm welcome. I'm really happy to be here
+
+
+
+> Good morning, everyone. It's my pleasure to introduce Kim. Kim is our new director of sales. Kim comes to us from Green Products. He worked there for three years as sales manager. Kim has an MBA from Harvard University. He speaks both Chinese and English. Let's welcome Kim to the company!
+>
+> Thank you all very much. I'm so happy to be here at New Futures. First, I'd like to thank Karen for that warm introduction . 
+
+
+
+> Julie, I'd like to introduce Ken Stevens. Ken is our new director of engineering.
+>
+> It's a pleasure to meet you, Ken. Welcome. I work in sales here.
+> Oh, thanks, Julie. Nice to meet you, too.
+>
+> Ken comes to us from XYZ Systems. He was the engineering manager for five years.
+>
+> Oh, nice. How was it?
+>
+> It was good, but I'm happy to be here now.
+>
+> This is a great place to work.
+>
+> Good answer, Julie! 
+
 
 
 
