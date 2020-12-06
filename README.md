@@ -929,20 +929,15 @@ Can we go shopping together?
 
 ## 3.6 工作和公司
 
-**工作词汇**
-
-> 哪些动词后接 **-er** 或者 **-or**，没有严格的规则，但是有一些基本的拼写规范。
-
-| 大多数工作名词都是由动词加上 **-er** 或者 **-or** 组成的。 |                     |                 |
-| ---------------------------------------------------------- | ------------------- | --------------- |
-|                                                            | *bank > banker*     | 银行 > 银行家   |
-|                                                            | *design > designer* | 设计 > 设计师   |
-|                                                            | *clean > cleaner*   | 清洁 > 清洁工   |
-|                                                            | *act > actor*       | 表演 > 演员     |
-|                                                            | *direct > director* | 指导 > 指导者   |
-|                                                            | *edit > editor*     | 编辑 > 编辑人员 |
-
-​	
+> president 董事长
+>
+> supervisor 指导员
+>
+> director 指导员
+>
+> presentation 演讲
+>
+> pleasure 高兴的
 
 
 
@@ -1036,6 +1031,98 @@ Can we go shopping together?
 > This is a great place to work.
 >
 > Good answer, Julie! 
+
+
+
+### 公司部门和职称
+
+> So, did you meet anyone good last night?
+>
+> I got 20 business cards. I talked to a lot of people. A few of them, very interesting.
+>
+> How about for the Finance Department?
+>
+> Take a look at this one. I wrote some notes on the back.
+>
+> She has an MBA from Harvard. Right now, she's working at Network as the CF0.
+>
+> Interesting. ls she available?
+>
+> She wants to talk to us.
+>
+> Great! How about for HR?
+>
+> Umm, this guy looks good.
+>
+> He's an HR manager in a small company in Springdale.
+>
+> He has a BA in HR management.
+>
+> He looks okay. That's it for HR?
+>
+> Yeah. Sorry.
+>
+> Its not a problem. Thanks for going last night.
+>
+> Sure.
+
+
+
+> Oh, Joan. Do you have a minute?
+>
+> Sure.
+>
+> l found someone good for production manager. Her name's Christina Femandez.
+>
+> Great Lets have a look.
+>
+> She worked at Parmatek for three years as a project manager. She was responsible for the production schedule.
+>
+> Uh-huh, thats good.
+>
+> And she reported to the vice president of production.
+>
+> Where is she working now?
+>
+> She's at Blue Sky Tech.
+>
+> What's her job title?
+>
+> Production manager. She got her BS in computer engineering in 2007.
+>
+> She does sound good.
+>
+> Shall l call her for an interview?
+>
+> Yes, call her. Oh, and send me her resume.
+
+
+
+> I worked at Bio Products for four years. I was the sales manager. I was responsible for all of the salespeople. I managed 15 people. I reported to the director of sales. 
+
+
+
+> Jack was an illustrator for Artco, a design company. He worked there from 2014 to 2017. He illustrated people and clothing. He also supervised one other artist. Before this job, he worked as a designer in a very small clothing company for about one year. Business was very bad, and he was unhappy. Before that, he was a university student. He studied art.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
