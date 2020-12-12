@@ -1108,6 +1108,105 @@ Can we go shopping together?
 
 
 
+## 4.1娱乐
+
+### 动名词和不定式
+
+> + 动名词（动词 + **-ing**）： 
+>
+>   Oscar enjoys cooking dinner for Frank.	Oscar 喜欢为 Frank 做饭。
+>
+> +  不定式（**to +** 动词）： 
+>
+>   Frank plans to eat out.	Frank 打算外出吃饭。
+>
+> +  有的动词后面只能接动名词，有的动词则只能接不定式。有的动词既可以接动名词，也可以接不定式。
+>
+>   这些动词只能后接不定式：  
+>
+>   + plan	打算，计划 
+>
+>     We're planning to go to the soccer game.	我们计划去看足球赛。 
+>
+>   + want	想要 
+>
+>     We want to see the play in the park this week.	我们本周想去公园看戏。 
+>
+>   + need	需要 
+>
+>     I need to get some money for the concert.	我需要为音乐会准备一点钱。
+>
+> +  这些动词只能后接动名词： 
+>
+>   + enjoy                                                 	享受，喜爱                                                                                               
+>
+>     I enjoy listening to music.  	我喜欢听音乐。
+>
+>   + keep	继续
+>
+>     Martin kept playing his guitar until midnight.	马丁一直不停地弹吉他，直至午夜。
+>
+>   + think about 	思考，考虑
+>
+>     We're thinking about going to a concert.	我们在考虑去听音乐会。
+>
+> +  这些动词可后接动名词或不定式： 
+>
+>   + like	喜欢
+>
+>     I like going to musicals.	我喜欢听音乐剧。
+>
+>     I like to go to musicals.	我喜欢听音乐剧。
+>
+>   + love	非常喜欢，热爱
+>
+>     Joan loves eating in restaurants.	Joan 喜欢在餐馆吃饭。
+>
+>     Joan loves to eat in restaurants.	Joan 喜欢在餐馆吃饭。
+>
+>   + begin	开始
+>
+>     It began to snow.	开始下雪了。
+>
+>     It began snowing.	开始下雪了。
+
+
+
+> 表示能力
+>
+> It's beautiful, Mark.
+>
+> I am so tired.
+>
+> Can you drive?
+>
+> What's that supposed to mean?
+>
+> l mean, l can drive. But there?
+>
+> l'm sorry, Mark. I can drive. but I'm not very good at it.
+>
+> Sarah, 1 like driving. But it's tiring.
+>
+> l can't do it every day.
+>
+> OK.
+>
+> Let's try.
+>
+> Are you OK?
+>
+> Mm-hmm.
+>
+> Let's go that way.
+>
+> OK.
+>
+> I love driving at home in England.
+>
+> It's fun. But here is US? I don't know.
+>
+> ln the UK, we drive on the left side of the road. Not the right.
 
 
 
@@ -1115,6 +1214,21 @@ Can we go shopping together?
 
 
 
+>Shall we go out for a drink tonight?
+>
+>Actually, no, l don't feel like it. feel like = like
+>
+>Well, what about that new restaurant?
+>
+>That sounds OK.
+>
+>Or do you want to watch a movie?
+>
+>l'd actually prefer to stay home.
+>
+>OK, then how about we watch a soccer game on TV?
+>
+>Yes, that's a great idea!
 
 
 
@@ -1122,11 +1236,11 @@ Can we go shopping together?
 
 
 
-
-
-
-
-
+> When did you graduate from colleage?
+> I graduated from colleage in 1998.
+>
+> When did you buy a house?
+> I bought a house in 2000.
 
 
 
