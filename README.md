@@ -1122,53 +1122,61 @@ Can we go shopping together?
 >
 > +  有的动词后面只能接动名词，有的动词则只能接不定式。有的动词既可以接动名词，也可以接不定式。
 >
->   这些动词只能后接不定式：  
+
+
+
+> 这些动词只能后接不定式：  
 >
->   + plan	打算，计划 
+>     + plan	打算，计划	
 >
->     We're planning to go to the soccer game.	我们计划去看足球赛。 
+>     ​		We're planning to go to the soccer game.	我们计划去看足球赛。 
 >
->   + want	想要 
+>     + want	想要 
 >
->     We want to see the play in the park this week.	我们本周想去公园看戏。 
+>     ​		We want to see the play in the park this week.	我们本周想去公园看戏。 
 >
->   + need	需要 
+>     + need	需要 
 >
->     I need to get some money for the concert.	我需要为音乐会准备一点钱。
+>     ​		I need to get some money for the concert.	我需要为音乐会准备一点钱。
 >
-> +  这些动词只能后接动名词： 
+
+
+
+> 这些动词只能后接动名词： 
 >
->   + enjoy                                                 	享受，喜爱                                                                                               
+>   + enjoy   享受，喜爱   
 >
->     I enjoy listening to music.  	我喜欢听音乐。
+>   ​		I enjoy listening to music.  	我喜欢听音乐。
 >
->   + keep	继续
+>     + keep	继续  
 >
->     Martin kept playing his guitar until midnight.	马丁一直不停地弹吉他，直至午夜。
+>     ​		Martin kept playing his guitar until midnight.	马丁一直不停地弹吉他，直至午夜。
 >
->   + think about 	思考，考虑
+>     + think about 	思考，考虑   
 >
->     We're thinking about going to a concert.	我们在考虑去听音乐会。
+>     ​		We're thinking about going to a concert.	我们在考虑去听音乐会。
+
+
+
+> 这些动词可后接动名词或不定式： 
 >
-> +  这些动词可后接动名词或不定式： 
+>   + like	喜欢 
 >
->   + like	喜欢
+>   ​		I like going to musicals.	我喜欢听音乐剧
 >
->     I like going to musicals.	我喜欢听音乐剧。
->
->     I like to go to musicals.	我喜欢听音乐剧。
+>     ​		I like to go to musicals.	我喜欢听音乐剧
 >
 >   + love	非常喜欢，热爱
 >
->     Joan loves eating in restaurants.	Joan 喜欢在餐馆吃饭。
+>       ​		Joan loves eating in restaurants.	Joan 喜欢在餐馆吃饭
 >
->     Joan loves to eat in restaurants.	Joan 喜欢在餐馆吃饭。
+>     ​		Joan loves to eat in restaurants.	Joan 喜欢在餐馆吃饭
 >
->   + begin	开始
+>      + begin	开始
 >
->     It began to snow.	开始下雪了。
+>     ​		It began to snow.	开始下雪了
 >
->     It began snowing.	开始下雪了。
+>        ​		It began snowing.	开始下雪了
 
 
 
@@ -1241,6 +1249,50 @@ Can we go shopping together?
 >
 > When did you buy a house?
 > I bought a house in 2000.
+
+
+
+演出地点
+
+> Sally. Could you do me a favor?
+>
+> Sure. What do you need?
+>
+> Well, Angela and I want to do something special this weekend. lt's our 20th wedding anniversary.
+>
+> Wow! Twenty years together. Congratulations.
+>
+> Thanks. The thing is. we don't go out a lot, and I really don't know ...
+>
+> Could you help me find something interesting?
+>
+> Sure. Um, no problem.
+>
+> Springdale.com has all the events listed for the city.
+>
+> lt covers the concert hall, the auditorium ... You really should check it out.
+>
+> That's a good idea.
+>
+> There's an incredible samba band at the Blue Banana.
+>
+> That's the hottest nightclub in town right now. Do you and Angela like to dance?
+>
+> Hmm. I really don't dance. ls there something a little more, kind of ...
+>
+> Traditional.
+>
+> Yes! Like a classical concert. Beethoven. Or Mozart.
+>
+> Here's a play. How about Shakespeare? lt's 'Hamlet.'
+>
+> Hmm. That's more like it.
+>
+> It's in the Main Street Theater on Saturday.
+>
+> Angela loves plays.Thank you so much!
+>
+> You're welcome!
 
 
 
