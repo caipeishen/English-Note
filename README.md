@@ -1176,12 +1176,12 @@ Can we go shopping together?
 >
 >     ​		It began to snow.	开始下雪了
 >
->        ​		It began snowing.	开始下雪了
+>        		It began snowing.	开始下雪了
 
 
 
-> 表示能力
->
+### 表示能力
+
 > It's beautiful, Mark.
 >
 > I am so tired.
@@ -1252,7 +1252,7 @@ Can we go shopping together?
 
 
 
-演出地点
+### 演出地点
 
 > Sally. Could you do me a favor?
 >
@@ -1268,7 +1268,7 @@ Can we go shopping together?
 >
 > Sure. Um, no problem.
 >
-> Springdale.com has all the events listed for the city.
+> Springdale has all the events listed for the city.
 >
 > lt covers the concert hall, the auditorium ... You really should check it out.
 >
@@ -1290,9 +1290,163 @@ Can we go shopping together?
 >
 > It's in the Main Street Theater on Saturday.
 >
-> Angela loves plays.Thank you so much!
+> Angela loves plays. Thank you so much!
 >
 > You're welcome!
+
+
+
+
+
+### 描述演出的形容词
+
+> Oh! There's a samba band at, uh ...
+>
+> Nah. I can‘t dance to samba.
+>
+> You can't dance to anything.
+>
+> What?
+>
+> Why don't we go to that new sports bar on, uh, Grove Street?
+>
+> Harmon's?
+>
+> Yeah! They're probably showing the football game.
+>
+> l hate sports bars.
+>
+> Really? why?
+>
+> Because they're boring. The music's always so loud,it's difficult to have a conversation.
+>
+> How about a quiet relaxing dinner with Pam and Simon?
+>
+> We do that every night.
+>
+> Okay. You're right. Let's do something different.
+>
+> l know!  Let's go to a movie."The New York Killer."
+>
+> A horror movie? l don't think so. How about a romance, or a drama?
+>
+> Ung.
+>
+> Hey, look! They're playing 'Chinatown' at the Roxie Theater.
+>
+> Really? Its a classic!
+>
+> Yeah. I saw it years ago. It was incredible.
+>
+> I'd love to see it again. Can you book the tickets?
+>
+> Sure thing.
+>
+> Thanks, Jake. I'm gonna go get ready.
+>
+> Okay.
+
+**有关演出的形容词**
+
+
+| 许多可以用来描述演出的形容词都以 **-ing** 结尾，从动词变化而来。比如，形容词 **relaxing** 来自动词 **relax**。 |            |
+| ------------------------------------------------------------ | ---------- |
+| *interesting*                                                | 有趣的     |
+| *boring*                                                     | 无聊的     |
+| *relaxing*                                                   | 轻松的     |
+| *exciting*                                                   | 令人兴奋的 |
+| *surprising*                                                 | 令人惊讶的 |
+
+ 
+
+| 以下是其他一些描述演出的形容词。 |                |
+| -------------------------------- | -------------- |
+| *fun*                            | 快乐的，有趣的 |
+| *incredible*                     | 精彩的         |
+| *loud*                           | 喧闹的         |
+| *quiet*                          | 安静的         |
+| *wonderful*                      | 出色的         |
+| *terrible*                       | 糟糕的         |
+
+
+
+> JIM: Hi, Ann! Hey, how was your vacation? You went to New York, right?
+>
+> ANN: Yeah.
+>
+> JIM: How was it?
+>
+> ANN: Oh, I love New York! It's a really exciting city.
+>
+> JIM: Hmm. It's too big and too loud for me. So, what did you do in New York?
+>
+> ANN: Well, we went to a musical. That was fun ! And we ate at some really interesting restaurants. The food was delicious .
+>
+> JIM: It sounds wonderful .
+>
+> ANN: And the Museum of Modern Art was incredible !
+>
+> JIM: That's great! Well, I have a meeting. See you later.
+>
+> ANN: Bye. 
+
+
+
+### 一般现在时表示的将来时
+
+> Its 7 o'clock! The movie starts at 8!
+>
+> Okay. Okay. I'm ready.
+>
+> Did you book the tickets?
+>
+> The tickets?
+>
+> The tickets. You booked them, right?
+>
+> Ohhh.
+>
+> I can't believe it. How could you forget to book the tickets? The 8 o'clock show is sold out now.
+>
+> Sally. I'm really sorry. Is there a second show?
+>
+> The next show begins at 10:30. There are still some tickets left. But it's over after midnight.
+>
+> That sounds good.'m so sorry. I can't believe l forgot. So,uh, do you want to watch some TV?
+>
+> This is so stupid!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
