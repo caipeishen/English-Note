@@ -1418,6 +1418,216 @@ Can we go shopping together?
 
 
 
+### 询问电影信息
+
+> Good afternoon. Springdale Theater.
+>
+> Good afternoon. Can you give me some information about the film 'Mommy Mommy'?
+>
+> Certainly. What would you like to know?
+>
+> When is the next show ?
+>
+> It's at 3:15.
+>
+> That's good. And are there still tickets for it?
+>
+> Yes. That's not a problem. Afternoons are never sold out .
+>
+> OK. And can I buy tickets online?
+>
+> Yes, just go to our website , www.springdaletheater.com.
+>
+> Thanks! Oh, and how much are tickets for adults and children?
+>
+> Adults are $13, and kids are $6. 
+
+
+
+## 4.2描述他人
+
+
+
+### 人的外形描述
+
+> My boyfriend... he's nice, but it's over.
+>
+> He's good-looking.
+>
+> He has a nice smile.
+>
+> Blue eyes. 
+>
+> But his hair. It's long and dirty. 
+>
+> I don't think he washes it.
+>
+> He's  an artist.
+>
+> He spends all day painting, and that's all he does.
+>
+> He doesn't have a job. he lives in his mum's house!
+>
+>  l want a boyfriend who has a plan.
+>
+> Successful. Smart. Funny. Handsome.
+>
+> l want something different now.
+
+
+
+**人的外型描述** 
+
+> 在描述人的身体时，我们通常会谈到身高和体重。需要注意的是，说人 **fat** 或者 **overweight** 往往被视为不礼貌的。不过在对人进行描述时，**overweight** 一词不礼貌的程度稍轻。
+
+| *tall*        | 高       |
+| ------------- | -------- |
+| medium height | 中等高度 |
+| short         | 矮       |
+| overweight    | 超重     |
+| fat           | 肥胖     |
+| thin          | 瘦       |
+
+> 描述身高和体重时，使用动词 **be**。 
+
+| *She **is** tall and thin.* | 她又高又瘦。 |
+| --------------------------- | ------------ |
+|                             |              |
+
+
+
+> 在描述人的面孔时，我们通常会谈及眼睛的颜色和任何其他显著的容貌。描述容貌时，我们通常使用动词 **have**。
+
+```
+long 	长发
+
+medium length	中长发
+
+short	短发
+
+curly	卷发
+
+straight	直发
+
+blond	金发
+
+bald	秃顶
+```
+
+
+
+> 在描述人的头发时，我们通常使用动词 have。但是，如果某人是 bald，我们就会使用动词 be。
+
+```
+She has long, straight, brown hair.	她拥有一头棕色的长长的直发。
+
+My father is bald.	我父亲是秃顶。
+```
+
+
+
+### 形容词的顺序
+
+![](images/4.2描述他人\形容词的排序.png)
+
+
+
+###  谈论他人
+
+![](images/4.2描述他人/描述人物.png)![](images/4.2描述他人/描述人物2.png)
+
+
+
+### PL20上课笔记
+
+```
+Student: Ferris/Shanghai/
+
+===========================
+
+笔记说明：
+
+red红色: mistakes 语法或表达错误
+
+green绿色: correct sentences 正确
+
+purple紫色: pronunciation problems 发音错误
+
+Topic:Describing people
+
+Task3: Evaluating employees
+
+Using “ I think she’s _______ .” to give opinions
+
+
+
+
+
+Vocabulary 词汇:
+
+evaluate [ɪˈvæljueɪt]评估
+
+employee [ɪmˈplɔɪiː] 雇员
+
+employer [ɪmˈplɔɪə(r)] 雇主
+
+quality [ˈkwɒləti] 品质/质量
+
+colleague[ˈkɒliːɡ] 同事
+
+college [ˈkɒlɪdʒ]大学
+
+actually [ˈæktʃuəli] 事实上（副词）
+
+=In reality
+
+issue [ˈɪʃuː]问题
+
+serious [ˈsɪəriəs]严重的
+
+already [ɔːlˈredi]已经
+
+work hard 努力工作
+
+
+
+
+
+常用表示品质的词：
+
+efficient [ɪˈfɪʃnt] 有能力的，效率高的
+
+cooperative [kəʊˈɒpərətɪv] 协作的
+
+careful [ˈkeəfl] 细心的
+
+hard-working工作努力的
+
+creative [kriˈeɪtɪv] 有创造力的
+
+logical[ˈlɒdʒɪkl] 有逻辑的
+
+independent [ˌɪndɪˈpendənt] 独立自主的
+
+punctual [ˈpʌŋktʃuəl] 守时的
+
+precise [prɪˈsaɪs] 一丝不苟的
+
+lazy [ˈleɪzi] 懒散的
+
+fussy [ˈfʌsi] 过分挑剔的
+
+slipshod [ˈslɪpʃɒd] 马虎的
+
+emotional [ɪˈməʊʃənl] 情绪化的 
+
+careless [ˈkeələs] 粗心的
+
+dogmatic [dɒɡˈmætɪk] 固执己见的
+
+shiftless [ˈʃɪftləs] 不上进的、混日子的
+
+disorganized [dɪsˈɔːɡənaɪzd] 计划不周的/杂乱无章的
 
 
 
@@ -1425,28 +1635,428 @@ Can we go shopping together?
 
 
 
+Grammar 语法/ Sentences句子: 
+
+1. What do you think about/of___?
+
+ 你认为....怎么样？
+
+ What do you think about Amy’s work?
+
+ What do yo think of Sherry ?
+
+ （答）提供观点的句型：
+
+	I think____.
+
+       I believe_____.
+
+       In my opinion______.
+
+       It’s my feeling that _____.
+
+
+
+2. Do you think_____?
+
+  你认为...是这样的吗？
+
+Do you think Peter’s disorganized?
+
+=Do you think Peter is disorganized?
+
+你认为彼得做事杂乱无章吗？
+
+（肯定）Yes . I think so .
+
+ （否定）No. I don’t think so .
+
+         No. I don’t think____.I think____.
+
+(No. I don’t think he is lazy .
+
+I think he sometimes work slowly .
+
+我不认为他懒，我觉得他有时动作比较慢。)
 
 
 
 
 
 
+He's very attractive. 他很迷人 
+
+
+A:boss
+
+B:team manager
+
+Talk about team members
+
+（Mike/Jessica/Emma）
+
+Dialog对话: 
+
+A: Hey,______.Are you free now ?
+
+ I want to talk about some employees with you .
+
+B:
+
+A: OK. Let’s start with ____. 
+
+What do you think about him?
+
+B:
+
+A: Well. Any other problems about him?
+
+B:
+
+A: Right, now, what about ____? She’s great, isn’t she?
+
+B:
+
+A: Oh, I see. Is there anything else you don’t like about her?
+
+B:
+
+A: What about ____? 
+
+Some people tell me that __she___ is not very good.
+
+B:
+
+A: OK, that’s it. Thanks for your time!
+
+
+
+发音
+
+句子
+
+He's nice and smart.
+
+Jessica is not well.
+
+Jessica doesn't work well.
+
+Jessica joins the team in oct, 2019.
+
+Jessica joined the team in oct, 2019.
+
+green正确的
+
+red错误的
+```
 
 
 
 
 
+### 关系
+
+> So how many people are coming?
+>
+> Well, there's the three of us.
+>
+> we're inviting Jake to the party?
+>
+> Invite me to the party? I am the party. Oh. Can my cousin come?
+>
+> Jake, this is a party for Simon, to celebrate his new job. We're only inviting family and friends.
+>
+> My cousin is family.
+>
+> Yeah, your family, not Simon's.
+>
+> lt's a small apartment We can't invite too many people.
+>
+> l think we should invite Todd, and his wife, Angela.
+>
+> Yeah, he's nice, and she's cute.
+>
+> Jack?
+>
+> What did I say?
+>
+> What's your boss's name? I can never remember.
+>
+> Joan. We should definitely invite Joan. And her husband, Al.
+>
+> And, of course, we need to invite Simon's mom.
+>
+> Definitely. She makes great cheesecake.
+>
+> OK, who else?
+>
+> Who's your friend in the office? The guy from Seattle.
+>
+> Oh. Harry! I can't believe I almost forgot him.
+>
+> And does he have a girlfriend?
+>
+> He's married.
+>
+> This list is getting bigger.
+>
+> Shall we talk about food?
 
 
 
 
 
+###  **关系词汇** 
+
+> 您应该已经知道家庭成员的基本词汇了。这里还有一些您将需要到的
+
+```
+wife	妻子        
+
+husband	丈夫
+
+granddaughter	孙女
+
+grandson	孙子
+
+aunt	阿姨
+
+uncle	叔叔
+
+niece	侄女
+
+nephew	侄子
+
+cousin	堂表兄弟姐妹
+```
 
 
 
+> 使用 **friend** 以区分哪些是您熟悉并喜爱的人。使用 **girlfriend** 来确定与一位女性的恋爱关系，使用 **boyfriend** 确定与一位男性的恋爱关系。 
+
+```
+Is he your friend?	他是您的朋友?
+
+I'm meeting my girlfriend tonight.	我今晚要去见我的女朋友。
+
+He's my boyfriend.	他是我的男朋友。
+```
 
 
 
+> **partner** 这个词可以指各种关系。您可以使用它来确定与一个人的配偶关系。它可以也指商业伙伴或其他业务关系。 
+
+```
+This is my partner, Paul.	这是我的配偶, Paul。
+
+James and I are business partners.	James和我是商业伙伴。
+```
 
 
+
+> 您也可以用这些词来确定工作关系：
+
+```
+boss	上司
+
+colleague	同事
+```
+
+
+
+###  **描述关系** 
+
+> 使用类似以下的表达来描述一段关系中正在发生的事情。注意，所有表达都后接动名词 (**verb + -ing**)。 
+
+
+
+> 表达式可以是肯定的：
+
+```
+We spend time watching movies. 	我们看电影打发时间。
+
+I always have fun talking with him.	和他谈天我总是感到很开心。
+```
+
+
+
+> 表达式可以是否定的： 
+
+```
+We have a hard time getting together.	我们好不容易在一起。
+
+She has trouble making money.	赚钱对她来说是件困难的事。
+
+They often waste time fighting.	(他们常常浪费时间吵架。)
+```
+
+
+
+> 请使用类似以下的问题来询问别人一段关系。注意答复中表达式 **+**动名词的结构。 
+
+```
+A: How are you and your brother doing?
+B: We're doing well, thanks. We spend time talking on the phone.	
+你和你哥哥（弟弟）关系还好吗？
+我们关系很好，谢谢。我们会花时间打电话聊天。
+ 	 	 
+
+A: What do you and Sylvia do for fun?
+B: Let's see … We have a lot of fun playing tennis together.	你和 Sylvia 都玩什么？
+让我想想……我们一起打网球，玩得很开心。
+```
+
+
+
+> 您可以使用**you two** 表达密切的关系 - 例如，丈夫与妻子之间或母亲与孩子之间。 
+
+```
+A: Are you two having trouble?
+B: Yeah, we are. I'm having trouble understanding her problems.
+A: I'm sorry to hear that.	
+你们两人碰到什么难题了吗？
+是的，我们碰到了难题。我难以理解她的问题。
+听到这我很难过。
+```
+
+
+
+### 描述员工
+
+> Thanks for taking the time to meet me, Joan.
+>
+> No problem. What's up?
+>
+> Well, the performance appraisals are next week, and I want to talk with you about Sally and Harry.
+>
+> Okay. Let's start with Hary.
+>
+> Well, Harry hasn't been with us that long, but I can see that he's very hardworking.
+>
+> Mm-hmm.
+>
+> l think he does a really good job.
+>
+> So do I. He did a great job on his last project ... What was it?
+>
+> The Smith Electric project.
+>
+> Thats right. He worked really well with the team.
+>
+> A real team player. But there is one thing. He's often late.
+>
+> Yeah, he is.
+>
+> Often late. Now sally.
+>
+> Sally ... I like Sally. but, umm ...
+>
+> She's just not efficient enough sometimes. She needs to be more organized. I mean, I don't think she's lazy.
+>
+> Neither do L. She works hard. And she's good in meetings.
+>
+> Yeah. And she's also very helpful. Sometimes l have a computer problem and ...
+>
+> Yes, you do sometimes have computer problems.
+>
+> Well, I like them both.
+>
+> So do I. You have two great people on your team.
+
+
+
+####  **评价员工的词汇** 
+
+> 使用这些形容词和短语来形容员工积极工作的品质。
+
+```
+hardworking	勤劳的
+
+efficient	有效率的
+
+creative	富有创造性的
+
+helpful 	有用的
+
+positive	积极的
+
+does a good job 	做得不错
+
+works well with the team / team player	与团队/ 队员合作愉快
+
+getting better	逐渐在改善
+
+good in meetings	善于开会
+
+```
+
+
+
+> 使用这些形容词和短语来描述员工消极的工作品质。 
+
+```
+could do better 	可以做得更好
+
+late 	迟到
+
+negative	消极的
+
+disorganized	混乱的
+
+lazy	懒惰
+```
+
+
+
+> 一种更积极的方式来应对员工的弱点即是给出建设性的批评，而不是简单地给出消极的评论。 
+
+```
+She's so disorganized. > She needs to be more organized.	她很混乱。 > 她应该要更有条理些。
+
+He's too negative. > He should be more positive.	他太消极了。 > 他应该积极些。
+```
+
+
+
+#### 用'I think that' 来提建议
+
+
+
+> 要征求别人的意见，您可以使用**what do you think about** 以及 **do you think**。 
+
+```
+A: What do you think about Denise?  
+B: She's very efficient.     	
+
+您觉得Denise怎么样?
+她很有效率。
+
+ 	 	 
+
+A: Do you think Paul is too disorganized?
+B: No, not really.  	
+
+您觉不觉得Paul这个人太混乱了?
+不，不是的。
+```
+
+
+
+> 语言注释：**neither**有两种发音方法。在下面的例子中，第一个在美国比较普遍的；第二种多见于英国。但它们可以互换使用。 
+
+```
+A: I don't think he's disorganized.
+B: Neither do I. 	
+
+我并不觉得他这个人没有调理。
+我也不觉得。
+
+ 	 	 
+
+A: I don't think she's very efficient.
+B: Neither do I. 	
+
+我并不觉得她很有效率。
+我也不觉得。
+```
 
