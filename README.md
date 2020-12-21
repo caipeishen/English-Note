@@ -1418,7 +1418,29 @@ Can we go shopping together?
 
 
 
+### 询问电影信息
 
+> Good afternoon. Springdale Theater.
+>
+> Good afternoon. Can you give me some information about the film 'Mommy Mommy'?
+>
+> Certainly. What would you like to know?
+>
+> When is the next show ?
+>
+> It's at 3:15.
+>
+> That's good. And are there still tickets for it?
+>
+> Yes. That's not a problem. Afternoons are never sold out .
+>
+> OK. And can I buy tickets online?
+>
+> Yes, just go to our website , www.springdaletheater.com.
+>
+> Thanks! Oh, and how much are tickets for adults and children?
+>
+> Adults are $13, and kids are $6. 
 
 
 
