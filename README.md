@@ -2060,3 +2060,41 @@ B: Neither do I.
 我也不觉得。
 ```
 
+
+
+
+
+### 工作中用到的副词 
+
+> Oh. Martina's letter of recommendation.
+>
+> When is she going to New York?
+>
+> Next Friday. Her husband's already there.
+>
+> That soon. I'm going to miss her.
+> Yeah, so am I.
+>
+> Last week I asked her to make a new company brochure. It only took her two days.
+>
+> Really? I should put that in. Martina works quickly and efficiently ...
+>
+> Yeah. The brochure was really beautiful. She's so creative. And her team really loves her.
+>
+> Creative ... Works well with a team. What else?
+>
+> Well, she aways wrote our marketing copy. She was really good at it.
+>
+> That's right! who's going to do that now?
+>
+> Why don't you ask Sally? She's smart. She can learn it pretty quickly,right?
+>
+> Not that quickly. But, yeah, she could learn it.
+>
+> Great. So do you have enough for your letter?
+>
+> Umm ... I think so. Thanks.
+>
+> Sure.
+>
+> l had the pleasure to work with Martina for three years, and l highly recommend her.
