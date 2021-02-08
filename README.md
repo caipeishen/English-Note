@@ -2098,3 +2098,19 @@ B: Neither do I.
 > Sure.
 >
 > l had the pleasure to work with Martina for three years, and l highly recommend her.
+
+
+
+
+
+> FRED: You're already done with the Franco project?
+>
+> LOUISE: Fantastic, right? It only took us two weeks.
+>
+> FRED: You finished that soon ? Wow. You work so well with your team.
+>
+> LOUISE: Thanks! It's such a hardworking team.
+>
+> FRED: Yeah. Liza's great. She's such a creative designer.
+>
+> LOUISE: Yes, and Tom's so efficient . Honestly, Jayden's really helpful, too. 
