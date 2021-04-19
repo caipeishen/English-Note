@@ -607,6 +607,14 @@ How long does it take by bus?
 
 It takes about 30 minutes.	
 需要三十分钟
+
+
+Do you know where is it? ×
+Do you know where it is? √
+
+宾语从句的语序必须是陈述语句语序：连接代词/副词+主语+谓语+其他成分
+Can you tell me whom are you waiting for? ×
+Can you tell me whom you are waiting for? √
 ```
 
 
