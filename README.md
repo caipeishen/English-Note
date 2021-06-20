@@ -121,6 +121,40 @@
 
 
 
+#### 一般现在时
+
+> + 动词原形
+>
+> + 动词原形 + s(第三人称单数)
+>
+> 
+>
+> #### 1.表示事实
+>
+> I eat carrots.
+>
+> The rabbit eats carrots.
+>
+> The sun rises in the east. 太阳从东边升起
+>
+> The earth revolves around the sun. 地球绕太阳转
+>
+> 
+>
+> #### 2.表达习惯/重复的动作
+>
+> I play basketball. 我打篮球(我有这个习惯)
+>
+> 
+>
+> #### 3.表示预计发生的事
+>
+> The bus leaves at 8PM tonight.
+
+
+
+
+
 ### 人称代词
 
 | 人称代词     | 主格      | 宾格       | 形容词性物主代词 | 名词性物主代词 | 反身代词               |
