@@ -129,6 +129,12 @@
 
 
 
+> 缩略图
+
+![](./images/英语时态缩略图.png)
+
+
+
 #### 一般现在时
 
 > 动词原形
@@ -332,8 +338,8 @@
 
 #### 过去进行时
 
-> + 现在进行时：助动词be的变位(**am/is/are**) +  动词的现在分词
->+ 过去进行时：助动词be的变位(**was/were**) + 动词的现在分词
+> + **现在**进行时：助动词be的变位(**am/is/are**) +  动词的现在分词
+>+ **过去**进行时：助动词be的变位(**was/were**) + 动词的现在分词
 > 
 >The rabbit **is eating** a carrot. 👉 The rabbit **was eating** a carrot. 
 > 这兔子**在过去**某个时间点处**正在**吃胡萝卜的过程中
@@ -392,52 +398,10 @@
 
 #### 
 
-#### 现在完成时 vs 一般过去时
-
-> + 现在完成时：重点是某个动作是否在说这句话之前已经完成了，往往考虑过去的动作对现在的影响
-> + 一般过去时：重点是某个动作在过去有没有发生，往往考虑的是过去的事实
->
-> ------
->
-> I have seen a carrot.
->
-> 我见过胡萝卜，表示见过世面
->
-> 
->
-> I saw a carrot.
->
-> 我之前看到了一个胡萝卜，表示的事实
->
-> ------
->
-> I have gone to America.
->
-> 我已经去美国了，多半暗示我已经离开
->
-> 
->
-> I went to America.
->
-> 我去过美国，多半暗示我已经回来了
->
-> ------
-
-
-
-#### 一般过去时 vs 过去进行时
-
-> + 一般过去时：重点是过去某个动作做了没有，过去的一张照片
->+ 过去进行时：重点是某个动作在某个时间里在进行中的，过去的一段视频
-
-
-
 #### 一般将来时
 
 > 描述：将来某个时间点发生的动作(**说话者十分确定**会发生的事)，如果不太确定，就不能用一般将来时(需要借助动词的**语气**)
-
-
-
+>
 > #### 英语表达将来时态
 >
 > 一般现在时态可以表达将来的动作，如：The bus leaves at 8 PM.
@@ -462,7 +426,7 @@
 
 > 描述：在将来某个时间，某个动作是在进行的过程中(比一般将来时还要笃定)
 >
-> + **现在**进行时：		  助动词be的变位(**am/is/are**) + 动词的现在分词
+> + **现在**进行时：助动词be的变位(**am/is/are**) + 动词的现在分词
 > + **将来**进行时：**will** + **be**(will已经算是变位过的助动词) + 动词的现在分词
 >
 > I **will be eating** a carrot tomorrow from 1 PM to 3 PM.
@@ -476,14 +440,10 @@
 >
 > 我明天4点前就会吃完胡萝卜，对于将来的时间点(明天4点)来说，我在那之前就会完成吃胡萝卜的动作，所以对4点钟是由影响的，影响就是：4点钟之后我就可以发视频了
 >
-> 
->
-> + **现在**完成时：		  助动词have的变位(**have,has**) + 动词的过去分词
+> + **现在**完成时：助动词have的变位(**have,has**) + 动词的过去分词
 > + **将来**完成时：**will** + **have**(前面的will已经算是变位过了) + 动词的过去分词
 >
-> 
->
->  I **will have eaten** the carrots by 4 PM tomorrow. 
+> I **will have eaten** the carrots by 4 PM tomorrow. 
 >
 > The rabbit **has eaten** a carrot. 👉 The rabbit **will have eaten** a carrot.
 > 这兔子在将来某个时间点已经吃了个胡萝卜
@@ -500,7 +460,7 @@
 
 > 现在完成进行时表示现在已经完成，而且还会继续；将来完成进行时表示将来已经完成，而且还会继续
 >
-> + **现在**完成进行时：		   动词have的变位(**have,has**) + been + 动词的现在分词
+> + **现在**完成进行时：动词have的变位(**have,has**) + been + 动词的现在分词
 > + **将来**完成进行时：**will** + **have** + been + 动词的现在分词
 >
 > I **will have been eating** carrots **for 2 hours** by **3 PM tomorrow**.
@@ -512,14 +472,120 @@
 > I **have been thinking** of you. 👉 I **will have been thinking** of you.
 > 我在将来某个时间点已经想你一段时间了，还要在那个时间点后继续想你一段时间
 
+#### 
 
-
-#### 过去将来时
+#### 一般过去将来时
 
 > 这里的过去时相对于过去的将来，和现在没有什么关系
 >
-> + 一般将来时：**will** + 动词原形
-> + 过去将来时：**would**(will的过去式) + 动词原形
+> + **一般**将来时：**will** + 动词原形；助动词be的变位(**am/is/are**) + going + to
+> + **过去**将来时：**would**(will的过去式) + 动词原形；助动词be的变位(**was/were**) + going to
 >
 > I **said** I **would eat** a carrot for lunch.
 > 我(之前)说过我会午饭吃跟胡萝卜(午饭时间对于之前我说那句话的时间来说式在将来，但至于现在午饭时间有没有到，不得而知)
+>
+> I **knew** you **would watch** my video.
+> 我(之前)就知道你会看完的视频(你看我视频这件事，对于我做出这个判断的时间来说式在将来)
+>
+> 
+>
+> I **said** I **would** eat a carrot for lunch. 👉 I said I **was going to** eat a carrot for lunch.
+>
+> I **knew** you **would** watch my video. 👉 I knew you **were going to** watch my video.
+>
+> 
+>
+> #### Would的多义
+>
+> I said I **would** eat carrot for lunch.
+> 我之前说过我午饭会吃胡萝卜(**will的过去式变位，构成时态**)
+>
+> If I were you, I **would** eat a  carrot.
+> 如果我是你，我会吃胡萝卜(构成动词eat的**虚拟语气**：我不可能是你，所以这里的吃是虚拟动作)
+>
+> **Would** you pass me the carrot, please?
+> 能请你把胡萝卜递过来吗？(比Will you pass me the carrot?更礼貌)
+>
+> **Would** you like a carrot for lunch?
+> 你是否午饭想吃胡萝卜？(比Do you want a carrot for lunch?更礼貌)
+
+
+
+#### 过去将来进行时
+
+> + **将来**进行时：will + be + 动词的现在分词
+> + **过去将来**进行时：would + be + 动词的现在分词
+>
+> I **said** I **would be eating** a carrot at 1 PM tomorrow/yesterday.
+> 我之前说我明天下午1点会在吃胡萝卜(我**之前说**我明天/昨天下午1点**会**是**在吃**胡萝卜这个过程中)
+
+
+
+#### 过去将来完成时
+
+> + **将来**完成时：**will**+ have + 动词的过去分词
+> + **过去将来**完成时：**would** + have + 动词的过去分词
+>
+> I **said** I **would have eaten** a carrot by 1 PM tomorrow/yesterday.
+> 我**(之前)说**我明天/昨天下午1点**会**已经**吃掉了**跟胡萝卜(我之前说我明天/昨天下午1点会已经做完了吃胡萝卜这个过程)
+
+
+
+#### 过去将来完成进行时
+
+> + **将来**完成时：**will** + have + been + 动词的现在分词
+> + **过去**将来完成进行时：**would** + have + been + 动词的现在分词
+>
+> I **said** I **would have been eating** lunch for 2 hours by 1 PM tomorrow/yesterday.
+> 我**(之前)说**我明天/昨天下午1点前会**已经吃了两种头午饭**(我**之前说**我**会**明天/昨天下午1点时在吃午饭这个过程中，**之前吃了两种头**，之后还会**继续吃**)
+
+#### 
+
+#### 现在完成时 vs 一般过去时
+
+> + **现在**完成时：重点是某个动作是否在说这句话之前已经完成了，往往考虑过去的动作对现在的影响
+> + **一般**过去时：重点是某个动作在过去有没有发生，往往考虑的是过去的事实
+>
+> ------
+>
+> I **have seen** a carrot.
+>
+> 我见过胡萝卜，表示见过世面
+>
+> 
+>
+> I **saw** a carrot.
+>
+> 我之前看到了一个胡萝卜，表示的事实
+>
+> ------
+>
+> I **have gone** to America.
+>
+> 我已经去美国了，多半暗示我已经离开
+>
+> 
+>
+> I **went** to America.
+>
+> 我去过美国，多半暗示我已经回来了
+>
+> ------
+
+
+
+#### 一般过去时 vs 过去进行时
+
+> + 一般过去时：重点是过去某个动作做了没有，过去的一张照片
+>+ 过去进行时：重点是某个动作在某个时间里在进行中的，过去的一段视频
+
+
+
+> I **said** I **would have been eating** lunch for 2 hours by 1 PM tomorrow/yesterday.
+> 我**(之前)说**我明天/昨天下午1点前会**已经吃了两种头午饭**(我**之前说**我会**明天/昨天下午1点时在吃午饭这个过程中，**之前吃了两种头**，之后还会**继续吃**)
+
+#### 
+
+#### 常用时态
+
+![](./images/常用时态.png)
