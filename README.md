@@ -109,6 +109,8 @@
 
 #### 英语语法体系
 
+> [不规则动词的规律](www.YingYuTu.com/bgz)
+
 ![](.\images\语法体系.png)
 
 ### 
@@ -177,9 +179,9 @@
 >
 > you写动词在此基础上改变拼写（方便发音或避免误解），如：
 >
-> 1. write → writing，不是writeing
-> 2. hit → hitting，不是hiting
-> 3. die → dying，不是dieing
+> 1. write 👉 writing，不是writeing
+> 2. hit 👉 hitting，不是hiting
+> 3. die 👉 dying，不是dieing
 >
 > 其实英语很多不规则，其实都有他不按规则的道理
 >
@@ -192,6 +194,50 @@
 > I **am eating** a carrot. 我正在吃一根胡萝卜
 
 
+
+#### 现在完成时
+
+> 助动词have的变位 + 动词的过去分词
+>
+> #### have
+>
+> 1. 实义动词
+>
+>    I have some coins for this video. 我有一些硬币给这个视频
+>
+> 2. 助动词，构成时态
+>
+>    I/you/we/they **have**
+>
+>    She/he/it **has**
+>
+> #### 过去分词
+>
+> 通常：+ed，过去分词≠过去式
+>
+> 有些动词事不规则变化，如：
+>
+> eat 👉 eaten;  give, see, fall 👉  giv**en**, se**en**, fall**en**
+>
+> bring 👉 brought; bring,buy, fight, think 👉 br**ought**, b**ought**, **fought**, t**hought**
+>
+> fell 👉 felt;  fell, keep, sleep, leave 👉 fe**lt**, ke**pt**, sle**pt**, le**ft**
+>
+> 
+>
+> I eat carrots.
+>
+> I **have eaten** carrots. 我吃过胡萝卜(言下之意：我曾吃过这种食物，是只见过世面的兔子)
+>
+> I **have eaten** a carrot. 我吃过了一跟胡萝卜(言下之意：我已经吃了，所以不饿)
+>
+> You/we/they **have eaten** a carrot.
+>
+> She/he/it **has eaten** a carrot.
+>
+> The rabbit **has eaten** a carrot. 这兔子到现在为止已经吃了个胡萝卜
+>
+> You **have watched** my video. 你到现在为止已经看过了我的视频
 
 
 
