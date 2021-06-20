@@ -249,21 +249,20 @@
 
 > 就是将现在进行时和现在完成时进行融合
 >
-> 现在进行时：**be** + 动词的现在分词
->
-> 现在完成时：**have/has** + 动词的过去分词
->
-> have的变位(**have/has**) + been(**be的过去分词,都是been**) + 动词的现在分词(甚至已经不用过去分词)
->
+> + 现在进行时：**be** + 动词的现在分词
+>+ 现在完成时：**have/has** + 动词的过去分词
+> 
+>have的变位(**have/has**) + been(**be的过去分词,都是been**) + 动词的现在分词(甚至已经不用过去分词)
 > 
 >
-> I **have been eating** carrots. 我正在吃胡萝卜(不短已经吃了些，还将继续)
->
-> The rabbit **has been eating** a carrot. 这兔子到现在为止已经吃胡萝卜一段时间了，还要继续吃
->
-> You **have been watching** my video. 你到现在为止已经看了我时间一段时间，还要继续看
->
-> I **have been thinking** of you. 我到现在已经想你一段时间了，还要继续想
+> 
+>I **have been eating** carrots. 我正在吃胡萝卜(不短已经吃了些，还将继续)
+> 
+>The rabbit **has been eating** a carrot. 这兔子到现在为止已经吃胡萝卜一段时间了，还要继续吃
+> 
+>You **have been watching** my video. 你到现在为止已经看了我时间一段时间，还要继续看
+> 
+>I **have been thinking** of you. 我到现在已经想你一段时间了，还要继续想
 
 ####  
 
@@ -333,28 +332,24 @@
 
 #### 过去进行时
 
-> 现在进行时：助动词be的变位(**am/is/are**) +  动词的现在分词
->
-> 过去进行时：助动词be的变位(**was/were**) + 动词的现在分词
->
-> The rabbit **is eating** a carrot. 👉 The rabbit **was eating** a carrot. 
+> + 现在进行时：助动词be的变位(**am/is/are**) +  动词的现在分词
+>+ 过去进行时：助动词be的变位(**was/were**) + 动词的现在分词
+> 
+>The rabbit **is eating** a carrot. 👉 The rabbit **was eating** a carrot. 
 > 这兔子**在过去**某个时间点处**正在**吃胡萝卜的过程中
->
-> You **are watching** my video. 👉 You **were watching** my video.
+> 
+>You **are watching** my video. 👉 You **were watching** my video.
 > 你**在过去**某个时间点处**正在**看我的视频的过程中
->
-> I **am thinking** of you. 👉 I **was thinking** of you. 
+> 
+>I **am thinking** of you. 👉 I **was thinking** of you. 
 > 我**在过去**某个时间点处**正在**想你
 
 
 
 #### 过去完成时
 
->**现在**完成时：主要表达对现在的影响
->**现在**完成时：助动词have的变位(**have/has**) + 动词的过去分词
->
->过去完成时：主要表达过去(B)对过去(A)的影响（顺序：B A 现在）
->过去**完成时：助动词have的变位(**had**) + 动词的过去分词
+>+ **现在**完成时：主要表达对现在的影响，助动词have的变位(**have/has**) + 动词的过去分词
+>+ **过去**完成时：主要表达过去(B)对过去(A)的影响（顺序：B A 现在）助动词have的变位(**had**) + 动词的过去分词
 >
 >
 >
@@ -383,17 +378,16 @@
 
 > 对于过去某个点已经完成了，而且还要继续进行的动作
 >
-> **现在**完成进行时：助动词have的变位(**have/has**) + been + 动词的现在分词
->
-> **过去**完成进行时：助动词have的变位(**had**) + been + 动词的现在分词
->
-> The rabbit **has been eating** a carrot. 👉 The rabbit **had been eating** a carrot.
+> + **现在**完成进行时：助动词have的变位(**have/has**) + been + 动词的现在分词
+>+ **过去**完成进行时：助动词have的变位(**had**) + been + 动词的现在分词
+> 
+>The rabbit **has been eating** a carrot. 👉 The rabbit **had been eating** a carrot.
 > 这只兔子在**过去某个时间点**已经吃胡萝卜一段时间了，还要在那个时间点之后**继续**吃一段时间
->
-> You **have been watching** my video. 👉 You **had been watching** my video.
+> 
+>You **have been watching** my video. 👉 You **had been watching** my video.
 > 你在**过去某个时间点**已经看我视频一段时间了，还要在那个时间点之后**继续**看一段时间
->
-> I **have been thinking** of you. 👉 I **had been thinking** of you.
+> 
+>I **have been thinking** of you. 👉 I **had been thinking** of you.
 > 我在**过去某个时间点**已经想你一段时间了，还要在那个时间点之后**继续**想一段时间
 
 #### 
@@ -433,9 +427,8 @@
 
 #### 一般过去时 vs 过去进行时
 
-> 一般过去时：重点是过去某个动作做了没有，过去的一张照片
->
-> 过去进行时：重点是某个动作在某个时间里在进行中的，过去的一段视频
+> + 一般过去时：重点是过去某个动作做了没有，过去的一张照片
+>+ 过去进行时：重点是某个动作在某个时间里在进行中的，过去的一段视频
 
 
 
@@ -467,11 +460,66 @@
 
 #### 将来进行时
 
-> 描述：在将来某个时间，某个动作是在进行的过程中(比一般将来时还要确定)
+> 描述：在将来某个时间，某个动作是在进行的过程中(比一般将来时还要笃定)
 >
-> **现在**进行时			  助动词be的变位 + 动词的现在分词
+> + **现在**进行时：		  助动词be的变位(**am/is/are**) + 动词的现在分词
+> + **将来**进行时：**will** + **be**(will已经算是变位过的助动词) + 动词的现在分词
 >
-> **将来**进行时	will + 助动词be的变位 + 动词的现在分词
->
-> I will be eating a carrot tomorrow from 1 PM to 3 PM.
+> I **will be eating** a carrot tomorrow from 1 PM to 3 PM.
 > 我明天1到3点会正在吃胡萝卜
+
+
+
+#### 将来完成时态
+
+> 现在完成时表达对现在的影响；将来完成时表达对将来的影响(比将来进行时更加笃定)
+>
+> 我明天4点前就会吃完胡萝卜，对于将来的时间点(明天4点)来说，我在那之前就会完成吃胡萝卜的动作，所以对4点钟是由影响的，影响就是：4点钟之后我就可以发视频了
+>
+> 
+>
+> + **现在**完成时：		  助动词have的变位(**have,has**) + 动词的过去分词
+> + **将来**完成时：**will** + **have**(前面的will已经算是变位过了) + 动词的过去分词
+>
+> 
+>
+>  I **will have eaten** the carrots by 4 PM tomorrow. 
+>
+> The rabbit **has eaten** a carrot. 👉 The rabbit **will have eaten** a carrot.
+> 这兔子在将来某个时间点已经吃了个胡萝卜
+>
+> You **have watched** my video. 👉 You **will have watched** my video.
+> 你在将来某个时间点已经看过了我的视频
+>
+> I **have thought** of you 👉 I will **have thought** of you.
+> 我在将来某个时间点已经想过你了
+
+
+
+#### 将来完成进行时
+
+> 现在完成进行时表示现在已经完成，而且还会继续；将来完成进行时表示将来已经完成，而且还会继续
+>
+> + **现在**完成进行时：		   动词have的变位(**have,has**) + been + 动词的现在分词
+> + **将来**完成进行时：**will** + **have** + been + 动词的现在分词
+>
+> I **will have been eating** carrots **for 2 hours** by **3 PM tomorrow**.
+> 我确定**明天下午三点钟时**，我不但已经吃了**两个钟头**胡萝卜(也就是明天下午一点开始吃)而且还要继续吃
+>
+> You **have been watching** my video. 👉 You **will have been watching** my video
+> 你在将来某个时间点之前已经看来我视频一段时间了，还要在那个时间之后继续看一段时间
+>
+> I **have been thinking** of you. 👉 I **will have been thinking** of you.
+> 我在将来某个时间点已经想你一段时间了，还要在那个时间点后继续想你一段时间
+
+
+
+#### 过去将来时
+
+> 这里的过去时相对于过去的将来，和现在没有什么关系
+>
+> + 一般将来时：**will** + 动词原形
+> + 过去将来时：**would**(will的过去式) + 动词原形
+>
+> I **said** I **would eat** a carrot for lunch.
+> 我(之前)说过我会午饭吃跟胡萝卜(午饭时间对于之前我说那句话的时间来说式在将来，但至于现在午饭时间有没有到，不得而知)
