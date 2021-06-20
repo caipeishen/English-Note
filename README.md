@@ -437,3 +437,34 @@
 >
 > 过去进行时：重点是某个动作在某个时间里在进行中的，过去的一段视频
 
+
+
+#### 一般将来时
+
+> 描述：将来某个时间点发生的动作(**说话者十分确定**会发生的事)，如果不太确定，就不能用一般将来时(需要借助动词的**语气**)
+
+
+
+> #### 英语表达将来时态
+>
+> 一般现在时态可以表达将来的动作，如：The bus leaves at 8PM.
+>
+> **助动词be的变位 + going + to + 动词原形**，如：I **am going to eat** a carrot.
+>
+> 甚至上句的going也可以省略，便为**助动词be的变位 + to + 动词原形**，如：You **are to eat** a carrot.
+>
+> 又或者也可以用借about取代going，即： **+ about + to + 动词原形**，如：I **am about to eat** a carrot.
+>
+> 最简单的就是**will + 助动词**，即：I/you/she/he/it/they **will eat** a carrot.
+>
+> The sun will rise again tomorrow.
+> 太阳明天也会照常升起
+>
+> I will definitely do my bast to make high-quality videos.
+> 我以后也一定会用尽全力做高质量视频
+
+
+
+#### 将来进行时
+
+>
