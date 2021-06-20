@@ -185,9 +185,9 @@
 >
 > you写动词在此基础上改变拼写（方便发音或避免误解），如：
 >
-> 1. write 👉 writing，不是writeing
-> 2. hit 👉 hitting，不是hiting
-> 3. die 👉 dying，不是dieing
+> 1. write 👉 writing，不是~~writeing~~
+> 2. hit 👉 hitting，不是~~hiting~~
+> 3. die 👉 dying，不是~~dieing~~
 >
 > 其实英语很多不规则，其实都有他不按规则的道理
 >
@@ -285,7 +285,7 @@
 >
 > 
 >
-> The rabbit **ate** a carrot. 兔子吃了胡萝卜(只知道这只兔子过去某个时刻吃胡萝卜)
+> The rabbit **ate** a carrot. 兔子**吃了**胡萝卜(只知道这只兔子过去某个时刻吃胡萝卜)
 >
 > You **watched** my video. 你**看了**我的视频
 >
@@ -334,6 +334,21 @@
 > | choose   | ch**o**se   | ch**o**s**en** |
 
 
+
+#### 过去进行时
+
+> 现在进行时：助动词be的变位(**am/is/are**) +  动词的现在分词
+>
+> 过去进行时：助动词be的变位(**was/were**) + 动词的现在分词
+>
+> The rabbit **is eating** a carrot. 👉 The rabbit **was eating** a carrot. 
+> 这兔子**在过去**某个时间点处**正在**吃胡萝卜的过程中
+>
+> You **are watching** my video. 👉 You **were watching** my video.
+> 你**在过去**某个时间点处**正在**看我的视频的过程中
+>
+> I **am thinking** of you. 👉 I **was thinking** of you. 
+> 我**在过去**某个时间点处**正在**想你
 
 
 
