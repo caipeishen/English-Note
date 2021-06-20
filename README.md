@@ -153,6 +153,46 @@
 
 
 
+#### 现在进行时态
+
+> 助动词be的变位 + 动词的现在分词
+>
+> #### be
+>
+> 1. (连)系动词
+>
+>    I **am** s smart rabbit.
+>
+> 2. 助动词，构成时态
+>
+>    I **am**
+>
+>    You/we/they **are**
+>
+>    She/he/it **is**
+>
+> #### 现在分词
+>
+> 通常：+ing
+>
+> you写动词在此基础上改变拼写（方便发音或避免误解），如：
+>
+> 1. write → writing，不是writeing
+> 2. hit → hitting，不是hiting
+> 3. die → dying，不是dieing
+>
+> 其实英语很多不规则，其实都有他不按规则的道理
+>
+> 
+>
+> I eat carrots
+>
+> I **am eating** carrots. 我正在吃(一些)胡萝卜
+>
+> I **am eating** a carrot. 我正在吃一根胡萝卜
+
+
+
 
 
 ### 人称代词
