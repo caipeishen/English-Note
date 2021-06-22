@@ -875,22 +875,123 @@
 > + You can call me Papa Rabbit.
 >   你可以叫我兔老爹
 >
->   You can call me what you like.
+>   You can call me **what you like**.
 >   你可以叫我你想叫的
 >
 > + My education made me smart.
 >   我的教育造就了我聪明
 >
->   My education made me who I am today
+>   My education made me **who I am today**.
 >   我的教育造就了我今天是这个人
 
 
 
-### 副词性从句
+### 副词性从句(状语从句)
 
-状语从句
+> 副词是指在句子中表示行为或状态特征的词，用以来补充说明动词、形容词、其他副词等
+> 从句子成份上说充当了句子的状语，所以也叫状语从句
 
-​	时间状语
 
-​	地点状语
+
+#### 表时间
+
+> #### 在某一时间点之前，引导词：before
+>
+> + The rabbit ate a carrot at home **before the wolf stopped by**.
+>   **大灰狼串门之前**,兔子吃了根胡萝卜.
+> + **Before the wolf stopped by**, the rabbit ate a carrot at home.
+>   **大灰狼串门之前**,兔子吃了根胡萝卜.
+
+
+
+>#### 在某一时间点之中(当时)，引导词：when, while, as
+>
+>+ The rabbit was eating a carrot **when I reached home**.
+>  **我到家的时候**,兔子在吃胡萝卜.
+>+ The rabbit was eating a carrot **while I was making a video**.
+>  **我做视频的过程中**,兔子在吃胡萝卜.
+>+ I ate a carrot **as I made the video**.
+>  我一边吃胡萝卜**一边做视频**.
+>
+>
+>
+>**When, While, As三者不同点**
+>
+>+ **When**：时间点，突然
+>
+>  The rabbit was eating a carrot at home **when** the wolf stopped by.
+>  兔子在家吃胡萝卜的时候(突然)大灰狼来串门了.
+>  The rabbit was about to eat a carrot at home **when** the wolf stopped by.
+>  兔子在家刚要吃胡萝卜的时候(突然)大灰狼来串门了.
+>
+>+ **While**：时间段
+>  The rabbit was eating a carrot **while** I was making a video.
+>  我做视频的过程中,兔子在吃胡萝卜.
+>
+>+ **As**：同时
+>
+>  l ate a carrot **as** I made the video.
+>  我—边吃胡萝卜一边做视频.
+
+
+
+> #### 在某一时间点之后，引导词：after
+>
+> The rabbit ate a carrot **after the wolf stopped by**.
+> **大灰狼串过门之后**，兔子吃了根胡萝卜.
+
+
+
+> #### 从之前某一时间点开始算，引导词：since
+>
+> The rabbit has shared three carrots **since the wolf stopped by**.
+> **自从大灰狼来串门**，兔子已经分享了三根胡萝卜了.
+
+
+
+> #### 直到在之后的某一时间点，引导词：until
+>
+> The rabbit waited **until the wolf stopped by**.
+> **兔子一直在等**，直到大灰狼来串门.
+
+
+
+> #### 一...就...，引导词：as soon as
+>
+> The rabbit will eat a carrot **as soon as** the wolf leaves.
+> 大灰狼**一离开**兔子**就要**吃一个胡萝卜.
+
+
+
+#### 表地点
+
+
+
+#### 表条件
+
+
+
+#### 表让步
+
+
+
+#### 表方式
+
+
+
+#### 表比较
+
+
+
+#### 表原因
+
+
+
+#### 表目的
+
+
+
+#### 表结果
+
+
 
