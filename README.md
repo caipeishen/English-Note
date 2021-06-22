@@ -1,25 +1,29 @@
-### [语法体系(重要)](https://www.bilibili.com/video/BV1r54y1m7gd)
+# [语法体系(重要)](https://www.bilibili.com/video/BV1r54y1m7gd)
 
-#### 简单句
+![](.\images\语法体系.png)
+
+
+
+## 简单句
 
 > 所有句子拆到不能再拆都是：什么怎么样，又称主语+谓语
 
 
 
-> #### 五种基本句型
->
+### 五种基本句型
+
 > 1. 可以独立完成的动作						主语+**不及物动词**									  He **sleeps**.
-> 2. 有一个动作的承受者                        主语+**及物动词**+宾语 							   He **likes** you.
+>2. 有一个动作的承受者                        主语+**及物动词**+宾语 							   He **likes** you.
 > 3. 有两个动作承受者						    主语+**双及物动词**+间接宾语+直接宾语   He **teaches** you English.
 > 4. 只有一个动作承受者(不同于2)        主语+**复杂及物动词**+宾语+(宾语)补语     He **considers** you smart.
 > 5. 把这个词后面的信息赋予给前者     主语+**系动词**+(主语)补语(表语)                He **is** tall. He **looks** tall.
 
 
 
-> #### 句子成分
->
+### 句子成分
+
 > 1. 主语
-> 2. 谓语动词(~谓语)
+>2. 谓语动词(~谓语)
 > 3. 宾语
 > 4. 宾语补语：补充宾语信息  He considers you **smart**.
 > 5. 主语补语：补充主语信息  He is tall. He looks **tall**.
@@ -29,10 +33,10 @@
 
 
 
-> #### 词类
->
+### 词类
+
 > 1. 名词
-> 2. 冠词
+>2. 冠词
 > 3. 代词
 > 4. 形容词
 > 5. 数词
@@ -44,76 +48,56 @@
 
 
 
-> #### 句子成分vs词类
->
+### 句子成分vs词类
+
 > ![](./images/句子成分vs词类.png)
 
 
 
-> #### 谓语动词三大本领
->
+### 谓语动词三大本领
+
 > 1. 表示动作的时间：现在，过去，将来，从过去某个时间点"算将来"(过去将来)
 >
 > 2. 表示动作的状态：未说明(一般)，完成，进行，不但完成而且继续(完成进行)
 >
->    时间和状态成为时态，自由排列组合有16中时态
+> 时间和状态成为时态，自由排列组合有16中时态
 >
-> 3. 表示动作的假设，情感等： If I were a rabbit. 虚拟语气，这里用were而不是was暗示 并自己并不是兔子
+>    3. 表示动作的假设，情感等： If I were a rabbit. 虚拟语气，这里用were而不是was暗示 并自己并不是兔子
 >
 > 合称：TAM：时(Tense) 体(Aspect) 气(Mood) 
 >
 > 英语的谓语动词本身往往是不能独立完成刚才所说的那些本领，需要助动词来帮助，例如：吃 Eat
 >
 > 1. 为了协助它表示吃过了(完成态),就要用到助动词, have,  have eaten.
-> 2. 为了协助它表示正在吃(进行态),就要用到助动词, be,  is eating.
+>2. 为了协助它表示正在吃(进行态),就要用到助动词, be,  is eating.
 > 3. 为了协助它表示是"被"吃,就要用到助动词be, is eaten.
 > 4. 为了协助它表示有能力吃,就要用到助动词can,  can eat.
 > 5. 为了协助它表示有可能吃,就要用到助动词might,  might eat.
 > 6. 为了协助它表示有义务吃,就要用的助动词must,  must eat.
 > 7. 为了协助它表示否定,不吃,就需要用到助动词do, do not eat.
->
+> 
 > 不要把助动词和其他身份(实义动词)弄混淆
 
 
 
-> #### 非谓语动词
->
+### 非谓语动词
+
 > 1. 动词不定式 to eat  
-> 2. 现在分词 eating
+>2. 现在分词 eating
 > 3. 动名词 eating
 > 4. 过去分词 eaten
->
+> 
 > 并不能确定是动词不定式还是动词原形
 
 
 
-> #### 谓语动词vs非谓语动词
->
+### 谓语动词vs非谓语动词
+
 > 谓语动词进行修改可以改为非谓语动词，非谓语动词几乎可以取代所有的从句，从而简化句子
 >
 > 只不过这样的动词就不再具有表示动作时间，状态，语态，语气的功能
 
 
-
-#### 并列复合句(复合句)
-
-> 并列关系的复合句，简单句和简单句用连词连在一起，不分主次
-
-
-
-#### 主从复合句(复杂句)
-
-> 从属关系的复杂句，主句和从句，从句可以充当所有句子的成分（具体的看下方的**英语从句**）
-
-
-
-#### 英语语法体系
-
-> [不规则动词的规律](www.YingYuTu.com/bgz)
-
-![](.\images\语法体系.png)
-
-### 
 
 ### 16种时态
 
@@ -256,19 +240,19 @@
 > 就是将现在进行时和现在完成时进行融合
 >
 > + 现在**进行**时：**be** + 动词的现在分词
->+ 现在**完成**时：**have/has** + 动词的过去分词
-> 
->have的变位(**have/has**) + been(**be的过去分词,都是been**) + 动词的现在分词(甚至已经不用过去分词)
-> 
+> + 现在**完成**时：**have/has** + 动词的过去分词
+>
+> have的变位(**have/has**) + been(**be的过去分词,都是been**) + 动词的现在分词(甚至已经不用过去分词)
 >
 > 
->I **have been eating** carrots. 我正在吃胡萝卜(不短已经吃了些，还将继续)
-> 
->The rabbit **has been eating** a carrot. 这兔子到现在为止已经吃胡萝卜一段时间了，还要继续吃
-> 
->You **have been watching** my video. 你到现在为止已经看了我时间一段时间，还要继续看
-> 
->I **have been thinking** of you. 我到现在已经想你一段时间了，还要继续想
+>
+> I **have been eating** carrots. 我正在吃胡萝卜(不短已经吃了些，还将继续)
+>
+> The rabbit **has been eating** a carrot. 这兔子到现在为止已经吃胡萝卜一段时间了，还要继续吃
+>
+> You **have been watching** my video. 你到现在为止已经看了我时间一段时间，还要继续看
+>
+> I **have been thinking** of you. 我到现在已经想你一段时间了，还要继续想
 
 ####  
 
@@ -339,15 +323,15 @@
 #### 过去进行时
 
 > + **现在**进行时：助动词be的变位(**am/is/are**) +  动词的现在分词
->+ **过去**进行时：助动词be的变位(**was/were**) + 动词的现在分词
-> 
->The rabbit **is eating** a carrot. 👉 The rabbit **was eating** a carrot. 
+> + **过去**进行时：助动词be的变位(**was/were**) + 动词的现在分词
+>
+> The rabbit **is eating** a carrot. 👉 The rabbit **was eating** a carrot. 
 > 这兔子**在过去**某个时间点处**正在**吃胡萝卜的过程中
-> 
->You **are watching** my video. 👉 You **were watching** my video.
+>
+> You **are watching** my video. 👉 You **were watching** my video.
 > 你**在过去**某个时间点处**正在**看我的视频的过程中
-> 
->I **am thinking** of you. 👉 I **was thinking** of you. 
+>
+> I **am thinking** of you. 👉 I **was thinking** of you. 
 > 我**在过去**某个时间点处**正在**想你
 
 
@@ -385,15 +369,15 @@
 > 对于过去某个点已经完成了，而且还要继续进行的动作
 >
 > + **现在**完成进行时：助动词have的变位(**have/has**) + been + 动词的现在分词
->+ **过去**完成进行时：助动词have的变位(**had**) + been + 动词的现在分词
-> 
->The rabbit **has been eating** a carrot. 👉 The rabbit **had been eating** a carrot.
+> + **过去**完成进行时：助动词have的变位(**had**) + been + 动词的现在分词
+>
+> The rabbit **has been eating** a carrot. 👉 The rabbit **had been eating** a carrot.
 > 这只兔子在**过去某个时间点**已经吃胡萝卜一段时间了，还要在那个时间点之后**继续**吃一段时间
-> 
->You **have been watching** my video. 👉 You **had been watching** my video.
+>
+> You **have been watching** my video. 👉 You **had been watching** my video.
 > 你在**过去某个时间点**已经看我视频一段时间了，还要在那个时间点之后**继续**看一段时间
-> 
->I **have been thinking** of you. 👉 I **had been thinking** of you.
+>
+> I **have been thinking** of you. 👉 I **had been thinking** of you.
 > 我在**过去某个时间点**已经想你一段时间了，还要在那个时间点之后**继续**想一段时间
 
 ####   
@@ -592,9 +576,21 @@
 
 
 
-### 英语从句
 
-#### 形容词从句(=定语从句=关系从句)
+
+## 并列复合句(复合句)
+
+> 并列关系的复合句，简单句和简单句用连词连在一起，不分主次
+
+
+
+## 主从复合句(复杂句)
+
+> 从属关系的复杂句，主句和从句，从句可以充当所有句子的成分（具体的看下方的**英语各种从句**）
+
+
+
+### 形容词从句=定语从句=关系从句
 
 >对某个人某个事物进行描述，具有形容词的性质，所以被称作形容词从句
 >同时它在句中充当定语句子成分，所以也被称作定语从句
@@ -608,21 +604,22 @@
 >+ 中国：这兔子在吃一根我买来的胡萝卜
 >+ 英国：这兔子在吃一根**胡萝卜**([**胡萝卜的关系词**]我买) The rabbit is eating a **carrot**([**that**] I bought).
 >
->
->
->#### 中英思维方式
->
+
+
+
+#### 中英思维方式
+
 >+ 一根**好吃的**胡萝卜					a **tasty** carrot
 >+ 一根**兔子吃了的**胡萝卜            a carrot **that the rabbit ate**
 >+ 一个**是兔子的**老师                    a teacher **who is a rabbit**
 >+ 一个**我昨天看见的**老师            a teacher **whom I saw yesterday**
 >+ **兔子吃胡萝卜的**地方                the place **where the rabbit ate the carrot** 
 >+ **兔子吃胡萝卜的**原因                the reason **why the rabbit ate the carrot**
->
->
->
->#### 关系代词引导的形容词从句
->
+
+
+
+#### 关系代词引导的形容词从句
+
 >+ The rabbit is eating a carrot **that** I bought.
 >
 >+ The teacher **who** ate a carrot is a rabbit.
@@ -633,26 +630,26 @@
 >
 >+ The food **which/that** the teacher likes is a carrot.
 >
->  **that**先行词是**唯一**的，**which**先行词是**多选一**
->  The rabbit ate **the largest** carrot that I've ever seen. 兔子吃的是我见过最大的胡萝卜
->  The rabbit ate a carrot **which** I bought.  兔子吃的是我买的那一根(世界上所有胡萝卜 吃的我买的)
->  The rabbit ate a carrot **that** I bought. 也是对的
+>**that**先行词是**唯一**的，**which**先行词是**多选一**
+>The rabbit ate **the largest** carrot that I've ever seen. 兔子吃的是我见过最大的胡萝卜
+>The rabbit ate a carrot **which** I bought.  兔子吃的是我买的那一根(世界上所有胡萝卜 吃的我买的)
+>The rabbit ate a carrot **that** I bought. 也是对的
 >
->  如何区分用which还是that？
->  如果连提问都不用知道对象是谁，只能用that
->  如果你还可以问which one are you talking about?，那么就可以用which或者that
->
->
->
->#### 关系副词引导的形容词从句
->
+>如何区分用which还是that？
+>如果连提问都不用知道对象是谁，只能用that
+>如果你还可以问which one are you talking about?，那么就可以用which或者that
+
+
+
+#### 关系副词引导的形容词从句
+
 >+ This was the **place where** the rabbit ate the carrot.
 >
 >+ This is the **reason why** the rabbit ate the carrot.
 >
 >+ That was the **day when** the rabbit ate the carrot for the first time.
 >
->  **可以将关系副词转成关系代词**    **关系副词 = 介词 + which**
+>  **可以将关系副词转成关系代词**  **关系副词 = 介词 + which**
 >
 >+ This was the **place at which** the rabbit ate the carrot.
 >
@@ -660,18 +657,20 @@
 >
 >+ That was the **day on which** the rabbit ate the carrot for the first time.
 >
->
->
->#### 限定性形容词从句
->
+
+
+
+#### 限定性形容词从句
+
 >限定某物的范围/性质
 >
 >The rabbit ate the carrot **which** was on the table. 兔子吃的是桌子上的那根胡萝卜
 >
->
->
->#### 非限定性形容词从句
->
+
+
+
+#### 非限定性形容词从句
+
 >没有限定的作用，用了个代词接着说话，补充信息而已
 >
 >The rabbit ate the carrot**, which** was on the table.  兔子吃胡萝卜，桌子上的那个(补充信息)
@@ -685,37 +684,88 @@
 >非限定形容词从句也可以代替整句话
 >
 >**The rabbit ate the carrot**, **which** was not surprising. 兔子吃胡萝卜，**兔子吃胡萝卜这件事**并不意外
+
+
+
+#### 限定性 vs 非限定性
+
+>+ I have a head **which** is round. 我有好几个头，其中一个是圆的
+>+ I have a head**, which** is round. 我有一个头，而且是圆的
+
+
+
+### 名词性从句
+
++ 主语从句
++ 宾语从句
++ 表语从句
++ 同位语从句
++ 宾语补语从句
+
+
+
+#### 主语从句
+
+>以引导词开始，句子主语由从句充当
+>
+>**That the rabbit ate a carrot** is obvious.  兔子吃了胡萝卜，这是明显的（That从属连词 引导词）
 >
 >
 >
->#### 限定性 vs 非限定性
+>#### 引导词
 >
->+ I have a head which is round. 我有好几个头，其中一个是圆的
->+ I have a head**,** which is round. 我有一个头，而且是圆的
+>在问句中：疑问代/副词
+>
+>+ **Whether** the rabbit ate the carrot is obvious.
+>+ **Where** the rabbit ate the carrot is obvious.
+>+ **When** the rabbit ate the carrot is obvious.
+>+ **How** the rabbit ate the carrot is obvious.
+>+ **Who** ate the carrot is obvious.
+>+ **What** the rabbit ate is obvious.
+>
+>
+>
+>#### 形式主语
+>
+>**That the hungry rabbit  had already eaten a carrot for dinner this evening** is obvious.
+>显得头重脚轻，母语人士很少这样说话，可以改为
+>**It** is obvious **that the hungry rabbit had already eaten a carrot for dinner this evening**.
+>这里的It不是平时指代物体的代词"它"，而是指代**后面的从句**，本身没有实际意义，所以被称为**形式主语**
+>
+>将引导词开始主语从句改为形式主语
+>
+>+ **That the rabbit ate a carrot** is obvious. 
+>  **It** is obvious **that the rabbit ate a carrot**. 
+>+ **That the rabbit ate a carrot** happened. 
+>  **It** happened **that the rabbit ate a carrot**.
+>+ **Whether the rabbit ate the carrot** is obvious. 
+>  It is obvious **whether the rabbit ate the carrot**.
+>+ **Where the rabbit ate the carrot** is obvious.
+>  It is obvious **where the rabbit ate the carrot**.
+>+ **When the rabbit ate the carrot** is obvious.
+>  It is obvious **when the rabbit ate the carrot**.
+>+ **How the rabbit ate the carrot** is obvious.
+>  It is obvious **how the rabbit ate the carrot**.
+>+ **Who ate the carrot** is obvious.
+>  It is **obvious who ate the carrot**.
+>+ **What the rabbit ate** is obvious.
+>  It is obvious **what the rabbit ate**.
 
 
 
-#### 名词性从句
+#### 宾语从句
 
-主语从句
-
-并与从句
-
-表语从句
-
-宾语从句
-
-同位语从句
+从句在句子中做宾语
 
 
 
-#### 副词性从句
+
+
+### 副词性从句
 
 状语从句
 
 ​	时间状语
 
 ​	地点状语
-
-#### 
 
