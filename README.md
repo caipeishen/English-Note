@@ -595,7 +595,6 @@
 >对某个人某个事物进行描述，具有形容词的性质，所以被称作形容词从句
 >同时它在句中充当定语句子成分，所以也被称作定语从句
 >
->
 >a      **carrot**      **that**      I      bought
 >		先行词	 关系词
 >
@@ -643,10 +642,10 @@
 
 #### 关系副词引导的形容词从句
 
+>where 修饰place，why修饰reason，when修饰day，属于关系副词
+>
 >+ This was the **place where** the rabbit ate the carrot.
->
 >+ This is the **reason why** the rabbit ate the carrot.
->
 >+ That was the **day when** the rabbit ate the carrot for the first time.
 >
 >  **可以将关系副词转成关系代词**  **关系副词 = 介词 + which**
@@ -662,19 +661,23 @@
 
 #### 限定性形容词从句
 
->限定某物的范围/性质
+>形容词从句/定语从句的主要功能：限定范围
 >
->The rabbit ate the carrot **which** was on the table. 兔子吃的是桌子上的那根胡萝卜
+>The rabbit ate the carrot **which was on the table**. 兔子吃的是桌子上的那根胡萝卜
 >
+>限定carrot的范围，有好多胡萝卜，但兔子只是吃的其中的一根，哪一根，在桌子上的那一根，这样的从句属于限定性形容词从句
 
 
 
 #### 非限定性形容词从句
 
->没有限定的作用，用了个代词接着说话，补充信息而已
+>没有限定的作用，只不过用了个代词接着说话，补充信息而已
 >
 >The rabbit ate the carrot**, which** was on the table.  兔子吃胡萝卜，桌子上的那个(补充信息)
 >== The rabbit ate the carrot**, the carrot** was on the table.  兔子吃胡萝卜，胡萝卜在桌子上
+>
+> They went to London，where they lived for six months.  他们去了[伦敦](https://baike.baidu.com/item/伦敦/862)，在那儿呆了六个月的时间
+>== They went to London，the London they lived for six months. 他们去了[伦敦](https://baike.baidu.com/item/伦敦/862)，在伦敦呆了六个月的时间
 >
 >非限定形容词从句因为补充的特点经常用做插入语，插入语直接去掉不影响句意
 >
@@ -689,8 +692,8 @@
 
 #### 限定性 vs 非限定性
 
->+ I have a head **which** is round. 我有好几个头，其中一个是圆的
->+ I have a head**, which** is round. 我有一个头，而且是圆的
+>+ I have a head **which** is round. 我有一个圆的头
+>+ I have a head**, which** is round. 我有一个头，它是圆的
 
 
 
