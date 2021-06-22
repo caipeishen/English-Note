@@ -396,7 +396,7 @@
 >I **have been thinking** of you. 👉 I **had been thinking** of you.
 > 我在**过去某个时间点**已经想你一段时间了，还要在那个时间点之后**继续**想一段时间
 
-#### 
+####   
 
 #### 一般将来时
 
@@ -472,7 +472,7 @@
 > I **have been thinking** of you. 👉 I **will have been thinking** of you.
 > 我在将来某个时间点已经想你一段时间了，还要在那个时间点后继续想你一段时间
 
-#### 
+####  
 
 #### 一般过去将来时
 
@@ -539,7 +539,7 @@
 > I **said** I **would have been eating** lunch for 2 hours by 1 PM tomorrow/yesterday.
 > 我**(之前)说**我明天/昨天下午1点前会**已经吃了两种头午饭**(我**之前说**我**会**明天/昨天下午1点时在吃午饭这个过程中，**之前吃了两种头**，之后还会**继续吃**)
 
-#### 
+####  
 
 #### 常用时态
 
