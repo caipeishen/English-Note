@@ -749,10 +749,6 @@
 
 #### 宾语从句
 
-> 从句在句子中做宾语
-
-
-
 >#### 确定信息做宾语从句
 >
 >I saw **that the rabbit ate a carrot**.
@@ -823,6 +819,36 @@
 > + l am sure **that there's a carrot on the table**.
 > + l am happy **that there's a carrot on the table**.
 > + l am afraid **that there's no carrot on the table**.
+
+
+
+#### 表语从句(主语补语)
+
+>I am a **rabbit**. 主语 + 系动词 + 表语(主语补语)
+>
+>The carrot tastes **good**.
+
+
+
+> #### 表语从句(系动词：be动词)
+>
+> + The problem **is** that the rabbit is hungry.
+> + The reason **is** that there's no more carrot.
+> + The question **is** whether the rabbit is hungry.
+> + The question **is** what the rabbit should eat.
+> + The question **is** where/when/how the rabbit should eat the carrot.
+>
+> 其实就是将主语从句反过来
+> **That the rabbit ate a carrot** is secret. 👉 The secret is **that the rabbit ate a carrot**.
+
+
+
+> #### 表语从句(系动词：非be动词)
+>
+> 例如fell, seem, look, taste这样的系动词
+>
+> + It seems **that the rabbit is hungry**.
+> + It feels **that you're not telling the truth**.
 
 
 
