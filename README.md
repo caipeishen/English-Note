@@ -97,13 +97,13 @@
 
 #### 并列复合句(复合句)
 
-> 并列关系的复合句
+> 并列关系的复合句，简单句和简单句用连词连在一起，不分主次
 
 
 
 #### 主从复合句(复杂句)
 
-> 从属关系的复杂巨，包括主句和从句，从句可以充当所有句子的成分
+> 从属关系的复杂句，主句和从句，从句可以充当所有句子的成分（具体的看下方的**英语从句**）
 
 
 
@@ -255,8 +255,8 @@
 
 > 就是将现在进行时和现在完成时进行融合
 >
-> + 现在进行时：**be** + 动词的现在分词
->+ 现在完成时：**have/has** + 动词的过去分词
+> + 现在**进行**时：**be** + 动词的现在分词
+>+ 现在**完成**时：**have/has** + 动词的过去分词
 > 
 >have的变位(**have/has**) + been(**be的过去分词,都是been**) + 动词的现在分词(甚至已经不用过去分词)
 > 
@@ -589,3 +589,133 @@
 
 > I **said** I **would have been eating** lunch for 2 hours by 1 PM tomorrow/yesterday.
 > 我**(之前)说**我明天/昨天下午1点前会**已经吃了两种头午饭**(我**之前说**我会**明天/昨天下午1点时在吃午饭这个过程中，**之前吃了两种头，之后还会**继续吃**)
+
+
+
+### 英语从句
+
+#### 形容词从句(=定语从句=关系从句)
+
+>对某个人某个事物进行描述，具有形容词的性质，所以被称作形容词从句
+>同时它在句中充当定语句子成分，所以也被称作定语从句
+>
+>
+>a      **carrot**      **that**      I      bought
+>		先行词	 关系词
+>
+>------
+>
+>+ 中国：这兔子在吃一根我买来的胡萝卜
+>+ 英国：这兔子在吃一根**胡萝卜**([**胡萝卜的关系词**]我买) The rabbit is eating a **carrot**([**that**] I bought).
+>
+>
+>
+>#### 中英思维方式
+>
+>+ 一根**好吃的**胡萝卜					a **tasty** carrot
+>+ 一根**兔子吃了的**胡萝卜            a carrot **that the rabbit ate**
+>+ 一个**是兔子的**老师                    a teacher **who is a rabbit**
+>+ 一个**我昨天看见的**老师            a teacher **whom I saw yesterday**
+>+ **兔子吃胡萝卜的**地方                the place **where the rabbit ate the carrot** 
+>+ **兔子吃胡萝卜的**原因                the reason **why the rabbit ate the carrot**
+>
+>
+>
+>#### 关系代词引导的形容词从句
+>
+>+ The rabbit is eating a carrot **that** I bought.
+>
+>+ The teacher **who** ate a carrot is a rabbit.
+>
+>+ The teacher **whom** I saw yesterday is a rabbit.
+>
+>+ The teacher **whose** favorite food is carrot is a rabbit.
+>
+>+ The food **which/that** the teacher likes is a carrot.
+>
+>  **that**先行词是**唯一**的，**which**先行词是**多选一**
+>  The rabbit ate **the largest** carrot that I've ever seen. 兔子吃的是我见过最大的胡萝卜
+>  The rabbit ate a carrot **which** I bought.  兔子吃的是我买的那一根(世界上所有胡萝卜 吃的我买的)
+>  The rabbit ate a carrot **that** I bought. 也是对的
+>
+>  如何区分用which还是that？
+>  如果连提问都不用知道对象是谁，只能用that
+>  如果你还可以问which one are you talking about?，那么就可以用which或者that
+>
+>
+>
+>#### 关系副词引导的形容词从句
+>
+>+ This was the **place where** the rabbit ate the carrot.
+>
+>+ This is the **reason why** the rabbit ate the carrot.
+>
+>+ That was the **day when** the rabbit ate the carrot for the first time.
+>
+>  **可以将关系副词转成关系代词**    **关系副词 = 介词 + which**
+>
+>+ This was the **place at which** the rabbit ate the carrot.
+>
+>+ This is the **reason for which** the rabbit ate the carrot.
+>
+>+ That was the **day on which** the rabbit ate the carrot for the first time.
+>
+>
+>
+>#### 限定性形容词从句
+>
+>限定某物的范围/性质
+>
+>The rabbit ate the carrot **which** was on the table. 兔子吃的是桌子上的那根胡萝卜
+>
+>
+>
+>#### 非限定性形容词从句
+>
+>没有限定的作用，用了个代词接着说话，补充信息而已
+>
+>The rabbit ate the carrot**, which** was on the table.  兔子吃胡萝卜，桌子上的那个(补充信息)
+>== The rabbit ate the carrot**, the carrot** was on the table.  兔子吃胡萝卜，胡萝卜在桌子上
+>
+>非限定形容词从句因为补充的特点经常用做插入语，插入语直接去掉不影响句意
+>
+>My head, <u>**which is big**</u>, is useful when it rains. 我有大头，下雨不愁
+>The biggest carrot, <u>**which the rabbit ate**</u>, was on the table. 最大的胡萝卜在桌上，兔子吃了它
+>
+>非限定形容词从句也可以代替整句话
+>
+>**The rabbit ate the carrot**, **which** was not surprising. 兔子吃胡萝卜，**兔子吃胡萝卜这件事**并不意外
+>
+>
+>
+>#### 限定性 vs 非限定性
+>
+>+ I have a head which is round. 我有好几个头，其中一个是圆的
+>+ I have a head**,** which is round. 我有一个头，而且是圆的
+
+
+
+#### 名词性从句
+
+主语从句
+
+并与从句
+
+表语从句
+
+宾语从句
+
+同位语从句
+
+
+
+#### 副词性从句
+
+状语从句
+
+​	时间状语
+
+​	地点状语
+
+#### 
+
