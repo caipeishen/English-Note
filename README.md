@@ -703,7 +703,7 @@
 
 #### 主语从句
 
->以引导词开始，句子主语由从句充当
+>句子主语由从句充当，主语以引导词开始，主语除去引导词剩下的词序和中文基本一致
 >
 >**That the rabbit ate a carrot** is obvious.  兔子吃了胡萝卜，这是明显的（That从属连词 引导词）
 >
@@ -711,7 +711,7 @@
 >
 >#### 引导词
 >
->在问句中：疑问代词/副词
+>在问句中：疑问代词/副词，这里叫连接代词/副词
 >
 >+ **Whether** the rabbit ate the carrot is obvious.
 >+ **Where** the rabbit ate the carrot is obvious.
@@ -719,6 +719,8 @@
 >+ **How** the rabbit ate the carrot is obvious.
 >+ **Who** ate the carrot is obvious.
 >+ **What** the rabbit ate is obvious.
+>
+>会出现说了很长才出现关键信息，母语人士通常使用下方的形式主语
 >
 >
 >
@@ -732,21 +734,21 @@
 >将引导词开始主语从句改为形式主语
 >
 >+ **That the rabbit ate a carrot** is obvious. 
->  **It** is obvious **that the rabbit ate a carrot**. 
+>It is obvious **that the rabbit ate a carrot**. 
 >+ **That the rabbit ate a carrot** happened. 
->  **It** happened **that the rabbit ate a carrot**.
+>It happened **that the rabbit ate a carrot**.
 >+ **Whether the rabbit ate the carrot** is obvious. 
->  It is obvious **whether the rabbit ate the carrot**.
+>It is obvious **whether the rabbit ate the carrot**.
 >+ **Where the rabbit ate the carrot** is obvious.
->  It is obvious **where the rabbit ate the carrot**.
+>It is obvious **where the rabbit ate the carrot**.
 >+ **When the rabbit ate the carrot** is obvious.
->  It is obvious **when the rabbit ate the carrot**.
+>It is obvious **when the rabbit ate the carrot**.
 >+ **How the rabbit ate the carrot** is obvious.
->  It is obvious **how the rabbit ate the carrot**.
+>It is obvious **how the rabbit ate the carrot**.
 >+ **Who ate the carrot** is obvious.
->  It is **obvious who ate the carrot**.
+>It is **obvious who ate the carrot**.
 >+ **What the rabbit ate** is obvious.
->  It is obvious **what the rabbit ate**.
+>It is obvious **what the rabbit ate**.
 
 
 
