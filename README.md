@@ -12,9 +12,9 @@
 
 ### 五种基本句型
 
-> 1. 可以独立完成的动作						主语+**不及物动词**									  He **sleeps**.
->2. 有一个动作的承受者                        主语+**及物动词**+宾语 							   He **likes** you.
-> 3. 有两个动作承受者						    主语+**双及物动词**+间接宾语+直接宾语   He **teaches** you English.
+> 1. 可以独立完成的动作						主语+**不及物动词**									   He **sleeps**.
+>2. 有一个动作的承受者                        主语+**单及物动词**+宾语                             He **likes** you.
+> 3. 有两个动作承受者						    主语+**双及物动词**+间接宾语+直接宾语    He **teaches** you English.
 > 4. 只有一个动作承受者(不同于2)        主语+**复杂及物动词**+宾语+(宾语)补语     He **considers** you smart.
 > 5. 把这个词后面的信息赋予给前者     主语+**系动词**+(主语)补语(表语)                He **is** tall. He **looks** tall.
 
@@ -824,9 +824,11 @@
 
 #### 表语从句(主语补语)
 
->I am a **rabbit**. 主语 + 系动词 + 表语(主语补语)
+>I am a **rabbit**. 
 >
 >The carrot tastes **good**.
+>
+>主语 + 系动词 + 表语(主语补语)
 
 
 
@@ -838,7 +840,7 @@
 > + The question **is** what the rabbit should eat.
 > + The question **is** where/when/how the rabbit should eat the carrot.
 >
-> 其实就是将主语从句反过来
+> 表语从句其实就是将主语从句反过来
 > **That the rabbit ate a carrot** is secret. 👉 The secret is **that the rabbit ate a carrot**.
 
 
@@ -849,6 +851,38 @@
 >
 > + It seems **that the rabbit is hungry**.
 > + It feels **that you're not telling the truth**.
+
+
+
+#### 同位语从句
+
+> My teacher, **Papa Rabbit**, likes carrots.
+> 同位语其实就是用不同的方式把同一个概念再说一遍，用逗号隔开
+
+
+
+> + The fact **that the rabbit ate the carrot did the carrot** did not surprise me.
+>   **兔子吃了胡萝卜**这个事实并没让我吃惊
+> + I have no idea **who ate the carrot**.
+>   我不知道**谁吃了那胡萝卜**
+> + I am sure of the fact **that there's a carrot on the table**.
+>   我确定**桌上有跟胡萝卜**这件事
+
+
+
+#### 宾语补语从句
+
+> + You can call me Papa Rabbit.
+>   你可以叫我兔老爹
+>
+>   You can call me what you like.
+>   你可以叫我你想叫的
+>
+> + My education made me smart.
+>   我的教育造就了我聪明
+>
+>   My education made me who I am today
+>   我的教育造就了我今天是这个人
 
 
 
