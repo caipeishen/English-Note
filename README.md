@@ -590,7 +590,7 @@
 
 
 
-### 形容词从句=定语从句=关系从句
+### 形容词从句(定语从句、关系从句)
 
 >对某个人某个事物进行描述，具有形容词的性质，所以被称作形容词从句
 >同时它在句中充当定语句子成分，所以也被称作定语从句
@@ -642,11 +642,11 @@
 
 #### 关系副词引导的形容词从句
 
->where 修饰place，why修饰reason，when修饰day，属于关系副词
+>where··· 修饰place，why····修饰reason，when···修饰day，属于关系副词
 >
->+ This was the **place where** the rabbit ate the carrot.
->+ This is the **reason why** the rabbit ate the carrot.
->+ That was the **day when** the rabbit ate the carrot for the first time.
+>+ This was the **place where the rabbit ate the carrot**.
+>+ This is the **reason why the rabbit ate the carrot**.
+>+ That was the **day when the rabbit ate the carrot for the first time**.
 >
 >  **可以将关系副词转成关系代词**  **关系副词 = 介词 + which**
 >
@@ -878,16 +878,15 @@
 #### 宾语补语从句
 
 > + You can call me Papa Rabbit.
->   你可以叫我兔老爹
->
->   You can call me **what you like**.
->   你可以叫我你想叫的
->
-> + My education made me smart.
+>     你可以叫我兔老爹
+>  You can call me **what you like**.
+>     你可以叫我你想叫的
+>   
+>+ My education made me smart.
 >   我的教育造就了我聪明
->
->   My education made me **who I am today**.
->   我的教育造就了我今天是这个人
+>     My education made me **who I am today**.
+>  我的教育造就了我今天是这个人
+>   
 
 
 
@@ -904,7 +903,7 @@
 >
 > + The rabbit ate a carrot at home **before the wolf stopped by**.
 >   **大灰狼串门之前**,兔子吃了根胡萝卜.
-> + **Before the wolf stopped by**, the rabbit ate a carrot at home.
+> + **Before the wolf stopped by,** the rabbit ate a carrot at home.
 >   **大灰狼串门之前**,兔子吃了根胡萝卜.
 
 
@@ -924,10 +923,10 @@
 >
 >+ **When**：时间点，突然
 >
->  The rabbit was eating a carrot at home **when** the wolf stopped by.
->  兔子在家吃胡萝卜的时候(突然)大灰狼来串门了.
->  The rabbit was about to eat a carrot at home **when** the wolf stopped by.
->  兔子在家刚要吃胡萝卜的时候(突然)大灰狼来串门了.
+>    The rabbit was eating a carrot at home **when** the wolf stopped by.
+>    兔子在家吃胡萝卜的时候(突然)大灰狼来串门了.
+>    The rabbit was about to eat a carrot at home **when** the wolf stopped by.
+>    兔子在家刚要吃胡萝卜的时候(突然)大灰狼来串门了.
 >
 >+ **While**：时间段
 >  The rabbit was eating a carrot **while** I was making a video.
@@ -942,33 +941,90 @@
 
 > #### 在某一时间点之后，引导词：after
 >
-> The rabbit ate a carrot **after the wolf stopped by**.
-> **大灰狼串过门之后**，兔子吃了根胡萝卜.
+> + The rabbit ate a carrot **after the wolf stopped by**.
+>   **大灰狼串过门之后**，兔子吃了根胡萝卜.
 
 
 
 > #### 从之前某一时间点开始算，引导词：since
 >
-> The rabbit has shared three carrots **since the wolf stopped by**.
-> **自从大灰狼来串门**，兔子已经分享了三根胡萝卜了.
+> + The rabbit has shared three carrots **since the wolf stopped by**.
+>   **自从大灰狼来串门**，兔子已经分享了三根胡萝卜了.
 
 
 
 > #### 直到在之后的某一时间点，引导词：until
 >
-> The rabbit waited **until the wolf stopped by**.
-> **兔子一直在等**，直到大灰狼来串门.
+> + The rabbit waited **until the wolf stopped by**.
+>   **兔子一直在等**，直到大灰狼来串门.
+> + The rabbit didn't eat any carrot **until the wolf stopped by**.
+>   兔子**直到大灰狼来串门**才吃了胡萝
 
 
 
-> #### 一...就...，引导词：as soon as
+> #### 一····就····，引导词：as soon as
 >
-> The rabbit will eat a carrot **as soon as** the wolf leaves.
-> 大灰狼**一离开**兔子**就要**吃一个胡萝卜.
+> + The  rabbit will eat a carrot **as soon as** the wolf leaves.
+>   大灰狼**一离开**兔子**就要**吃一个胡萝卜.
+
+
+
+> #### 下次····，引导词：the next time
+>
+> + The rabbit will share the biggest carrot **the next time the wolf stops by**.
+>   **下次大灰狼来串门**，兔子会一起分享最大的胡萝卜.
 
 
 
 #### 表地点
+
+
+
+> #### 地点副词(状语)从句
+>
+> 引导词：where + 强调形式(wherever不管哪里， everywhere所有地方，anywhere任何地方)
+>
+> The rabbit ate the carrot **where he found it**.
+> 兔子在**找到胡萝卜的地方**吃了它
+
+
+
+> 比较，只看见**where**引导词不能确定是哪种从句
+>
+> The rabbit ate the carrot **where he found it**.  地点副词状语从句(副词从句直接等于地点)
+> The rabbit ate the carrot at the **place where he found it**. 形容词从句(从句修饰先行词place)
+>
+> This is **where he found the carrot**. 表语从句
+> **Where he found the carrot** is a secret. 主语从句
+
+
+
+>The rabbit will go **where** he can find a carrot.
+>The rabbit will go **wherever** he can find a carrot.  强调：不管哪里
+>The rabbit sees a carrot **everywhere** he goes.       强调：所有地方
+>The rabbit can eat a carrot **anywhere** he likes.      强调：任何地方
+
+#### 
+
+#### 表比较
+
+> #### 比较副词从句："更···"
+>
+> + He is smarter **than me**. (口语)
+>   He is smarter **than l am**.
+> + This carrot is bigger **than that one**. (口语)
+>   This carrot is bigger **than that one is**.
+> + She is more beautiful **than Snow White**. (口语)
+>   She is more beautiful **than Snow White is**.
+
+
+
+>#### 比较副词从句："越···"
+>
+>+ **The more you practice**  English, **the more fluent** you become.
+>  你**越多练习**英语，你就**越流利**
+>+ **The more coins** you give me, **the more videos** I make.
+>  你投币**越多**，我做的视频也**越多**
 
 
 
@@ -981,10 +1037,6 @@
 
 
 #### 表方式
-
-
-
-#### 表比较
 
 
 
