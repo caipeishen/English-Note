@@ -103,6 +103,8 @@
 
 > 主要包含陈述语气、祈使语气、虚拟语气
 
+![](./images/英语动词语气总结.png)
+
 
 
 #### 陈述语气
@@ -125,7 +127,95 @@
 
 #### 虚拟语气
 
+> + 如果描述你**脑中的想象**，尤其是**和现实相反的**，或者**说主观的意愿**，那么我们就要用动词的**虚拟语气**
+> + 如果描述**现实**，包括**直接描述请求命令**，那么我们就不用动词的虚拟语气，而是**陈述语气，祈使语气**
+> + 主要用于：**与事实相反的假设**，**表达愿望，请求，建议，命令等**(发生在我们脑中的，非现实发生的)
 
+
+
+> ### 虚拟语气表不可能假设
+
+
+
+> #### 虚拟语气：描述与现在事实相反
+>
+> 条件句：**过去式**
+> 主句：**would** + 动词原形(这里不能用will，因为will表示很确定才能用将来时，这里是假想)
+>
+> 张三：如果我现在看到那只兔子，我会咬它。
+>
+> 兔子躲起来了，张三描述的是与现实相反的事情，我们就需要用动词的虚拟语气
+>
+> ~~If I see the rabbit **now**, I **will** bite him.~~  不能这样说，因为这里有个now，表示就是现在，很明确的时间，I see the rabbit 和 will bite him 都是客观描述事实或者很确定在将来会发生的事情，而事实不是这样。怎么办呢？咱们就要把动词时间**往过去推一个时间段**，变成：If I **saw** the rabbit now, I **would** bite him，出现了saw和would，这里动词是过去式，但并不表示过去时间，也就是说，这句话不是在描述过去发生的事情，而是在描述现在的，没发生的，但是希望发生的事，是一个主观意愿或者说想象的假设，换句话说，只是看见句中出现saw这一个过去式，咱们还不能仅仅根据这一信息来判断这是过去时间。
+>
+> If I **were** you, I **would give** this video a thumbs-up.
+> 如果我是你，我会给这视频点赞(如果be动词，那么过去式要用were，不管什么人称)，因为如果用am表示陈述，表示事实上我就是你，那又怎么能假设呢，不自相矛盾吗
+
+
+
+> #### 虚拟语气：描述与将来事实相反(可能性很小)
+>
+> 条件句：**should**(shall过去式) + 动词原形
+> 主句：**would** + 动词原形
+>
+> 如果将时间改为明天，If I see the rabbit **tomorrow**, I will bite him. 这是正确的，但是结合实际场景，张三根本不可能有机会咬兔子，张三只能说：**万一**我看到兔子，我会咬它。这个就表明明天看见兔子机会太小了，也用虚拟语气，和将来事实相反或者说可能性很小，就要使用虚拟语气的另一种说法：描述与将来事实相反(可能性很小)。
+>
+> If I **should see** the rabbit tomorrow, I **would** bite him.
+
+
+
+> #### 虚拟语气：描述与过去事实相反
+>
+> 条件句：**had + 动词过去分词**
+> 主句：**would have + 动词过去分词**
+>
+> 此时张三特别后悔，说道，我要是前几天看到那只兔子就好了，当时就会咬他 
+>
+> ~~If I **saw** the rabbit a few days ago...~~ 如果这样说，除了时间副词，和**描述与现在事实相反**的情况一样了吗(如果和现在事实相反，动词要用过去式)，如果和过去事实相反，动词虚拟语气的变位就是要改成**过去完成时**的形式，那么主句也不能说 ~~I **would** bite him~~，所以主句同样也要改成过去完成时，I would have bitten him.
+>
+> If I **had seen** the rabbit a few days ago, I **would have bitten** him.
+>
+> If I **had watched** this video before, I **would have aced** my test. 我要是**之前就看了这视频**，那**绝对能考个**好成绩
+
+
+
+> ### 虚拟语气表达愿望，请求，建议，命令等
+
+
+
+> #### 虚拟语气表达愿望，请求，建议，命令等
+>
+> **wish 希望(可能性小)**，而hope 希望(中性)
+> **would rather 宁愿**
+>
+> ------
+>
+> 下面几个有点特殊，后面接的虚拟语气一律是should + 动词原形，和上方两个不太一样
+> **demand 要求**
+> **suggest 建议**
+> **insist 坚持**
+> **order 命令**
+>
+> + **对现在的愿望**：**wish + 动词过去式**
+>   I **wish** (that) I **were** a rabbit. 我**希望**我是只兔子
+>   I **wish** you **were** here! 我**希望**你现在就在这
+>   I **would rather** that you **didn't eat** the carrot. 我宁愿你**不会吃**那胡萝卜(你还没有吃)
+>
+>   I **demand/suggest/insist/order** that you **~~should~~ give** me a carrot. 我要求/建议/坚持/命令你给我一根胡萝卜
+>
+> + **对过去的愿望**：**had + 动词过去分词**
+>   I **wish** (that) I **had eaten** the carrot. 我希望我**吃了**那只胡萝卜
+>   I **would rather** that you **hadn't eaten** the carrot. 我**宁愿**你**没吃掉**那胡萝卜(你已经吃掉了)
+>
+> + **对将来的愿望**：**cloud + 动词原形**
+>   I **wish** (that) I **could eat** the carrot.  我希望我**能吃**那只胡萝卜
+>
+> 从句之间也可以相互变换
+>
+> + I **suggest** that you **(should) eat** a carrot. (宾语从句)
+> + It it **suggested** that you **(should) eat** a carrot. (主语从句)
+> + The **suggestion** is that you **(should) eat** a carrot. (主语补语/表语从句)、
+> + It it (hight) time that you **ate** a carrot. (定语从句)
 
 
 
@@ -1008,8 +1098,6 @@
 
 #### 表地点
 
-
-
 > #### 地点副词(状语)从句
 >
 > 引导词：where + 强调形式(wherever不管哪里， everywhere所有地方，anywhere任何地方)
@@ -1034,7 +1122,7 @@
 >The rabbit sees a carrot **everywhere** he goes.       强调：所有地方
 >The rabbit can eat a carrot **anywhere** he likes.      强调：任何地方
 
-#### 
+
 
 #### 表比较
 
