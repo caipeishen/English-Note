@@ -235,13 +235,13 @@
 >   兔子**停下(手里的活)**去吃―根胡萝卜.
 >
 >   The rabbit stopped **eating** a carrot.
->   兔子停止吃一根胡萝卜.
+>   兔子**停止吃**一根胡萝卜.
 >
 > + The wolf forgot **to invite** the rabbit to her party.
->   狼忘记邀请兔子去她的聚会.
+>   狼**忘记邀请**兔子去她的聚会.
 >
 >   The rabbit forgot **accepting** the wolf's invitation.
->   兔子忘记接受过狼的邀请.
+>   兔子**忘记接受过**狼的邀请.
 >
 >   forgot + to         忘记去做
 >   forgot + doing   忘记做过
