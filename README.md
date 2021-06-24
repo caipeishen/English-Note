@@ -175,22 +175,88 @@
 >
 > + to have eaten a carrot
 >
->   The rabbit will appear to have eaten a carrot.
->   这兔子之后会看起来像是吃过了一根胡萝卜.
+>   
 >
 > + to have been eating a carrot
 
 
 
-#### 现在分词 eating
+#### 动名词
+
+> 把动词原形后 + ing，就能把动词转话为名词来用。名词可以做的成分，动名词同样可以承担。
 
 
 
-#### 动名词 eating
+> #### 动名词做主语
+>
+> Carrots are healthy for the rabbit.
+> 胡萝卜对兔子来说很健康.
+>
+> **Eating carrots** is healthy for the rabbit.
+> **吃胡萝卜**(这个行为)对兔子来说很健康.
 
 
 
-#### 过去分词 eaten
+> #### 动名词做主语补语(表语)
+>
+> The rabbit's hobby is **growing carrots**.
+> 兔子的爱好是**种胡萝卜**.
+
+
+
+> #### 动名词做定语
+>
+> a **sleeping** pill 安眠药，这里作定语修饰药，是为了睡眠用的，也就是 a pill for **sleeping**(名词).
+
+
+
+> #### 动名词做宾语
+>
+> The rabbit likes **eating carrots**.
+> 兔子喜欢**吃胡萝卜**
+
+
+
+> #### 有些动词后面是不可以用不定式的
+
+>兔子喜欢吃胡萝卜.
+
+
+
+> #### 介词 + 宾语
+>
+> 这里宾语不能是谓语动词，只能是非谓语动词(动名词)
+
+
+
+> #### 不定式作宾语和动名词作宾语的区别
+>
+> + The rabbit stopped **to eat** a carrot.
+>   兔子**停下(手里的活)**去吃―根胡萝卜.
+>
+>   The rabbit stopped **eating** a carrot.
+>   兔子停止吃一根胡萝卜.
+>
+> + The wolf forgot **to invite** the rabbit to her party.
+>   狼忘记邀请兔子去她的聚会.
+>
+>   The rabbit forgot **accepting** the wolf's invitation.
+>   兔子忘记接受过狼的邀请.
+>
+>   forgot + to         忘记去做
+>   forgot + doing   忘记做过
+
+
+
+#### 现在分词
+
+
+
+
+
+
+
+#### 过去分词
 
 #### 
 
