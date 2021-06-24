@@ -171,7 +171,7 @@
 >
 > 此时张三特别后悔，说道，我要是前几天看到那只兔子就好了，当时就会咬他 
 >
-> ~~If I **saw** the rabbit a few days ago...~~ 如果这样说，除了时间副词，和**描述与现在事实相反**的情况一样了吗(如果和现在事实相反，动词要用过去式)，如果和过去事实相反，动词虚拟语气的变位就是要改成**过去完成时**的形式，那么主句也不能说 ~~I **would** bite him~~，所以主句同样也要改成过去完成时，I would have bitten him.
+> ~~If I **saw** the rabbit a few days ago...~~ 如果这样说，除了时间副词，和**描述与现在事实相反**的情况一样了吗(如果和现在事实相反，动词虚拟语气要用过去式)，**如果和过去事实相反**，动词虚拟语气的变位就是要改成**过去完成时**的形式，那么主句也不能说 ~~I **would** bite him~~，所以主句同样也要改成过去完成时，I would have bitten him.
 >
 > If I **had seen** the rabbit a few days ago, I **would have bitten** him.
 >
