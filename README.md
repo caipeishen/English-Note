@@ -190,25 +190,25 @@
 >
 > ------
 >
-> 下面几个有点特殊，后面接的虚拟语气一律是should + 动词原形，和上方两个不太一样
+> 下面几个有点特殊，后面接的虚拟语气一律是**should + 动词原形**，和上方两个不太一样
 > **demand 要求**
 > **suggest 建议**
 > **insist 坚持**
 > **order 命令**
 >
 > 1. **对现在的愿望**：**wish + 动词过去式**
->      I **wish** (that) I **were** a rabbit. 我**希望**我是只兔子
->      I **wish** you **were** here! 我**希望**你现在就在这
->      I **would rather** that you **didn't eat** the carrot. 我宁愿你**不会吃**那胡萝卜(你还没有吃)
+>    I **wish** (that) I **were** a rabbit. 我**希望**我是只兔子
+>    I **wish** you **were** here! 我**希望**你现在就在这
+>    I **would rather** that you **didn't eat** the carrot. 我宁愿你**不会吃**那胡萝卜(你还没有吃)
 >
->      I **demand/suggest/insist/order** that you **~~should~~ give** me a carrot. 我要求/建议/坚持/命令你给我一根胡萝卜
+>    I **demand/suggest/insist/order** that you **~~should~~ give** me a carrot. 我要求/建议/坚持/命令你给我一根胡萝卜
 >
-> 2. **对过去的愿望**：**had + 动词过去分词**
->      I **wish** (that) I **had eaten** the carrot. 我希望我**吃了**那只胡萝卜
->      I **would rather** that you **hadn't eaten** the carrot. 我**宁愿**你**没吃掉**那胡萝卜(你已经吃掉了)
+> 2. **对过去的愿望**：**wish + had(would have) + 动词过去分词**
+>    I **wish** (that) I **had eaten** the carrot. 我希望我**吃了**那只胡萝卜
+>    I **would rather** that you **hadn't eaten** the carrot. 我**宁愿**你**没吃掉**那胡萝卜(你已经吃掉了)
 >
-> 3. **对将来的愿望**：**cloud + 动词原形**
->      I **wish** (that) I **could eat** the carrot.  我希望我**能吃**那只胡萝卜
+> 3. **对将来的愿望**：**wish + would/cloud/might/should + 动词原形**
+>    I **wish** (that) I **could eat** the carrot.  我希望我**能吃**那只胡萝卜
 >
 > 从句之间也可以相互变换
 >
@@ -216,6 +216,11 @@
 > + It it **suggested** that you **(should) eat** a carrot. (主语从句)
 > + The **suggestion** is that you **(should) eat** a carrot. (主语补语/表语从句)、
 > + It it (hight) time that you **ate** a carrot. (定语从句)
+>
+> will的过去式  would 
+> can的过去式  could
+> may的过去式  might
+> shall的过去式 should
 
 
 
