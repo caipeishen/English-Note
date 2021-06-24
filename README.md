@@ -197,11 +197,11 @@
 > **order 命令**
 >
 > + **对现在的愿望**：**wish + 动词过去式**
->   I **wish** (that) I **were** a rabbit. 我**希望**我是只兔子
->   I **wish** you **were** here! 我**希望**你现在就在这
->   I **would rather** that you **didn't eat** the carrot. 我宁愿你**不会吃**那胡萝卜(你还没有吃)
+>     I **wish** (that) I **were** a rabbit. 我**希望**我是只兔子
+>     I **wish** you **were** here! 我**希望**你现在就在这
+>     I **would rather** that you **didn't eat** the carrot. 我宁愿你**不会吃**那胡萝卜(你还没有吃)
 >
->   I **demand/suggest/insist/order** that you **~~should~~ give** me a carrot. 我要求/建议/坚持/命令你给我一根胡萝卜
+>     I **demand/suggest/insist/order** that you **~~should~~ give** me a carrot. 我要求/建议/坚持/命令你给我一根胡萝卜
 >
 > + **对过去的愿望**：**had + 动词过去分词**
 >   I **wish** (that) I **had eaten** the carrot. 我希望我**吃了**那只胡萝卜
@@ -617,8 +617,8 @@
 
 #### 过去将来进行时
 
-> + **将来**进行时：will + be + 动词的现在分词
-> + **过去将来**进行时：would + be + 动词的现在分词
+> + **将来**进行时：**will** + be + 动词的现在分词
+> + **过去将来**进行时：**would** + be + 动词的现在分词
 >
 > I **said** I **would be eating** a carrot at 1 PM tomorrow/yesterday.
 > 我之前说我明天下午1点会在吃胡萝卜(我**之前说**我明天/昨天下午1点**会**是**在吃**胡萝卜这个过程中)
