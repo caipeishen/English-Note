@@ -82,15 +82,118 @@
 
 ### 非谓语动词
 
-> **不受主语限制，不具备表达时间和人称的本领，是非谓语动词**
+> 不受主语限制，不具备表达时间和人称的本领，是非谓语动词
+
+
+
+#### 动词不定式
+
+> 不受时间，人称等概念限制  **to + 动词原形**
 >
-> 1. 动词不定式：不受时间，人称等概念限制  
-> 2. 现在分词 eating
-> 3. 动名词 eating
-> 4. 过去分词 eaten
+> **To be** or not **to be**, that is the question. (完全不定式)
+> 生存还是毁灭，这是一个问题
 >
-> 
+> You helped me (**to**) cook the carrot. (裸不定式)
+> 你帮我烧(做菜)了胡萝卜
+
+
+
+> #### 不定式做主语
 >
+> **To eat a carrot every day** is good for the rabbit.
+> 一天吃一根胡萝卜对兔子有好处. (单独看到to eat 不知道是谁吃，什么时候吃，还不能确定所以才是不定式，不受具体的人和时间的限制，主语就是单纯的再说一天吃一个胡萝卜的概念)
+>
+> **It is goods for the rabbit <u>to eat</u>** a carrot every day. = It is goods that the rabbit eats a carrot every day.一天吃一根胡萝卜对兔子有好处 (这是转为了形式主语)
+
+
+
+> #### 不定式做宾语
+>
+> The rabbit likes **to eat carrots**.
+> 兔子喜欢吃胡萝卜
+>
+> I consider it important **to eat a carrot every day**.
+> 我发现每天吃一个胡萝卜很重要.
+
+
+
+> #### 不定式做宾语补语
+>
+> The rabbit expected the wolf **to eat a carrot**.
+> 兔子指望狼吃一根胡萝卜. 
+>
+> 有些谓语动词，**see, find, watch, have make, let** ···,这些**使役动词**后接宾语，再接省略to的动词不定式作宾语补足语，也就是裸不定式
+>
+> Carrots make the rabbit **feel** happy.
+> 胡萝卜使兔子感到快乐
+
+
+
+> #### 不定式做定语
+>
+> The rabbit has a lot of carrots **to eat**.
+> 兔子有很多胡萝卜要吃. 不定式to eat 做后置宾语修饰carrots. 表示胡萝卜是会被吃的，他们之间是动宾关系
+
+
+
+> #### 不定式做状语
+>
+> + 表原因
+>   I was surprised **to get a thumbs-up**.
+>   我很吃惊(因为)得到一个赞
+>
+>   l was surprised because I got a thumbs-up. (相当于原因状语从句)
+>   我很吃惊,因为有人给我点赞了.
+>
+> + 表目的
+>   I will do anything **to get a thumbs-up**.
+>   我为了得到一个赞会做任何事
+>
+>   I will do anything in order that I get a thumbs-up. (相当于目的状语从句)
+>   为了点赞量我能做出任何事儿
+>
+> + 表结果
+>
+>   l got enough thumbs-up **to make another video**.
+>   我得到足够的赞,可以去做另一个视频啦!
+>
+>   l got enough thumbs-up, so that I made another video. (相当于结果状语从句)
+>   我得到了很多点赞,于是我做了另一个视频.
+
+
+
+
+
+> #### 高级不定时
+>
+> 把不定式和状态相结合，to + 动词原形 (状态)
+>
+> + to be eating a carrot
+>
+>   The rabbit seemed to be eating a carrot.
+>   这兔子之前似乎在吃一根胡萝卜(的过程中).
+>
+> + to have eaten a carrot
+>
+>   The rabbit will appear to have eaten a carrot.
+>   这兔子之后会看起来像是吃过了一根胡萝卜.
+>
+> + to have been eating a carrot
+
+
+
+#### 现在分词 eating
+
+
+
+#### 动名词 eating
+
+
+
+#### 过去分词 eaten
+
+#### 
+
 > + I like **to eat** carrots.
 > + l liked **eating** carrots.
 > + l am a **talking** rabbit.
