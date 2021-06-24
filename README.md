@@ -133,11 +133,11 @@
 
 
 
-> ### 虚拟语气表不可能假设
+> ### 1.虚拟语气表不可能假设
 
 
 
-> #### 虚拟语气：描述与现在事实相反
+> #### 1.1 虚拟语气：描述与现在事实相反
 >
 > 条件句：**过去式**
 > 主句：**would** + 动词原形(这里不能用will，因为will表示很确定才能用将来时，这里是假想)
@@ -153,7 +153,7 @@
 
 
 
-> #### 虚拟语气：描述与将来事实相反(可能性很小)
+> #### 1.2 虚拟语气：描述与将来事实相反(可能性很小)
 >
 > 条件句：**should**(shall过去式) + 动词原形
 > 主句：**would** + 动词原形
@@ -164,7 +164,7 @@
 
 
 
-> #### 虚拟语气：描述与过去事实相反
+> #### 1.3 虚拟语气：描述与过去事实相反
 >
 > 条件句：**had + 动词过去分词**
 > 主句：**would have + 动词过去分词**
@@ -179,7 +179,7 @@
 
 
 
-> ### 虚拟语气表达愿望，请求，建议，命令等
+> ### 2. 虚拟语气表达愿望，请求，建议，命令等
 
 
 
@@ -196,19 +196,19 @@
 > **insist 坚持**
 > **order 命令**
 >
-> + **对现在的愿望**：**wish + 动词过去式**
->     I **wish** (that) I **were** a rabbit. 我**希望**我是只兔子
->     I **wish** you **were** here! 我**希望**你现在就在这
->     I **would rather** that you **didn't eat** the carrot. 我宁愿你**不会吃**那胡萝卜(你还没有吃)
+> 1. **对现在的愿望**：**wish + 动词过去式**
+>      I **wish** (that) I **were** a rabbit. 我**希望**我是只兔子
+>      I **wish** you **were** here! 我**希望**你现在就在这
+>      I **would rather** that you **didn't eat** the carrot. 我宁愿你**不会吃**那胡萝卜(你还没有吃)
 >
->     I **demand/suggest/insist/order** that you **~~should~~ give** me a carrot. 我要求/建议/坚持/命令你给我一根胡萝卜
+>      I **demand/suggest/insist/order** that you **~~should~~ give** me a carrot. 我要求/建议/坚持/命令你给我一根胡萝卜
 >
-> + **对过去的愿望**：**had + 动词过去分词**
->   I **wish** (that) I **had eaten** the carrot. 我希望我**吃了**那只胡萝卜
->   I **would rather** that you **hadn't eaten** the carrot. 我**宁愿**你**没吃掉**那胡萝卜(你已经吃掉了)
+> 2. **对过去的愿望**：**had + 动词过去分词**
+>      I **wish** (that) I **had eaten** the carrot. 我希望我**吃了**那只胡萝卜
+>      I **would rather** that you **hadn't eaten** the carrot. 我**宁愿**你**没吃掉**那胡萝卜(你已经吃掉了)
 >
-> + **对将来的愿望**：**cloud + 动词原形**
->   I **wish** (that) I **could eat** the carrot.  我希望我**能吃**那只胡萝卜
+> 3. **对将来的愿望**：**cloud + 动词原形**
+>      I **wish** (that) I **could eat** the carrot.  我希望我**能吃**那只胡萝卜
 >
 > 从句之间也可以相互变换
 >
