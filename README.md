@@ -320,7 +320,88 @@
 
 #### 过去分词
 
+>不自带时间概念，只是表示被绞的这个状态
 >
+>minced meat 绞肉
+>
+>minced carrot 绞胡萝卜
+>
+>minced (过去分词) 作定语，可以把单个过去分词看做形容词
+>
+>a **minced** carrot 一根绞碎的胡萝卜
+>a **painted** room 一个漆过了的房间
+>an **excited** rabbit 一只激动的兔子
+>
+>**过去分词短语修饰名词**，要放在名词之后，即**后置定语**
+>
+>The carrot cake **eaten by** the rabbit is delicious.
+>被兔子吃了的胡萝卜很美味.
+
+
+
+> #### 过去分词作主语补语(表语)
+>
+> The rabbit is interested in growing carrots. 
+> 兔子对种胡萝卜感兴趣.
+>
+> sb. is **interested**(过去分词) in doing sth.
+> 有着过去分词的主系表结构，而且这里还有个动名词
+
+
+
+> #### 现在分词作主语补语(表语)和过去分词作主语补语区别
+>
+> + The story is interesting. (**主动**)
+>   故事很有趣.  现在分词暗含主动关系，即被描述的是做出动作的人/物，暗含的意义是故事**让**人感到有兴趣
+>
+>   The rabbit is interested. (**被动**)
+>   兔子很有兴趣. 而过去分词暗含被动关系，即被描述的是动作的接受者，暗含的意义是,兔子**被**某事某物引起了兴趣
+>
+> + The rabbit was frightening.  (主动)
+>   兔子**让**人感到害怕.
+>
+>   The rabbit was frightened. (被动)
+>   兔子**被**感到害怕.
+>
+> + l am interesting. (主动)
+>   我**引起了**某人的兴趣.
+>
+>   l am interested. (被动)
+>   我**被**某人/某物引起了兴趣.
+
+
+
+>#### 过去分词作宾语补语
+>
+>+ The rabbit found his carrot **stolen**.
+>  兔子发现他的胡萝卜被偷了.
+>
+>+ **Seen** from the hill, the carrot field looks beautiful. (表地点)
+>  从山上看,胡萝卜田看上去很美.
+>
+>+ **Born** in a rabbit family,the rabbit's only work is growing carrots. (表原因)
+>  由于出生在一个兔子家庭里,兔子的唯一工作就是种胡萝卜.
+>+ **Given** another chance,the rabbit would go to the wolf's party. (表条件)
+>  如果再给兔子一次机会,他会去参加狼的聚会.
+>
+>~~**Seeing** from the hill, **the carrot field** looks beautiful.~~
+>从山上看,胡萝卜田看上去很美. (这里主语胡萝卜田是被看，所以用过去分词)
+>
+>如何区分到底使用现在分词，还是过去分词，其实还是看句子中到底是主动的含义，还是被动的含义
+>
+>**Seeing** the carrot field, the rabbit ran towards it.
+>看到胡萝卜田，兔子朝着它跑去.  主语是兔子，兔子主动看到了胡萝卜田
+
+
+
+> #### 高级用法
+>
+> + The work finished, the rabbit went home. (简单句)
+>   工作完成后,兔子回家了.
+> + The work was finished, and/so the rabbit went home. (并列句)
+>   工作完成后,兔子回家了.
+> + After the work was finished, the rabbit went home. (从句)
+>   工作完成后,兔子回家了.
 
 
 
