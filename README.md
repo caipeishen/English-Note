@@ -18,10 +18,10 @@
 
 
 
-> #### 句子成分
->
+### 句子成分
+
 > 1. 主语
-> 2. 谓语动词(~谓语)
+>2. 谓语动词(~谓语)
 > 3. 宾语
 > 4. 宾语补语：补充宾语信息  He considers you **smart**.
 > 5. 主语补语：补充主语信息  He is tall. He looks **tall**.
@@ -31,18 +31,18 @@
 
 
 
-> #### 词类
->
-> 1. 名词
-> 2. 冠词
-> 3. 代词
-> 4. 形容词
-> 5. 数词
-> 6. 副词
-> 7. 介词
-> 8. 叹词
-> 9. 连词
-> 10. 动词
+### 十大词类
+
+> 1. 名词        表人和物                                    Papa Rabbit is a **rabbit**.
+>2. 冠词        说明人和事物                            Papa Rabbit is **a** rabbit.
+> 3. 代词        替代人和物                                **I** am a rabbit.
+> 4. 形容词    形容人和物                                I am a **smart** rabbit.
+> 5. 数词        表数量                                        I ate **two** carrots.
+> 6. 副词        修饰动词或者形容词等             I ate two carrots **quickly**.
+> 7. 介词        表示和其他词关系的词             l ate two carrots **with** chopsticks.
+> 8. 叹词        表感叹                                        **Ah**, the carrot is tasty!
+> 9. 连词        连接词和句                                l ate two carrots **and** a potato, **because** I was hungry.
+> 10. 动词        参考上面的五种基本句型中的动词
 
 
 
