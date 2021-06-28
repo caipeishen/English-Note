@@ -141,26 +141,24 @@
 > #### 不定式作状语
 >
 > + 表原因
->   I was surprised **to get a thumbs-up**.
->   我很吃惊(因为)得到一个赞
+>     I was surprised **to get a thumbs-up**.
+>     我很吃惊(因为)得到一个赞
+> l was surprised because I got a thumbs-up. (相当于原因状语从句)
+>      我很吃惊,因为有人给我点赞了.
+>    
+>+ 表目的
+>  I will do anything **to get a thumbs-up**.
+>     我为了得到一个赞会做任何事
+>      I will do anything in order that I get a thumbs-up. (相当于目的状语从句)
+>  为了点赞量我能做出任何事儿
+>    
+>    + 表结果
 >
->   l was surprised because I got a thumbs-up. (相当于原因状语从句)
->   我很吃惊,因为有人给我点赞了.
->
-> + 表目的
->   I will do anything **to get a thumbs-up**.
->   我为了得到一个赞会做任何事
->
->   I will do anything in order that I get a thumbs-up. (相当于目的状语从句)
->   为了点赞量我能做出任何事儿
->
-> + 表结果
->
->   l got enough thumbs-up **to make another video**.
->   我得到足够的赞,可以去做另一个视频啦!
->
+> l got enough thumbs-up **to make another video**.
+>我得到足够的赞,可以去做另一个视频啦!
+>   
 >   l got enough thumbs-up, so that I made another video. (相当于结果状语从句)
->   我得到了很多点赞,于是我做了另一个视频.
+>我得到了很多点赞,于是我做了另一个视频.
 
 
 
@@ -171,15 +169,12 @@
 > 把不定式和状态相结合，to + 动词原形 (状态)
 >
 > + to be eating a carrot
->
->   The rabbit seemed to be eating a carrot.
->   这兔子之前似乎在吃一根胡萝卜(的过程中).
->
-> + to have eaten a carrot
->
->   
->
-> + to have been eating a carrot
+>  The rabbit seemed to be eating a carrot.
+>      这兔子之前似乎在吃一根胡萝卜(的过程中).
+>    
+>+ to have eaten a carrot
+> 
+>+ to have been eating a carrot
 
 
 
@@ -234,19 +229,17 @@
 > #### 不定式作宾语和动名词作宾语的区别
 >
 > + The rabbit stopped **to eat** a carrot.
->   兔子**停下(手里的活)**去吃―根胡萝卜.
->
->   The rabbit stopped **eating** a carrot.
->   兔子**停止吃**一根胡萝卜.
->
-> + The wolf forgot **to invite** the rabbit to her party.
->   狼**忘记邀请**兔子去她的聚会.
->
->   The rabbit forgot **accepting** the wolf's invitation.
->   兔子**忘记接受过**狼的邀请.
->
->   forgot + to         忘记去做
->   forgot + doing   忘记做过
+>     兔子**停下(手里的活)**去吃―根胡萝卜.
+> The rabbit stopped **eating** a carrot.
+>      兔子**停止吃**一根胡萝卜.
+>    
+>+ The wolf forgot **to invite** the rabbit to her party.
+>  狼**忘记邀请**兔子去她的聚会.
+>     The rabbit forgot **accepting** the wolf's invitation.
+> 兔子**忘记接受过**狼的邀请.
+>    
+>    forgot + to         忘记去做
+>forgot + doing   忘记做过
 
 
 
@@ -303,18 +296,16 @@
 > 表示时间，原因，条件，结果，让步，目的，方式和伴随情况等
 >
 > + **Hearing the news**, the rabbit became excited.
->   听到这个消息,兔子很激动. （表示时间）
->
->   When he heard the news, the rabbit became excited.
->   听到这个消息时,兔子很激动. (时间状语从句)
->
-> + **Not knowing what to eat**, the rabbit skipped lunch.
->   不知道吃什么,兔子没吃中饭.（表示原因）
->
->   Because he didn't know what to eat, the rabbit skipped lunch.
->   听到这个消息时,兔子很激动.(原因状语从句)
->
-> 现在分词做状语跟相应的状语从句之间，有一种剪不断理还乱的关系，其实非谓语动词在很大程度上简化了从句，使得句子言简意赅
+>     听到这个消息,兔子很激动. （表示时间）
+> When he heard the news, the rabbit became excited.
+>     听到这个消息时,兔子很激动. (时间状语从句)
+>    
+>+ **Not knowing what to eat**, the rabbit skipped lunch.
+>  不知道吃什么,兔子没吃中饭.（表示原因）
+>     Because he didn't know what to eat, the rabbit skipped lunch.
+> 听到这个消息时,兔子很激动.(原因状语从句)
+>    
+>    现在分词做状语跟相应的状语从句之间，有一种剪不断理还乱的关系，其实非谓语动词在很大程度上简化了从句，使得句子言简意赅
 
 
 
@@ -434,11 +425,11 @@
 > **order 命令**
 >
 > 1. **对现在的愿望**：**wish + 动词过去式**
->    I **wish** (that) I **were** a rabbit. 我**希望**我是只兔子
->    I **wish** you **were** here! 我**希望**你现在就在这
->    I **would rather** that you **didn't eat** the carrot. 我宁愿你**不会吃**那胡萝卜(你还没有吃)
+>        I **wish** (that) I **were** a rabbit. 我**希望**我是只兔子
+>        I **wish** you **were** here! 我**希望**你现在就在这
+>        I **would rather** that you **didn't eat** the carrot. 我宁愿你**不会吃**那胡萝卜(你还没有吃)
 >
->    I **demand/suggest/insist/order** that you **~~should~~ give** me a carrot. 我要求/建议/坚持/命令你给我一根胡萝卜
+>      I **demand/suggest/insist/order** that you **~~should~~ give** me a carrot. 我要求/建议/坚持/命令你给我一根胡萝卜
 >
 > 2. **对过去的愿望**：**wish + had(would have) + 动词过去分词**
 >    I **wish** (that) I **had eaten** the carrot. 我希望我**吃了**那只胡萝卜
