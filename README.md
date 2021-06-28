@@ -2,8 +2,6 @@
 
 ![](.\images\语法体系.png)
 
-
-
 ## 简单句
 
 > 所有句子拆到不能再拆都是：什么怎么样，又称主语+谓语
@@ -104,10 +102,10 @@
 
 > #### 不定式作主语
 >
-> **To eat a carrot every day** is good for the rabbit.
-> 一天吃一根胡萝卜对兔子有好处. (单独看到to eat 不知道是谁吃，什么时候吃，还不能确定所以才是不定式，不受具体的人和时间的限制，主语就是单纯的再说一天吃一个胡萝卜的概念)
+> **To eat** a carrot every day is good for the rabbit.
+> 一天吃一根胡萝卜对兔子有好处. (单独看到to eat 不知道是谁吃，什么时候吃，还不能确定所以才是不定式，不受具体的人和时间的限制，就是单纯的再说一天吃一个胡萝卜的概念)
 >
-> **It is goods for the rabbit <u>to eat</u>** a carrot every day. = It is goods that the rabbit eats a carrot every day.一天吃一根胡萝卜对兔子有好处 (这是转为了形式主语)
+> It is goods for the rabbit **to eat** a carrot every day. = It is goods that the rabbit eats a carrot every day.一天吃一根胡萝卜对兔子有好处 (这是转为了形式主语)
 
 
 
@@ -143,24 +141,23 @@
 > #### 不定式作状语
 >
 > + 表原因
->     I was surprised **to get a thumbs-up**.
->     我很吃惊(因为)得到一个赞
-> l was surprised because I got a thumbs-up. (相当于原因状语从句)
->      我很吃惊,因为有人给我点赞了.
->    
->+ 表目的
->  I will do anything **to get a thumbs-up**.
->     我为了得到一个赞会做任何事
->      I will do anything in order that I get a thumbs-up. (相当于目的状语从句)
->  为了点赞量我能做出任何事儿
->    
->    + 表结果
->
-> l got enough thumbs-up **to make another video**.
->我得到足够的赞,可以去做另一个视频啦!
->   
+>    I was surprised **to get a thumbs-up**.
+>    我很吃惊(因为)得到一个赞
+>  l was surprised because I got a thumbs-up. (相当于原因状语从句)
+>     我很吃惊,因为有人给我点赞了.
+> 
+>  + 表目的
+> I will do anything **to get a thumbs-up**.
+> 我为了得到一个赞会做任何事
+>  I will do anything in order that I get a thumbs-up. (相当于目的状语从句)
+>   为了点赞量我能做出任何事儿
+> 
+> + 表结果
+>   l got enough thumbs-up **to make another video**.
+>  我得到足够的赞,可以去做另一个视频啦!
 >   l got enough thumbs-up, so that I made another video. (相当于结果状语从句)
->我得到了很多点赞,于是我做了另一个视频.
+>   我得到了很多点赞,于是我做了另一个视频.
+>
 
 
 
@@ -345,22 +342,20 @@
 > #### 现在分词作主语补语(表语)和过去分词作主语补语区别
 >
 > + The story is interesting. (**主动**)
->   故事很有趣.  现在分词暗含主动关系，即被描述的是做出动作的人/物，暗含的意义是故事**让**人感到有兴趣
->
->   The rabbit is interested. (**被动**)
->   兔子很有兴趣. 而过去分词暗含被动关系，即被描述的是动作的接受者，暗含的意义是,兔子**被**某事某物引起了兴趣
->
-> + The rabbit was frightening.  (主动)
+>     故事很有趣.  现在分词暗含主动关系，即被描述的是做出动作的人/物，暗含意义是故事**让**人感到有兴趣
+>  The rabbit is interested. (**被动**)
+>     兔子很有兴趣. 而过去分词暗含被动关系，即被描述的是动作的接受者，暗含意义是,兔子**被**某事某物引起了兴趣
+>   
+>+ The rabbit was frightening.  (主动)
 >   兔子**让**人感到害怕.
->
->   The rabbit was frightened. (被动)
->   兔子**被**感到害怕.
->
-> + l am interesting. (主动)
->   我**引起了**某人的兴趣.
->
+>     The rabbit was frightened. (被动)
+>  兔子**被**感到害怕.
+>   
+>   + l am interesting. (主动)
+>  我**引起了**某人的兴趣.
 >   l am interested. (被动)
->   我**被**某人/某物引起了兴趣.
+>     我**被**某人/某物引起了兴趣.
+>
 
 
 
@@ -511,24 +506,23 @@
 >        I **wish** (that) I **were** a rabbit. 我**希望**我是只兔子
 >        I **wish** you **were** here! 我**希望**你现在就在这
 >        I **would rather** that you **didn't eat** the carrot. 我宁愿你**不会吃**那胡萝卜(你还没有吃)
->
->      I **demand/suggest/insist/order** that you **~~should~~ give** me a carrot. 我要求/建议/坚持/命令你给我一根胡萝卜
->
-> 2. **对过去的愿望**：**wish + had(would have) + 动词过去分词**
->    I **wish** (that) I **had eaten** the carrot. 我希望我**吃了**那只胡萝卜
+>    I **demand/suggest/insist/order** that you **~~should~~ give** me a carrot. 我要求/建议/坚持/命令你给我一根胡萝卜
+>    
+>2. **对过去的愿望**：**wish + had(would have) + 动词过去分词**
+> I **wish** (that) I **had eaten** the carrot. 我希望我**吃了**那只胡萝卜
 >    I **would rather** that you **hadn't eaten** the carrot. 我**宁愿**你**没吃掉**那胡萝卜(你已经吃掉了)
->
-> 3. **对将来的愿望**：**wish + would/cloud/might/should + 动词原形**
->    I **wish** (that) I **could eat** the carrot.  我希望我**能吃**那只胡萝卜
->
-> 从句之间也可以相互变换
->
-> + I **suggest** that you **(should) eat** a carrot. (宾语从句)
+>    
+>3. **对将来的愿望**：**wish + would/cloud/might/should + 动词原形**
+> I **wish** (that) I **could eat** the carrot.  我希望我**能吃**那只胡萝卜
+>    
+>从句之间也可以相互变换
+> 
+>+ I **suggest** that you **(should) eat** a carrot. (宾语从句)
 > + It it **suggested** that you **(should) eat** a carrot. (主语从句)
 > + The **suggestion** is that you **(should) eat** a carrot. (主语补语/表语从句)、
 > + It it (hight) time that you **ate** a carrot. (定语从句)
->
-> will的过去式  would 
+> 
+>will的过去式  would 
 > can的过去式  could
 > may的过去式  might
 > shall的过去式 should
@@ -594,16 +588,12 @@
 > #### be
 >
 > 1. (连)系动词
->
-> I **am** s smart rabbit.
->
-> 2. 助动词，构成时态
->
-> I **am**
->
-> You/we/they **are**
->
-> She/he/it **is**
+>   I **am** s smart rabbit.
+> 
+>2. 助动词，构成时态
+>    I **am**
+>   You/we/they **are**
+>    She/he/it **is**
 >
 > #### 现在分词
 >
@@ -612,11 +602,11 @@
 > you写动词在此基础上改变拼写（方便发音或避免误解），如：
 >
 > 1. write 👉 writing，不是~~writeing~~
-> 2. hit 👉 hitting，不是~~hiting~~
+>2. hit 👉 hitting，不是~~hiting~~
 > 3. die 👉 dying，不是~~dieing~~
 >
 > 其实英语很多不规则，其实都有他不按规则的道理
->
+> 
 > 
 >
 > I **am eating** carrots. 我正在吃(一些)胡萝卜
@@ -634,40 +624,37 @@
 > #### have
 >
 > 1. 实义动词
->
-> I **have** some coins for this video. 我有一些硬币给这个视频
->
-> 2. 助动词，构成时态
->
-> I/you/we/they **have**
->
-> She/he/it **has**
->
-> #### 过去分词
->
-> 通常：+ed，过去分词 ≠ 过去式
->
-> 有些动词事不规则变化，如：
->
-> eat 👉 eaten;  give, see, fall 👉  giv**en**, se**en**, fall**en**
->
-> bring 👉 brought; bring,buy, fight, think 👉 br**ought**, b**ought**, **fought**, t**hought**
->
-> fell 👉 felt;  fell, keep, sleep, leave 👉 fe**lt**, ke**pt**, sle**pt**, le**ft**
->
+>   I **have** some coins for this video. 我有一些硬币给这个视频
+> 
+>2. 助动词，构成时态
+>    I/you/we/they **have**
+>   She/he/it **has**
+> 
+>#### 过去分词
+> 
+>通常：+ed，过去分词 ≠ 过去式
+> 
+>有些动词事不规则变化，如：
+> 
+>eat 👉 eaten;  give, see, fall 👉  giv**en**, se**en**, fall**en**
+> 
+>bring 👉 brought; bring,buy, fight, think 👉 br**ought**, b**ought**, **fought**, t**hought**
+> 
+>fell 👉 felt;  fell, keep, sleep, leave 👉 fe**lt**, ke**pt**, sle**pt**, le**ft**
 > 
 >
-> I **have eaten** carrots. 我吃过胡萝卜(言下之意：我曾吃过这种食物，是只见过世面的兔子)
->
-> I **have eaten** a carrot. 我吃过了一跟胡萝卜(言下之意：我已经吃了，所以不饿)
->
-> You/we/they **have eaten** a carrot.
->
-> She/he/it **has eaten** a carrot.
->
-> The rabbit **has eaten** a carrot. 这兔子到现在为止已经吃了个胡萝卜
->
-> You **have watched** my video. 你到现在为止已经看过了我的视频
+> 
+>I **have eaten** carrots. 我吃过胡萝卜(言下之意：我曾吃过这种食物，是只见过世面的兔子)
+> 
+>I **have eaten** a carrot. 我吃过了一跟胡萝卜(言下之意：我已经吃了，所以不饿)
+> 
+>You/we/they **have eaten** a carrot.
+> 
+>She/he/it **has eaten** a carrot.
+> 
+>The rabbit **has eaten** a carrot. 这兔子到现在为止已经吃了个胡萝卜
+> 
+>You **have watched** my video. 你到现在为止已经看过了我的视频
 
 
 
@@ -1250,7 +1237,6 @@
 > + I **don't** think (that) **you're** right.
 > + I **didn't** think (that) you **were** right.
 > + I **knew** (that) the rabbit **liked** carrots.
-> +  
 > + I **knew** (that) the sun **rises**(~~rose~~) in the east.
 
 
@@ -1358,19 +1344,18 @@
 >**When, While, As三者不同点**
 >
 >+ **When**：时间点，突然
->
->    The rabbit was eating a carrot at home **when** the wolf stopped by.
->    兔子在家吃胡萝卜的时候(突然)大灰狼来串门了.
->    The rabbit was about to eat a carrot at home **when** the wolf stopped by.
->    兔子在家刚要吃胡萝卜的时候(突然)大灰狼来串门了.
->
+>  The rabbit was eating a carrot at home **when** the wolf stopped by.
+>      兔子在家吃胡萝卜的时候(突然)大灰狼来串门了.
+>      The rabbit was about to eat a carrot at home **when** the wolf stopped by.
+>      兔子在家刚要吃胡萝卜的时候(突然)大灰狼来串门了.
+>    
 >+ **While**：时间段
->  The rabbit was eating a carrot **while** I was making a video.
+>The rabbit was eating a carrot **while** I was making a video.
 >  我做视频的过程中,兔子在吃胡萝卜.
->
+>  
 >+ **As**：同时
 >
->  l ate a carrot **as** I made the video.
+>l ate a carrot **as** I made the video.
 >  我—边吃胡萝卜一边做视频.
 
 
