@@ -233,9 +233,9 @@
 >      兔子**停止吃**一根胡萝卜.
 >    
 >+ The wolf forgot **to invite** the rabbit to her party.
->  狼**忘记邀请**兔子去她的聚会.
->     The rabbit forgot **accepting** the wolf's invitation.
-> 兔子**忘记接受过**狼的邀请.
+>  狼**忘记邀请**兔子去她的聚会. (没邀请)
+>    The wolf forgot **inviting** the rabbit to her party.
+> 狼**忘记了邀请过**兔子去她的聚会. (邀请过 但忘了这件事)
 >    
 >    forgot + to         忘记去做
 >forgot + doing   忘记做过
