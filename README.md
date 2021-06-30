@@ -1528,7 +1528,46 @@
 
 #### 方式副词从句
 
+> l feel good as if l just ate a carrot.
+> 我感觉良好，就好像我刚吃了根胡萝卜—样.
 
+
+
+> #### 方式副词从句和条件副词从句区别
+>
+> + 方式副词从句
+>   主句直接交代的情况，然后用从句交代一个与事实相反的假设。但是不管怎么样，那种情况已经发生了
+>
+>   I feel good as if I just ate a carrot.
+>   我感觉良好，**就好像**我刚吃了根胡萝卜—样.
+>
+>   You spend (so much) money as if you were a millionaire.
+>   你花了很多钱，**就好像**你是百万富翁
+>
+> + 条件副词从句
+>   因为假设的条件并非事实，主句表达与事实相反的假设，从句表达交代的情况
+>
+>   If I had eaten a carrot, I would feel good.
+>   **如果**我刚才吃了根胡萝卜的话，我现在就会感觉良好.
+>
+>   If you were a millionaire, you would spend a lot of money.
+>   **如果**你是百万富翁，你会花很多钱
+
+
+
+>#### 正在发生的方式
+>
+>正在发生的某种方式，描述了某种情况，并不是假设
+>
+>+ Eat the carrot **as** I do.
+>  像我—样吃胡萝卜.
+>+ Leave the carrot **as** it is.
+>  别动这胡萝卜(像这胡萝卜原本那样，别碰它)
+>
+>真的包含”方式“这个词的形容词从句表达
+>
+>+ You spend money the way (in which) millionaires do.
+>+ Eat the carrot the way (in which) I eat it.
 
 #### 原因副词从句
 
