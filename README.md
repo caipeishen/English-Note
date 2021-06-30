@@ -1494,6 +1494,36 @@
 
 #### 让步副词从句
 
+> 阐述相反/相对，即使/就算···也···，所有才有让步这一说
+
+
+
+> #### 即使
+>
+> + **Even** if l see a carrot, I **will** not eat it.
+>   **即使**我看到了一根胡萝卜，我**也**不会吃它.
+
+
+
+> #### 事实
+>
+> + **Although** I see a carrot, I **will** not eat it.
+>   **尽管**我看到了一根胡萝卜，**但**我不会吃它.
+>   虽然中文翻译是尽管...但...，但是英文中不会添加but，因为我们这里是主从复合句(复杂句)，加上but就变成了并列复合句(复合句) ~~Although l see a carrot, **but** l will not eat it.~~
+
+
+
+> #### 未知情况
+>
+> + **No matter** what happens, I **will** not eat the carrot.
+>   不管什么事会发生，我都不会吃这胡萝卜.
+> + **No matter** who orders me, I **will** not eat the carrot.
+>   不管谁命令我，我都不会吃这胡萝卜.
+> + **No matter** how hungry I am, I **will** not eat the carrot.
+>   不管我有多饿，我都不会吃这胡萝卜.
+> + **Regardless of** what kind of video l make, you **will** give me a thumbs-up.
+>   不管我做什么样的视频，你都会给我点赞.
+
 
 
 #### 方式副词从句
