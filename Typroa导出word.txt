@@ -1,0 +1,1 @@
+pandoc -s 输入文件名.md -o 输出文件名.docx
