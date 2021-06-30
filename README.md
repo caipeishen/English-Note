@@ -552,8 +552,9 @@
 #### 一般现在时
 
 > 动词原形
->
 > 动词原形 + s(第三人称单数)
+>
+> 一般现在时，其实跟现在没有什么关系，最常见的情况是表达习惯和客观的事实
 >
 > 
 >
@@ -588,12 +589,12 @@
 > #### be
 >
 > 1. (连)系动词
->   I **am** s smart rabbit.
-> 
->2. 助动词，构成时态
->    I **am**
->   You/we/they **are**
->    She/he/it **is**
+> I **am** s smart rabbit.
+>
+> 2. 助动词，构成时态
+> I **am**
+> You/we/they **are**
+> She/he/it **is**
 >
 > #### 现在分词
 >
@@ -602,11 +603,11 @@
 > you写动词在此基础上改变拼写（方便发音或避免误解），如：
 >
 > 1. write 👉 writing，不是~~writeing~~
->2. hit 👉 hitting，不是~~hiting~~
+> 2. hit 👉 hitting，不是~~hiting~~
 > 3. die 👉 dying，不是~~dieing~~
 >
 > 其实英语很多不规则，其实都有他不按规则的道理
-> 
+>
 > 
 >
 > I **am eating** carrots. 我正在吃(一些)胡萝卜
@@ -1455,6 +1456,39 @@
 
 
 #### 条件副词从句
+
+> #### if引导词
+>
+> **If** the rabbit sees a carrot, he **will** eat it.
+> If引导了从句，使用的是一般现在时，之后是主句用一般将来时，有人会说这就是”~~主将从现~~“，其实并没有这一种固定的说法，If l saw a carrot, I would eat it. If I had seen a carrot, I would have eaten it.按照这两句(虚拟语气)，那么是不是还会有”~~主过去将来从过去~~“、”~~主过去将来完成从过去完成~~“？那么到底为什么说”主将从现“呢？
+>
+> ”~~主将从现~~“，中的现，往往指的不是现在的时间，而是一般的状态(简单的，默认的，普通的)。If I see a carrot... 这真的是明确在将来发生的事吗？如果真确定了，干嘛还用”如果“，这不是自相矛盾吗。英语的将来时态指的是非常确定会发生的事儿，I will eat a carrot. 是我确定我将来会吃跟胡萝卜，现在的If I see a carrot...这个条件并不确定是否会形成，所以条件只能用一般状态，而不是If I will see a carrot...
+>
+> 条件句总是比主句在石台上落后一个时间段，这也可以应用于虚拟语气。
+> If l saw a carrot, l would eat it.
+> If l had seen a carrot, l would have eaten it.
+
+
+
+> #### unless引导词
+>
+> + **If** you like this video, you **will** give it a thumbs-up.
+>   如果你喜欢这个视频,你会给它点赞.
+> + **If** you don't like this video, you **will** not give it a thumbs-up.
+>   如果你不喜欢这个视频,你不会给它点赞.
+> + **Unless** you like this video, you **will** not give it a thumbs-up.
+>   除非你喜欢这个视频,你不会给它点赞.
+
+
+
+> #### **provided, as long as, in case其他引导词**
+>
+> + **Provided** that my video is excellent, you **will** give it a thumbs-up.
+>   如果我的视频很棒，你会给它点赞.
+> + **As long as** I make excellent videos, you **will** remain my follower.
+>   只要我一直做高质量视频，你就会继续关注我.
+> + **In case** you don't understand, please comment below.
+>   如果你不明白，请在下方评论.
 
 
 
