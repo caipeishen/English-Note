@@ -1345,40 +1345,40 @@
 >
 >+ **When**：时间点，突然
 >  The rabbit was eating a carrot at home **when** the wolf stopped by.
->      兔子在家吃胡萝卜的时候(突然)大灰狼来串门了.
->      The rabbit was about to eat a carrot at home **when** the wolf stopped by.
->      兔子在家刚要吃胡萝卜的时候(突然)大灰狼来串门了.
+>     兔子在家吃胡萝卜的时候(突然)大灰狼来串门了.
+>     The rabbit was about to eat a carrot at home **when** the wolf stopped by.
+>     兔子在家刚要吃胡萝卜的时候(突然)大灰狼来串门了.
 >    
 >+ **While**：时间段
 >The rabbit was eating a carrot **while** I was making a video.
 >  我做视频的过程中,兔子在吃胡萝卜.
 >  
 >+ **As**：同时
->
->l ate a carrot **as** I made the video.
+>  l ate a carrot **as** I made the video.
 >  我—边吃胡萝卜一边做视频.
+>  
 
 
 
 > #### 在某一时间点之后，引导词：after
 >
-> + The rabbit ate a carrot **after the wolf stopped by**.
+> + The rabbit ate a carrot **after** the wolf stopped by.
 >   **大灰狼串过门之后**，兔子吃了根胡萝卜.
 
 
 
 > #### 从之前某一时间点开始算，引导词：since
 >
-> + The rabbit has shared three carrots **since the wolf stopped by**.
+> + The rabbit has shared three carrots **since** the wolf stopped by.
 >   **自从大灰狼来串门**，兔子已经分享了三根胡萝卜了.
 
 
 
 > #### 直到在之后的某一时间点，引导词：until
 >
-> + The rabbit waited **until the wolf stopped by**.
+> + The rabbit waited **until** the wolf stopped by.
 >   **兔子一直在等**，直到大灰狼来串门.
-> + The rabbit didn't eat any carrot **until the wolf stopped by**.
+> + The rabbit didn't eat any carrot **until** the wolf stopped by.
 >   兔子**直到大灰狼来串门**才吃了胡萝
 
 
@@ -1392,12 +1392,12 @@
 
 > #### 下次····，引导词：the next time
 >
-> + The rabbit will share the biggest carrot **the next time the wolf stops by**.
+> + The rabbit will share the biggest carrot **the next time** the wolf stops by.
 >   **下次大灰狼来串门**，兔子会一起分享最大的胡萝卜.
 
 
 
-#### 表地点副词从句
+#### 地点副词从句
 
 > #### 地点副词(状语)从句
 >
@@ -1425,7 +1425,7 @@
 
 
 
-#### 表比较副词从句
+#### 比较副词从句
 
 > #### 比较副词从句："更···"
 >
@@ -1433,12 +1433,19 @@
 >   He is smarter **than l am**.
 > + This carrot is bigger **than that one**. (口语)
 >   This carrot is bigger **than that one is**.
-> + She is more beautiful **than Snow White**. (口语)
->   She is more beautiful **than Snow White is**.
 
 
 
->#### 比较副词从句："越···"
+>#### 比较副词从句："同样得···"
+>
+>+ He is as smart **as l am**.  (口语)
+>  He is as smart **as me**.
+>+ She is more beautiful **than Snow White**. (口语)
+>  She is more beautiful **than Snow White is**.
+
+
+
+>#### 比较副词从句："越···越..."
 >
 >+ **The more you practice**  English, **the more fluent** you become.
 >  你**越多练习**英语，你就**越流利**
