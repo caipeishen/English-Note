@@ -1609,7 +1609,7 @@
 
 
 
-> **for** 但是这里是复合句，不是从句的复杂句
+> **for** 也可以表达类似意思的句子，但是这里是复合句，不是从句的复杂句
 >
 > + You must really like me, **for you have given all my videos a thumbs-up**.
 >   你肯定很喜欢我英语兔，因为你给我所有视频都点赞啦.
@@ -1626,12 +1626,30 @@
 
 >目的("A") 从句  👈  事件("B")主句
 >
->In order that I could finish the video in time, l pulled an all-nighter.
+>In order that I **could** finish the video in time(目的 从句), l pulled an all-nighter(事件 主句).
 >为了及时完成视频，我熬夜不睡(肝视频).
+>
+>基本等于==
+>
+>l pulled an all-nighter(事件 主句) **so that** I could finish the video in time(目的 从句).
+>我熬夜不睡(肝视频)，就为了及时完成视频. (so that 不可以放在句首)
 
 
 
 #### 结果副词从句
 
+> 也可以用so that 构成结果副词从句，解释说明主句的情况，是主句动作产生的结果
+>
+> + l ate a lot of carrots for lunch **so that** I wasn't hungry at all in the afternoon(表结果).
+>   我中午吃了很多胡萝卜，所以下午一点也不饿
+> + The temperature was low **so that** the lake froze(表结果).
+>   气温很低，所以湖结冰了.
+> + l ate **so** many carrots for lunch **that** I felt sick afterwards.
+>   我吃了那么多胡萝卜,导致(结果是)我之后感到不舒服.
 
 
+
+> **so**  因此是；结果是，这里是属于复合句，并不是复杂句，两个同等地位的句子
+>
+> + l like this video, **so** I'll give it a thumbs-up. 
+>   我喜欢这个视频，因此点赞了
