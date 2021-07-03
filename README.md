@@ -1622,6 +1622,13 @@
 
 #### 目的副词从句
 
+> 经常使用can、could、may、might、should、would，这样能更好体现目的性
+
+>目的("A") 从句  👈  事件("B")主句
+>
+>In order that I could finish the video in time, l pulled an all-nighter.
+>为了及时完成视频，我熬夜不睡(肝视频).
+
 
 
 #### 结果副词从句
