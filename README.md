@@ -1541,14 +1541,14 @@
 > #### 方式副词从句和条件副词从句区别
 >
 > + 方式副词从句
->     主句直接交代的情况，然后用从句交代一个与事实相反的假设。但是不管怎么样，那种情况已经发生了
->  I feel good as if I just ate a carrot.
+>     主句直接交代情况，然后用从句交代一个与事实相反的假设。但是不管怎么样，**那种情况已经发生了**
+>  I feel good **as if I just ate a carrot**.
 >     我感觉良好，**就好像**我刚吃了根胡萝卜—样.
->     You spend (so much) money as if you were a millionaire.
+>     You spend (so much) money **as if you were a millionaire**.
 >  你花了很多钱，**就好像**你是百万富翁
 >   
 >   + 条件副词从句
->  因为假设的条件并非事实，主句表达与事实相反的假设，从句表达交代的情况
+>  主句表达与事实相反的假设，从句表达交代的情况。**这里的情况并未发生**
 >   If I had eaten a carrot, I would feel good.
 >     **如果**我刚才吃了根胡萝卜的话，我现在就会感觉良好.
 >  If you were a millionaire, you would spend a lot of money.
@@ -1571,7 +1571,52 @@
 >+ You spend money the way (in which) millionaires do.
 >+ Eat the carrot the way (in which) I eat it.
 
+
+
 #### 原因副词从句
+
+> A 👉 B 
+
+>**because ** 常用在实实在在的因果关系
+>
+>+ The rabbit ate the carrot **because he was hungry**.
+>  兔子吃了胡萝卜，因为他饿了.
+>+ **Because this video is excellent**, you should give it a thumbs-up.
+>  因为这视频很棒，所以要点赞.
+
+
+
+> 中文中使用【因为···所以···】，但英文中不能这样翻译，**because**引导从句，所以主句前什么也不用加，而**so**是用来构成一个复合句的连词，如果两者都用复杂句和复合句就混淆了，除了because引导从句，还可以用**since**、**as**，他们有什么区别的。1. 从因果或者从语气上来说，because > since > as，2. 语序的区别because引导的从句可以放在主句前后都可以，而since/as引导的从句一般只能放在主句之前
+> ~~Because the rabbit was hungry, so he ate the carrot.~~
+
+
+
+> **since**  常用在大家都知道的情况
+>
+> + **Since you are hungry**, you can eat the carrot. 
+>   既然你饿了，你可以吃这胡萝卜 (这里since不是时间某个点开始，而是介绍某个原因)
+> + **Since all my videos are excellent**, you should give this video a thumbs-up.
+>   众所周知,英语兔只出精品，所以要点赞.
+
+
+
+> **as**  引出的是显而意见的事实
+>
+> + **As you were not here**, we ate the carrot without you.
+>   因为你之前不在这儿，所以吃胡萝卜没带你一个.
+> + **As l have thick skin**, I'm begging you for a thumbs-up.
+>   显而易见我脸皮很厚，所以求你点赞.
+
+
+
+> **for** 但是这里是复合句，不是从句的复杂句
+>
+> + You must really like me, **for you have given all my videos a thumbs-up**.
+>   你肯定很喜欢我英语兔，因为你给我所有视频都点赞啦.
+> + Because you like me(原因), you have given all my videos a thumbs-up(结果). 
+>   因为你喜欢我，所以你给所有英语兔视频都点赞了.
+> + You must really like me(推测的结果), for you have given all my videos a thumbs-up(这么推测的原因).
+>   你一定喜欢我，因为你给所有英语兔视频都点赞了. (推测的结果和推测的原因属于并列同等地位)
 
 
 
