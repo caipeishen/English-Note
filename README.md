@@ -1043,6 +1043,8 @@
 
 #### 关系代词引导的形容词从句
 
+> 关系代词（that, who, whom, whose, which）所代替的先行词是人或物的名词或代词，并在句中充当主语、宾语、定语等成分。 
+
 >+ The rabbit is eating a carrot **that** I bought.
 >
 >+ The teacher **who** ate a carrot is a rabbit.
@@ -1066,7 +1068,7 @@
 
 #### 关系副词引导的形容词从句
 
->where··· 修饰place，why····修饰reason，when···修饰day，属于关系副词
+> 关系副词（when, where, why, that）可代替的先行词是时间、地点或理由的名词，在从句中作状语(修饰动词)。
 >
 >+ This was the **place where the rabbit ate the carrot**.
 >+ This is the **reason why the rabbit ate the carrot**.
@@ -1118,6 +1120,8 @@
 
 >+ I have a head **which** is round. 我有一个圆的头
 >+ I have a head**, which** is round. 我有一个头，它是圆的
+>
+>限定非限定指的是英文中的名词，而非中文的句意。非限定中逗号是解释说明这个名词(头)，中文翻译过来恰恰是限定这个名词(头)，所以可能会有误解
 
 
 
