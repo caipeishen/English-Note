@@ -1529,7 +1529,7 @@
 > + **Although** I see a carrot, I **will** not eat it.
 > **尽管**我看到了一根胡萝卜，**但**我不会吃它.
 >
-> 尽管我看到了一根胡萝卜是事实，但我还是不会吃它。虽然中文翻译是尽管...但...，但是英文中不会添加but，因为我们这里是主从复合句(复杂句)，加上but就变成了并列复合句(复合句) ~~Although l see a carrot, **but** l will not eat it.~~
+> 尽管我看到了一根胡萝卜是事实，但我还是不会吃它。虽然中文翻译是尽管...但...，但是英文中不会添加but，因为我们这里是复杂句，加上but就有了复合句，有复合句有复杂句就混乱了， ~~Although l see a carrot, **but** l will not eat it.~~
 
 
 
@@ -1553,27 +1553,26 @@
 > + 好像某事发生过的方式
 > + 好像某事正在发生的方式
 
+
+
+> #### 好像某事发生过的方式
+>
 > l feel good as if l just ate a carrot.
 > 我感觉良好，就好像我刚吃了根胡萝卜—样.
-
-
-
-> #### 方式副词从句和条件副词从句区别
 >
 > + 方式副词从句
->     主句直接交代情况，然后用从句交代一个与事实相反的假设。但是不管怎么样，**那种情况已经发生了**
->  I feel good **as if I just ate a carrot**.
->     我感觉良好，**就好像**我刚吃了根胡萝卜—样.
->     You spend (so much) money **as if you were a millionaire**.
->  你花了很多钱，**就好像**你是百万富翁
->   
->   + 条件副词从句
->  主句表达与事实相反的假设，从句表达交代的情况。**这里的情况并未发生**
->   If I had eaten a carrot, I would feel good.
->     **如果**我刚才吃了根胡萝卜的话，我现在就会感觉良好.
->  If you were a millionaire, you would spend a lot of money.
->     **如果**你是百万富翁，你会花很多钱
->   
+>  **主句直接交代发生的情况，根据主句发生的情况用从句提出一个与事实相反的假设。**
+> I feel good as if I just ate a carrot.
+>  我感觉良好，就好像我刚吃了根胡萝卜—样.
+>  You spend (so much) money as if you were a millionaire.
+> 你花了很多钱，就好像你是百万富翁
+> + 虚拟语气
+> **因为假设的条件并非事实，我感觉良好这种情况也并未发生，句子的情况都未发生**
+> If I had eaten a carrot, I would feel good.
+> 如果我刚才吃了根胡萝卜的话，我现在就会感觉良好.
+> If you were a millionaire, you would spend a lot of money.
+> 如果你是百万富翁，你会花很多钱
+>
 
 
 
