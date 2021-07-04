@@ -1007,6 +1007,8 @@
 # 2.并列复合句(复合句)
 
 > 并列关系的复合句，简单句和简单句用连词连在一起，不分主次
+>
+> 例如，so、for
 
 
 
@@ -1454,18 +1456,18 @@
 
 >#### 比较副词从句："同样得···"
 >
->+ He is as smart **as l am**.  (口语)
->  He is as smart **as me**.
->+ She is more beautiful **than Snow White**. (口语)
->  She is more beautiful **than Snow White is**.
+>+ He is **as** smart **as** l am.  (口语)
+>  He is **as** smart **as** me.
+>+ She is **as** beautiful **as** Snow White. (口语)
+>  She is **as** beautiful **as** Snow White is.
 
 
 
 >#### 比较副词从句："越···越..."
 >
->+ **The more you practice**  English, **the more fluent** you become.
+>+ **The more** you practice  English, **the more** fluent you become.
 >  你**越多练习**英语，你就**越流利**
->+ **The more coins** you give me, **the more videos** I make.
+>+ **The more** coins you give me, **the more** videos I make.
 >  你投币**越多**，我做的视频也**越多**
 
 
@@ -1488,11 +1490,11 @@
 > #### unless引导词
 >
 > + **If** you like this video, you **will** give it a thumbs-up.
->   如果你喜欢这个视频,你会给它点赞.
+>   如果你喜欢这个视频，你会给它点赞.
 > + **If** you don't like this video, you **will** not give it a thumbs-up.
->   如果你不喜欢这个视频,你不会给它点赞.
+>   如果你不喜欢这个视频，你不会给它点赞.
 > + **Unless** you like this video, you **will** not give it a thumbs-up.
->   除非你喜欢这个视频,你不会给它点赞.
+>   除非你喜欢这个视频，你不会给它点赞.
 
 
 
