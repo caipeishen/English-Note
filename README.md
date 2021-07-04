@@ -2,6 +2,8 @@
 
 ![](.\images\语法体系.png)
 
+
+
 # 1.简单句
 
 > 所有句子拆到不能再拆都是：什么怎么样，又称主语+谓语
@@ -1412,7 +1414,13 @@
 > 引导词：where + 强调形式(wherever不管哪里， everywhere所有地方，anywhere任何地方)
 >
 > The rabbit ate the carrot **where he found it**.
-> 兔子在**找到胡萝卜的地方**吃了它
+> 兔子在**找到胡萝卜的地方**吃了它 (地点副词从句直接等于地点)
+>
+> **形容词从句**：The rabbit ate the carrot at the place **where he found it**. (形容词从句修饰**先行词place**)
+>
+> **表语从句**：This is **where he found the carrot**.
+>
+> **主语从句**：**Where he found the carrot** is a secret.
 
 
 
