@@ -217,22 +217,33 @@
 
 > #### 有些动词后面是不可以用不定式的
 
+>~~The rabbit enjoys to eat carrots.~~
+>The rabbit enjoys eating carrots.
 >兔子喜欢吃胡萝卜.
+>
+>类似的动词还有avoid, advise, consider, escape, mind, practice
+>动词词组有insist on, give up, feel like, put off
 
 
 
 > #### 介词 + 宾语
 >
 > 这里宾语不能是谓语动词，只能是非谓语动词(动名词)
+>
+> The rabbit is fond of **eating** carrots.
+> 兔子喜欢吃胡萝卜.
+>
+> The rabbit is looking forward to **seeing** the wolf again.
+> 兔子期望再次见到狼.(look forward to 是个短语，句子中的to，不是不定式中的to)
 
 
 
 > #### 不定式作宾语和动名词作宾语的区别
 >
 > + The rabbit stopped **to eat** a carrot.
->     兔子**停下(手里的活)**去吃―根胡萝卜.
+>     兔子**停下(手里的活)**去吃―根胡萝卜. (停下手中的活，去作另一件事)
 > The rabbit stopped **eating** a carrot.
->      兔子**停止吃**一根胡萝卜.
+>      兔子**停止吃**一根胡萝卜. (停止正在作的事)
 >    
 >+ The wolf forgot **to invite** the rabbit to her party.
 >  狼**忘记邀请**兔子去她的聚会. (没邀请)
@@ -246,9 +257,13 @@
 
 ### 现在分词
 
-> 现在分词基本上相当于**形容词**
+> 现在分词并不带时间的属性，只带状态(现在进行时，过去进行时等，里面的时间是由be动词携带，而非现在分词)，现在分词基本上相当于**形容词**
 >
-> a **talking** rabbit
+> a **talking** rabbit (现在分词)
+> 一只说话的兔子
+>
+> a **talking** rabbit (动名词)
+> 一只会说话的兔子
 
 
 
@@ -256,7 +271,7 @@
 >
 > a sleeping pill 一片安眠药，这里的sleeping是动名词，用来说明药片的性质，功能和用途，相当于 a pill for sleeping
 >
-> a sleeping rabbit **≠** a rabbit for sleeping，这里的sleeping是现在分词，相当于一个性形容词，用来修饰兔子的状态，在睡觉，只知道兔子的状态是在睡觉，但是不知道具体的时间
+> a **sleeping** rabbit **≠** a rabbit for sleeping，这里的sleeping是现在分词，相当于一个性形容词，用来修饰兔子的状态，在睡觉，只知道兔子的状态是在睡觉，但是不知道具体的时间
 
 
 
@@ -265,10 +280,10 @@
 > The rabbit is **smart**.
 > 兔子是聪明的. (形容词)
 >
-> The rabbit is **charming**.
-> 兔子是有魅力的. (现在分词)
->
 > 我们平时说的用来形容人和物的词，其实都是现在分词，比如
+> 
+>The rabbit is **charming**.
+> 兔子是有魅力的. (现在分词)
 >
 > The story is **interesting**.
 > 故事是有趣的. interest 👉 interesting
@@ -288,7 +303,13 @@
 
 
 
-> #### 动词不定式作宾语补足语和现在分词作宾语补足语区别
+> #### 动词不定式作宾语补足语 vs 现在分词作宾语补足语
+>
+> The wolf saw the rabbit **eating** a carrot. (现在分词)
+> 狼之前看到兔子正在吃一根胡萝卜. (表示动作正在进行中，强调动作进行的状态)
+>
+> The wolf saw the rabbit **eat** a carrot. (动词不定式)
+> 狼之前看到兔子吃了根胡萝卜. (表示一个动作自始至终的过程，强调动作已经发生了)
 
 
 
@@ -312,13 +333,17 @@
 
 ### 过去分词
 
->不自带时间概念，只是表示被绞的这个**状态**
+>不自带时间概念，和现在分词一样，只是携带**状态**
 >
->minced meat 绞肉
+>**minced** meat 绞过的肉
+>**minced** carrot 绞过的胡萝卜
 >
->minced carrot 绞胡萝卜
+>The rabbit will eat **minced** carrot next week.
+>兔子下周会吃搅碎的胡萝卜.
 >
->minced (过去分词) 作定语，可以把单个过去分词看做形容词
+>
+>
+>minced (过去分词) 作定语，可以把单个过去分词看做**形容词**
 >
 >a **minced** carrot 一根绞碎的胡萝卜
 >a **painted** room 一个漆过了的房间
@@ -333,7 +358,7 @@
 
 > #### 过去分词作主语补语(表语)
 >
-> The rabbit is interested in growing carrots. 
+> The rabbit is **interested** in growing carrots. 
 > 兔子对种胡萝卜感兴趣.
 >
 > sb. is **interested**(过去分词) in doing sth.
@@ -346,17 +371,17 @@
 > + The story is interesting. (**主动**)
 >     故事有趣.  现在分词暗含主动关系，即被描述的是做出动作的人/物，暗含意义是故事**让**人感到有兴趣
 >  The rabbit is interested. (**被动**)
->     兔子很有兴趣. 而过去分词暗含被动关系，即被描述的是动作的接受者，暗含意义是,兔子**被**某事某物引起了兴趣
+>    兔子很感兴趣. 而过去分词暗含被动关系，即被描述的是动作的接受者，暗含意义是,兔子**被**某事某物引起了兴趣
 >   
 >+ The rabbit was frightening.  (主动)
 >   兔子**让**人感到害怕.
->     The rabbit was frightened. (被动)
->  兔子**被**感到害怕.
+>    The rabbit was frightened. (被动)
+>  兔子(**被事**)感到害怕.
 >   
->   + l am interesting. (主动)
->  我**引起了**某人的兴趣.
+> + l am interesting. (主动)
+>  我是有趣的(我让人感到有趣)
 >   l am interested. (被动)
->     我**被**某人/某物引起了兴趣.
+>    我**被**某人/某物引起了兴趣.
 >
 
 
@@ -375,23 +400,67 @@
 >  如果再给兔子一次机会,他会去参加狼的聚会.
 >
 >~~**Seeing** from the hill, **the carrot field** looks beautiful.~~
->从山上看,胡萝卜田看上去很美. (这里主语胡萝卜田是被看，所以用过去分词)
+>从山上看，胡萝卜田看上去很美. (这里主语胡萝卜田是被看，所以用过去分词)
 >
->如何区分到底使用现在分词，还是过去分词，其实还是看句子中到底是主动的含义，还是被动的含义
+>如何区分到底使用现在分词，还是过去分词，其实还是看句子中主语到底是主动的含义，还是被动的含义
 >
->**Seeing** the carrot field, the rabbit ran towards it.
+>**Seeing** the carrot field, **the rabbit** ran towards it.
 >看到胡萝卜田，兔子朝着它跑去.  主语是兔子，兔子主动看到了胡萝卜田
 
 
 
-> #### 高级用法
+> #### 高级用法 👉 独立主格
 >
-> + The work finished, the rabbit went home. (简单句)
->   工作完成后,兔子回家了.
-> + The work was finished, and/so the rabbit went home. (并列句)
->   工作完成后,兔子回家了.
-> + After the work was finished, the rabbit went home. (从句)
->   工作完成后,兔子回家了.
+> **一个简单句出去核心的谓语动词外，其他的动词转为对应的过去分词或现在分词的用法，称作独立主格**。
+> 因为在以上的句子中，现在分词/过去分词是在句中的状语里(并非句子的主语)，但是在状语本身里，分词修饰的对象(以上句中的work和weather)，隐含了一层"主语"的意味，虽然并不是整句的主语
+>
+> + The work **finished**(过去分词), the rabbit **went**(谓语动词) home. (简单句)
+> 工作完成后，兔子回家了. (这里的finished过去分词修饰的the work)
+> + The work was **finished**, and/so the rabbit went home. (并列句)
+> 工作完成后，兔子回家了.
+> + After the work was **finished**, the rabbit went home. (从句)
+> 工作完成后，兔子回家了.
+> + The weather **permitting**, the rabbit will go out.
+> 天气允许的话，兔子就出门.
+> + If the weather **permits**, the rabbit will go out.
+>   天气允许的话，兔子就出门.
+
+
+
+>Because the wolf invited him, the rabbit decided to go to the party.
+>因为狼邀请了兔子，所以兔子决定去参加聚会了.
+>
+>简化句子
+>
+>The wolf **inviting** him, the rabbit decided to go to the party.
+>因为狼邀请了兔子，所以兔子决定去参加聚会了. 
+>(前半句wolf是主动，所以用主动现在分词inviting，the rabbit decided to go to the party才是主干，而前面The wolf **inviting** him中，invite是由wolf发出的，而不是真正的主语rabbit发出的动作，所以语法上把wolf称为动词invite的**逻辑主语**，而这就是独立主格中的主格；独立指的是wolf是游离于真正主语rabbit之外的，在The wolf **inviting** him中，自立门户，独立了出来，这个独立的主语还不能跟真正的主语相提并论，要不怎么说是独立主格，而不是独立主语呢)
+>
+>+ If the weather permits, the rabbit will go out. (引导条件状语从句)
+>  如果天气允许，兔子就会出门.
+>  The weather **permitting**, the rabbit will go out. (独立主格)
+>  如果天气允许，兔子就会出门.
+>+ After the work was finished, the rabbit went home. (引导时间状语从句)
+>  工作完成后，兔子回家了.
+>  The work **finished**, the rabbit went home.
+>  工作完成了，兔子回家了.
+>+ The rabbit is lying in bed and a carrot is still held in his hand. (并列句)
+>  兔子正躺在床上，胡萝卜仍在他手中.
+>  The rabbit is lying in bed,a carrot still **held** in his hand.(独立主格)
+>  兔子正躺在床上，胡萝卜仍在他手中.
+
+
+
+> #### 独立主格
+>
+> + 名词/代词 + 现在分词				the wolf **inviting** him
+> + 名词/代词 + 过去分词                a carrot **held** in the hand
+> + 名词/代词 + 动词不定式
+> + 名词/代词 + 名词
+> + 名词/代词 + 形容词
+> + 名词/代词 + 副词
+> + 名词/代词 + 介词短语
+> + ······
 
 
 
@@ -437,7 +506,7 @@
 
 > + 如果描述你**脑中的想象**，尤其是**和现实相反的**，或者**说主观的意愿**，那么我们就要用动词的**虚拟语气**
 > + 如果描述**现实**，包括**直接描述请求命令**，那么我们就不用动词的虚拟语气，而是**陈述语气，祈使语气**
-> + 主要用于：**与事实相反的假设**，**表达愿望，请求，建议，命令等**(发生在我们脑中的，非现实发生的)
+> + 主要用于：**1.与事实相反的假设**，**2.表达愿望，请求，建议，命令等**(发生在我们脑中的，非现实发生的)
 
 
 
@@ -447,12 +516,12 @@
 
 > #### 1.1 虚拟语气：描述与现在事实相反
 >
-> 条件句：**过去式**
+> 条件句：**if 过去式**
 > 主句：**would** + 动词原形(这里不能用will，因为will表示很确定才能用将来时，这里是假想)
 >
 > 张三：如果我现在看到那只兔子，我会咬它。
 >
-> 兔子躲起来了，张三描述的是与现实相反的事情，我们就需要用动词的虚拟语气
+> 兔子躲到月亮上了，张三不可能咬到，张三描述的是与现实相反的事情，我们就需要用动词的虚拟语气
 >
 > ~~If I see the rabbit **now**, I **will** bite him.~~  不能这样说，因为这里有个now，表示就是现在，很明确的时间，I see the rabbit 和 will bite him 都是客观描述事实或者很确定在将来会发生的事情，而事实不是这样。怎么办呢？咱们就要把动词时间**往过去推一个时间段**，变成：If I **saw** the rabbit now, I **would** bite him，出现了saw和would，这里动词是过去式，但并不表示过去时间，也就是说，这句话不是在描述过去发生的事情，而是在描述现在的，没发生的，但是希望发生的事，是一个主观意愿或者说想象的假设，换句话说，只是看见句中出现saw这一个过去式，咱们还不能仅仅根据这一信息来判断这是过去时间。
 >
@@ -463,8 +532,8 @@
 
 > #### 1.2 虚拟语气：描述与将来事实相反(可能性很小)
 >
-> 条件句：**should**(shall过去式) + 动词原形
-> 主句：**would** + 动词原形
+> 条件句：**if should**(shall过去式) + 动词原形
+> 主句：**would/should/could/might** + 动词原形
 >
 > 如果将时间改为明天，If I see the rabbit **tomorrow**, I will bite him. 这是正确的，但是结合实际场景，张三根本不可能有机会咬兔子，张三只能说：**万一**我看到兔子，我会咬它。这个就表明明天看见兔子机会太小了，也用虚拟语气，和将来事实相反或者说可能性很小，就要使用虚拟语气的另一种说法：描述与将来事实相反(可能性很小)。
 >
@@ -474,8 +543,8 @@
 
 > #### 1.3 虚拟语气：描述与过去事实相反
 >
-> 条件句：**had + 动词过去分词**
-> 主句：**would have + 动词过去分词**
+> 条件句：**if 过去完成时(had + 动词过去分词)**
+> 主句：**过去将来完成时(would have + 动词过去分词)**
 >
 > 此时张三特别后悔，说道，我要是前几天看到那只兔子就好了，当时就会咬他 
 >
@@ -505,28 +574,26 @@
 > **order 命令**
 >
 > 1. **对现在的愿望**：**wish + 动词过去式**
->        I **wish** (that) I **were** a rabbit. 我**希望**我是只兔子
+>        I **wish** (that) I **were** a rabbit. 我**希望**我是只兔子(虚拟语气使用were，参考上文)
 >        I **wish** you **were** here! 我**希望**你现在就在这
 >        I **would rather** that you **didn't eat** the carrot. 我宁愿你**不会吃**那胡萝卜(你还没有吃)
 >    I **demand/suggest/insist/order** that you **~~should~~ give** me a carrot. 我要求/建议/坚持/命令你给我一根胡萝卜
+>    2. **对将来的愿望**：**wish + would/cloud/might/should + 动词原形**
+>    I **wish** (that) I **could eat** the carrot.  我希望我**能吃**那只胡萝卜
+> 3. **对过去的愿望**：**wish + had(would have) + 动词过去分词**
+>      I **wish** (that) I **had eaten** the carrot. 我希望我**吃了**那只胡萝卜
+>      I **would rather** that you **hadn't eaten** the carrot. 我**宁愿**你**没吃掉**那胡萝卜(你已经吃掉了)
+>
+> 从句之间也可以相互变换
 >    
->2. **对过去的愿望**：**wish + had(would have) + 动词过去分词**
-> I **wish** (that) I **had eaten** the carrot. 我希望我**吃了**那只胡萝卜
->    I **would rather** that you **hadn't eaten** the carrot. 我**宁愿**你**没吃掉**那胡萝卜(你已经吃掉了)
->    
->3. **对将来的愿望**：**wish + would/cloud/might/should + 动词原形**
-> I **wish** (that) I **could eat** the carrot.  我希望我**能吃**那只胡萝卜
->    
->从句之间也可以相互变换
-> 
 >+ I **suggest** that you **(should) eat** a carrot. (宾语从句)
 > + It it **suggested** that you **(should) eat** a carrot. (主语从句)
-> + The **suggestion** is that you **(should) eat** a carrot. (主语补语/表语从句)、
+>+ The **suggestion** is that you **(should) eat** a carrot. (主语补语/表语从句)、
 > + It it (hight) time that you **ate** a carrot. (定语从句)
 > 
->will的过去式  would 
+> will的过去式  would 
 > can的过去式  could
-> may的过去式  might
+>may的过去式  might
 > shall的过去式 should
 
 
@@ -1008,7 +1075,7 @@
 
 > 并列关系的复合句，简单句和简单句用连词连在一起，不分主次
 >
-> 例如，so、for、but
+> 例如，and、so、for、but
 
 
 
@@ -1594,7 +1661,15 @@
 
 ### 原因副词从句
 
-> A 👉 B 
+> 原因副词从句、目的副词从句、结果副词从句都是表达了某种因果，即 A 👉 B 
+
+
+
+> ~~Because the rabbit was hungry, so he ate the carrot.~~
+>
+> 中文中使用【因为···所以···】，但英文中不能这样说【Because ···, so ···】，**because**引导从句，所以主句前什么也不用加，构成复杂句；而**so**是用来构成一个复合句的连词，如果两者都用复杂句和复合句就混淆了，除了because引导从句，还可以用**since**、**as**，他们有什么区别的。1. 从因果或者从语气上来说，because > since > as，2. 语序的区别because引导的从句可以放在主句前后都可以，而since/as引导的从句一般只能放在主句之前
+
+
 
 >**because ** 常用在实实在在的因果关系
 >
@@ -1605,15 +1680,10 @@
 
 
 
-> 中文中使用【因为···所以···】，但英文中不能这样翻译，**because**引导从句，所以主句前什么也不用加，而**so**是用来构成一个复合句的连词，如果两者都用复杂句和复合句就混淆了，除了because引导从句，还可以用**since**、**as**，他们有什么区别的。1. 从因果或者从语气上来说，because > since > as，2. 语序的区别because引导的从句可以放在主句前后都可以，而since/as引导的从句一般只能放在主句之前
-> ~~Because the rabbit was hungry, so he ate the carrot.~~
-
-
-
-> **since**  常用在大家都知道的情况
+> **since**  常用在大家都知道的情况(这里since不是时间某个点开始，而是介绍某个原因)
 >
 > + **Since you are hungry**, you can eat the carrot. 
->   既然你饿了，你可以吃这胡萝卜 (这里since不是时间某个点开始，而是介绍某个原因)
+>   既然你饿了，你可以吃这胡萝卜 
 > + **Since all my videos are excellent**, you should give this video a thumbs-up.
 >   众所周知,英语兔只出精品，所以要点赞.
 
@@ -1628,14 +1698,19 @@
 
 
 
-> **for** 也可以表达类似意思的句子，但是这里是复合句，不是从句的复杂句
+> **for** 也可以表达类似意思的句子，但是这里是复合句，不是复杂句
 >
 > + You must really like me, **for you have given all my videos a thumbs-up**.
->   你肯定很喜欢我英语兔，因为你给我所有视频都点赞啦.
+> 你肯定很喜欢我英语兔，因为你给我所有视频都点赞啦.
+
+
+
+> because vs for
+>
 > + Because you like me(原因), you have given all my videos a thumbs-up(结果). 
->   因为你喜欢我，所以你给所有英语兔视频都点赞了.
+> 因为你喜欢我，所以你给所有英语兔视频都点赞了. (因为你喜欢我，所以点赞了，由原因推测出结果)
 > + You must really like me(推测的结果), for you have given all my videos a thumbs-up(这么推测的原因).
->   你一定喜欢我，因为你给所有英语兔视频都点赞了. (推测的结果和推测的原因属于并列同等地位)
+> 你一定喜欢我，因为你给所有英语兔视频都点赞了. (推测的结果：你喜欢我，这么推测的原因：你给所有视频都点赞了，由推测的结果，引出推测的原因，和because是很不同的用法)
 
 
 
@@ -1643,7 +1718,7 @@
 
 > 经常使用can、could、may、might、should、would，这样能更好体现目的性
 
->目的("A") 从句  👈  事件("B")主句
+>目的("A") 从句  👈  事件("B")主句：因为要达到目的A(从句)，所以作了B(主句)
 >
 >In order that I **could** finish the video in time(目的 从句), l pulled an all-nighter(事件 主句).
 >为了及时完成视频，我熬夜不睡(肝视频).
