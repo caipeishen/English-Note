@@ -1229,9 +1229,12 @@
 >
 > 否定加在谓语动词前，而非从句中
 >
-> + I **don't** think (that) the rabbit is smart.
-> + I **don't** believe (that) you will give me some coins.
-> + I **don't** expect (that) you will give this video a thumbs-up.
+> + I **don't** think (that) the rabbit is smart.  
+>   ~~I think(that) the rabbit isn't smart.~~
+> + I **don't** believe (that) you will give me some coins.  
+>   ~~I believe(that) you won't give me some coins.~~
+> + I **don't** expect (that) you will give this video a thumbs-up.  
+>   ~~I expect (that) you won't give this video a thumbs-up.~~
 
 
 
@@ -1279,7 +1282,7 @@
 
 > #### 表语从句(系动词：非be动词)
 >
-> 例如fell, seem, look, taste这样的系动词
+> 例如fell, seem, look, taste这样的系动词，下方的It是形式主语，没有实际意义，句子真正表达的意思，全部含在后面的从句中，在语法上来说，是的的确确的标语成分(而非主语从句)。
 >
 > + It seems **that the rabbit is hungry**.
 > + It feels **that you're not telling the truth**.
@@ -1311,7 +1314,7 @@
 >   
 >+ My education made me smart.
 >   我的教育造就了我聪明
->     My education made me **who I am today**.
+>    My education made me **who I am today**.
 >  我的教育造就了我今天是这个人
 >   
 
@@ -1320,7 +1323,7 @@
 ### 副词性从句(状语从句)
 
 > 副词是指在句子中表示行为或状态特征的词，用以来补充说明动词、形容词、其他副词等
-> 从句子成份上说充当了句子的状语，所以也叫状语从句
+> 从句子成份上说充当了句子的状语，所以也叫**状语从句**
 
 
 
