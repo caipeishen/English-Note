@@ -86,7 +86,7 @@
 |    元音    |   单元音   | 前元音 | /iː/ | /ɪ/  | /e/  | /æ/  |
 |   中元音   |            |  /ɜː/  | /ə/  | /ʌ/  |      |      |
 |   后元音   |    /uː/    |  /ʊ/   | /ɔː/ | /ɒ/  | /ɑː/ |      |
-|   双元音   | 开合双元音 |  /eɪ/  | /aɪ/ | /ɔɪ/ | /aʊ/ | /əʊ/ |
+|   双元音   | 开合双元音 |  /eɪ/  | /aɪ/ | /ɔɪ/ | /aʊ/ | / /  |
 | 集中双元音 |    /ɪə/    |  /eə/  | /ʊə/ |      |      |      |
 |            |            |        |      |      |      |      |
 |  **辅音**  |            |        |      |      |      |      |
@@ -1011,17 +1011,17 @@ Can we go shopping together?
 > 这些动词只能后接不定式：  
 >
 >     + plan	打算，计划	
->     
+>    
 >
 >  ​		We're planning to go to the soccer game.	我们计划去看足球赛。 
 >
 >     + want	想要 
->     
+>    
 >
 >  ​		We want to see the play in the park this week.	我们本周想去公园看戏。 
 >
 >     + need	需要 
->     
+>    
 >
 >  ​		I need to get some money for the concert.	我需要为音乐会准备一点钱。
 
@@ -1034,12 +1034,12 @@ Can we go shopping together?
 > ​		I enjoy listening to music.  	我喜欢听音乐。
 >
 >     + keep	继续  
->     
+>    
 >
 >  ​		Martin kept playing his guitar until midnight.	马丁一直不停地弹吉他，直至午夜。
 >
 >     + think about 	思考，考虑   
->     
+>    
 >
 >  ​		We're thinking about going to a concert.	我们在考虑去听音乐会。
 
@@ -1060,12 +1060,12 @@ Can we go shopping together?
 >  ​		Joan loves to eat in restaurants.	Joan 喜欢在餐馆吃饭
 >
 >      + begin	开始
->     
+>    
 >
 >  ​		It began to snow.	开始下雪了
 >
 >     		It began snowing.	开始下雪了
->     
+>    
 
 
 
