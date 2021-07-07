@@ -1334,6 +1334,20 @@
 
 ### 方式介词
 
+> 从介词的本义联想到引申义
+
++ **in：···方式；在···里面**
+  + Let's talk in English. 让我们用英语对话(说的话写的字，都是在英语里面)
++ **through：通过···方式；从内部穿过**
+  + we succeed through hard work. 我们通过努力工作而成功(本义是从内部穿过，引申出通过)
++ **by：通过···；在···旁边**
+  + We learn English by watching videos. 我们通过看视频学英语(本义在···旁边，引申出离不开，依靠)
+  + l go to work by car. 我开车去上班(我依靠汽车这个交通方式去上班)
++ **with：用···；和···一起**
+  + We write with pens. 我们用笔写字(我们和笔一起完成这个行为)
++ **on：在···上面，方式介词接通讯设备比较多**
+  + We talked on the phone. 我们通过电话进行了交谈(本义在···上面，想想online, 线上就能明白了)
+
 
 
 ### 原因介词
