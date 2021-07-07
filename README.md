@@ -1404,20 +1404,39 @@
 
 ### 排除介词
 
-+ besides：除了···还
++ **besides：除了···还**
   + l like many things besides carrots. 除了胡萝卜，我还喜欢很多东西.
-+ except：除了(从整体种剔除出去)
++ **except：除了(从整体种剔除出去)**
   + Everyone went to the party except the rabbit. 大家都去了聚会，除了兔子.
-+ except for：除了，通常用来对之前的内容进行反驳(相当于说美中不足的是···)
++ **except for：除了，通常用来对之前的内容进行反驳(相当于说美中不足的是···)**
   + The party is great except for the loud music.聚会很棒，除了嘈杂的音乐.
 
 
 
 ### 介词短语
 
+> 介词短语：介词 + 宾语
+
+![](./images/介词短语.png)
+
+
+
+> #### 介词短语意思已经完整，可以充当各个句子成分
+
++ 主语：Between 10 and 11 is a good time for me. 10点到11点间适合我.
++ 主语补语：The meeting is at 2 o'clock. 会议在2点钟.
++ 定语：This is the key to the house. 这是房子的钥匙.
++ 宾语补语：l found the carrot in good condition. 我发现那个胡萝卜保存完好.
++ 状语(最常见)：修饰动词，描述动作的时间，地点，方式等等
+  The rabbit ate a carrot at noon. 中午,兔子吃了一根胡萝卜.
+  The rabbit is eating a carrot in the kitchen. 兔子正在厨房里吃一根胡萝卜.
+  The rabbit likes traveling by car. 兔子喜欢乘车出游.
+
 
 
 ### 固定搭配
+
+
 
 
 
