@@ -1363,6 +1363,14 @@
 
 ### 关于介词
 
++ **about：在···外面；关于**
+  + Could you tell me something about your school? 你能给我讲一些关于你学校的的事情吗?
++ **of：此外的；附加的**
+  + He thought of something important. 他想起了一些重要的事情.
+  + think of仅仅是想起了····，而think about是想到关于···的事
++ **on：在···上面，关于**
+  + Would you like some advice on learning English? 你想要些关于学习英语的建议吗?(在学习英语事上)
+
 
 
 ### 数值介词
