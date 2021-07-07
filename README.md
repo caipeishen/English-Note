@@ -1098,6 +1098,50 @@
 
 
 > #### 介词诀窍
+>
+> 介词的本义表达明确的空间含义；而在这些空间含义的基础上又引申出了非空间含义的衍生含义
+
+
+
+> #### 多含义
+>
+> about：本义的空间含义是在····的外面
+>
+> + 关于(外围；有涉及；非核心)
+>   l know something **about** the rabbit. 我知道关于这个兔子的事儿.
+> + 大约(从外大范围大致数数)；
+>   There are **about** 20 carrots. 大约有20根胡萝卜.
+> + 针对(从外向内地解决)；
+>   Let's do something **about** the problem. 让我们做些事儿解决问题.
+> + 某人某事有某种特性
+>   There's something dangerous **about** the wolf. 狼有点危险的特质.(狼感觉有点危险.)
+> + 到处(在外面来来回回)
+>   Stop running **about**! 别到处跑
+
+
+
+> #### 介词混淆区分
+>
+> in，on，at都能前置于时间和空间，表达相关含义
+>
+> + in： 一般表示在一堆东西中间，或者说上下左右前后都能移动，说明在一个大范围内
+>   + **in** the city, **in** the country 因为在城市和国家里能大范围移动
+>   + I'm walking **in** the street. 如果你要表达在某条街道的范围内移动
+>   + **in** a year, **in** the month, **in** the week 空间感念延申到时间上
+> + on：一般表示在···之上，说明有一面确定了，只能在这个平面上移动，自然范围小一点
+>   + There is some trash **on** the street. 街道的表面上
+>   + **on** that day, **on** Monday, **On** April 1st  空间感念延申到时间上
+> + at：通常只能在一个明确的点上
+>   + **at** the corner, **at** the shop 角落商店很明确，不会移动
+>   + I'm **at** Carrot Street and Apple Street. 很明确的点，两条街的交界处
+>   + **at** 8 o'clock, **at** that moment  空间感念延申到时间上
+>
+> 看见hour不一定要用on，一定要想清楚，我们要表达的是一个范围还是具体一个点，
+> 比如说 1小时有60分钟 There are 60 minutes **in** an hour. 范围是相对的
+>
+> 为什么是in the morning，morning比day还小啊，当我们使用in the morning这个短语时，通常是表达一个时间段的范围，相当于刚才的There are many hours and minutes in a morning，所以当我说I eat carrots in the morning时，我表达的意思是，我在早晨这个时间范围吃胡萝卜，如果你想要表达的相对明确的一个点，就要说on the morning，比如说 I saw the wolf on the morning of April 1st. 我在4月1日早晨看到了大灰狼，这里要表达意思是，在四月一日早晨这个时间，和一天差不多的范围，所以既然是on that day，自然也有on that morning.
+>
+> at noon，之前的上午和之后的下午都是相对的大范围，而noon相对来说是一个点所以才用at
 
 
 
