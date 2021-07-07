@@ -1404,6 +1404,13 @@
 
 ### 排除介词
 
++ besides：除了···还
+  + l like many things besides carrots. 除了胡萝卜，我还喜欢很多东西.
++ except：除了(从整体种剔除出去)
+  + Everyone went to the party except the rabbit. 大家都去了聚会，除了兔子.
++ except for：除了，通常用来对之前的内容进行反驳(相当于说美中不足的是···)
+  + The party is great except for the loud music.聚会很棒，除了嘈杂的音乐.
+
 
 
 ### 介词短语
