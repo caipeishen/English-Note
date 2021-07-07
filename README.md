@@ -1125,16 +1125,16 @@
 > in，on，at都能前置于时间和空间，表达相关含义
 >
 > + in： 一般表示在一堆东西中间，或者说上下左右前后都能移动，说明在一个大范围内
->   + **in** the city, **in** the country 因为在城市和国家里能大范围移动
->   + I'm walking **in** the street. 如果你要表达在某条街道的范围内移动
->   + **in** a year, **in** the month, **in** the week 空间感念延申到时间上
+>   + in the city, in the country 因为在城市和国家里能大范围移动
+>   + I'm walking in the street. 如果你要表达在某条街道的范围内移动
+>   + in a year, in the month, in the week 空间感念延申到时间上
 > + on：一般表示在···之上，说明有一面确定了，只能在这个平面上移动，自然范围小一点
->   + There is some trash **on** the street. 街道的表面上
->   + **on** that day, **on** Monday, **On** April 1st  空间感念延申到时间上
+>   + There is some trash on the street. 街道的表面上
+>   + on that day, on Monday, On April 1st  空间感念延申到时间上
 > + at：通常只能在一个明确的点上
->   + **at** the corner, **at** the shop 角落商店很明确，不会移动
->   + I'm **at** Carrot Street and Apple Street. 很明确的点，两条街的交界处
->   + **at** 8 o'clock, **at** that moment  空间感念延申到时间上
+>   + at the corner, at the shop 角落商店很明确，不会移动
+>   + I'm at Carrot Street and Apple Street. 很明确的点，两条街的交界处
+>   + at 8 o'clock, at that moment  空间感念延申到时间上
 >
 > 看见hour不一定要用on，一定要想清楚，我们要表达的是一个范围还是具体一个点，
 > 比如说 1小时有60分钟 There are 60 minutes **in** an hour. 范围是相对的
@@ -1146,6 +1146,149 @@
 
 
 ### 空间介词
+
++ **in：在···里面**
+
+  + in the house. 在房屋里.
+  + in the tree. 有动词进到树里面了 .
+    There are some birds in the tree. 小鸟在树上(进到树里了)
+
++ **on：在···上面，物体与物体接触**
+
+  + on the table. 在桌子上.
+  + on the tree. 长在树上的 .
+    There are some apples on the tree. 树上有一些苹果.
+
++ **at：在某处，确定的具体的点**
+
+  + at the corner. 在街道拐角.
+  + at the bus station. 在车站.
+
+  
+
++ **over：覆盖；在···正上方；越过上空(可以描述动态，而above不可以)**
+
+  + The mother put a  blanket over the child. 妈妈把毯子盖在孩子身上(覆盖：接触)
+  + the bridge over the river. 在河上的桥(在···正上方：不接触)
+  + The rabbit climbed over the fence. 兔子爬过栅栏(越过上空：不接触)
+
++ **above：在···上方(高于平面，不可以描述动态)**
+
+  + the sky above us. 在我们上方的天空.
+
++ **under：在···正下方，与over相对，物体与物体可以接触，也可以不接触**
+
+  + There is a ball under the desk. 桌子下有个球.
+
++ **below：在···下方，与above相对，低于某个平面，可以是正下方也可以不是**
+
+  + The rabbit dived below the surface of the water.  兔子潜入水下.
+
+  
+
++ **near：在···附近；在···周边**
+
+  + neat the hospital. 在医院附件.
+
++ **by：在···旁边，通常与beside、next to可以互换**
+
+  + There is a hotel by/beside/next to the river. 在河边有个旅馆.
+
++ **beside：在···旁边(非空间比较)，通常与beside、next to可以互换**
+
+  + There is a hotel by/beside/next to the river. 在河边有个旅馆.
+  + My carrot looks bigger beside yours. 我的胡萝卜和你的一起看着更大.
+
++ **next to：靠近；紧挨着；下一个，通常与beside、next to可以互换**
+
+  + There is a hotel by/beside/next to the river. 在河边有个旅馆.
+
+  
+
++ **across：从表面穿过**
+
+  + go across the street. 穿过马路.
+  + swim across the river. 游过河.
+
++ **through：从内部穿过**
+
+  + go through the tunnel. 穿过隧道.
+  + walk through the forest. 穿过森林.
+  + look through the window. 透过窗户看.
+
+  
+
++ **between：在···之间，between···and**
+
+  + The carrot is between the rabbit and the wolf. 胡萝卜在兔子和狼之间.
+
++ **among：在···之间，一般指在三者及更多物体之间，在口语中也会使用between代替among**
+
+  + The rabbit is standing among the carrots. 兔子站在胡萝卜之间.
+
+  
+
++ **round/around：围绕；环绕**
+
+  + trees round/around the field. 环绕田地四周的树.
+  + around the world. 世界各地.
+
+  
+
++ **along：沿着；顺着**
+
+  + Walk along this road. 沿着这条路一直走.
+
++ **to：向；朝···**
+
+  + go to school. 去上学.
+
++ **toward/towards：朝着···的方向**
+
+  + walk toward/towards home. 朝家走.
+
+  
+
++ **onto：到···上面**
+
+  + The rabbit jumped onto the table. 兔子跳到桌子上.
+
++ **into：到···里面**
+
+  + walk into the house. 走进房子.
+
++ **out of：从里面出来**
+
+  + get out of the car. 从车里出来.
+
++ **opposite：在···对面**
+
+  + Our school is opposite my house. 我们的学校在我家对面.
+
+  
+
++ **against：与···相反；倚，靠**
+
+  + We were rowing against the current. 我们逆水行舟.
+  + The rabbit was leaning against the tree. 兔子正倚着—颗树.
+
+  
+
++ **up：沿···向上**
+
+  + up the hill. 上山.
+  + up the river. 沿河流逆流而上.
+
++ **down：沿···向下**
+
+  + walk down the road. 沿着这条路走下去.
+  + roll down the hill. 从山上滚下去.
+
+  
+
++ **off：离···有一定距离**
+
+  + New Zealand lies off the eastern coast of Australia. 新西兰离澳大利亚东海岸有一些距离.
 
 
 
