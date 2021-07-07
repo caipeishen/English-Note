@@ -1233,8 +1233,6 @@
   + trees round/around the field. 环绕田地四周的树.
   + around the world. 世界各地.
 
-  
-
 + **along：沿着；顺着**
 
   + Walk along this road. 沿着这条路一直走.
@@ -1272,8 +1270,6 @@
   + We were rowing against the current. 我们逆水行舟.
   + The rabbit was leaning against the tree. 兔子正倚着—颗树.
 
-  
-
 + **up：沿···向上**
 
   + up the hill. 上山.
@@ -1284,8 +1280,6 @@
   + walk down the road. 沿着这条路走下去.
   + roll down the hill. 从山上滚下去.
 
-  
-
 + **off：离···有一定距离**
 
   + New Zealand lies off the eastern coast of Australia. 新西兰离澳大利亚东海岸有一些距离.
@@ -1293,6 +1287,48 @@
 
 
 ### 时间介词
+
+> 不少表示时间的介词和他们表示空间的本义用法是对应的
+
++ **in：在···里面，范围相对较大的时间内**
+  + in 2030. 在2030年.
+  + in winter. 在冬季.
+  + in December. 在12月.
++ **on：在···之上，范围相对较小一些，一般表示在具体的某一天**
+  + on Monday. 在星期一.
+  + on Christmas Day. 在圣诞节.
++ **at：因为空间范围很小，表示非常确定的时间，一般说几点钟**
+  + at 6 o'clock. 在6点.
+  + at noon. 在中午.
+  + at sunset. 在太阳落山时.
+  + at dawn. 在黎明时分.
+  + at (the age of) 6. 在6岁时.
++ **during：持续；在···期间**
+  + during the past 2 days. 在过去的2天里.
+  + during the past 2 weeks. 在过去的2周里.
+  + during the past 2 years. 在过去的2年里.
++ **for：因为···；因···持续。在古英语中是之前；由于，作非时间介词时一般和原因有关**
+  + I've been learning English for 2 years. 我持续学习英语两年时间.
++ **since：自从**
+  + since last week. 自从上周以来.
++ **before：在···之前，表示时间(以及次序)，很少用于空间的之前**
+  + before Monday. 星期一之前.
+  + before 2020. 在2020年之前.
++ **after：和before相对，一般表示时间(以及次序)，确定信息使用after**
+  + after two years. 两年之后.
+  + I'll eat a carrot after 2 hours. 我2小时后会吃胡萝卜(确定信息)
+    I'll eat a carrot in 2 hours. 我2小时内会吃胡萝卜(不确定信息，也可能一个小时就吃了)
+  + l returned after two hours. 我两小时之后回来了.
++ **from···to···：从···到···**
+  + from 9:00 to 10:00
++ **by：在···附近/旁边；不超过···边界；不迟于···**
+  + by 2 o'clock. 在2点之前.
+  + by tomorrow. 在明天之前.
+  + 在表示时间点之前时，by和before的含义近似，但是before是泛指某个时间点之前，而by相当于限定了一条时间线，更侧重于不超过，不迟于这条时间线
+    Please finish your homework by 8PM. 请在8点前完成你的作业.
+    Please finish your homework before 8PM. 请在8点前完成你的作业(更强调8点是截至时间，不能在迟)
++ **until：直到···为止**
+  + until 8 o'clock. 直到8点为止.
 
 
 
