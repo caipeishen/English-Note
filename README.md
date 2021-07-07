@@ -1,4 +1,4 @@
-[语法体系(重要)](https://www.bilibili.com/video/BV1r54y1m7gd)
+参考：**[语法体系(重要)](https://www.bilibili.com/video/BV1r54y1m7gd)**
 
 ![](.\images\语法体系.png)
 
@@ -1423,14 +1423,14 @@
 
 > #### 介词短语意思已经完整，可以充当各个句子成分
 
-+ 主语：Between 10 and 11 is a good time for me. 10点到11点间适合我.
-+ 主语补语：The meeting is at 2 o'clock. 会议在2点钟.
-+ 定语：This is the key to the house. 这是房子的钥匙.
-+ 宾语补语：l found the carrot in good condition. 我发现那个胡萝卜保存完好.
++ 主语：**Between 10 and 11** is a good time for me. 10点到11点间适合我.
++ 主语补语：The meeting is **at 2 o'clock**. 会议在2点钟.
++ 定语：This is the key **to the house**. 这是房子的钥匙.
++ 宾语补语：l found the carrot **in good condition**. 我发现那个胡萝卜保存完好.
 + 状语(最常见)：修饰动词，描述动作的时间，地点，方式等等
-  The rabbit ate a carrot at noon. 中午,兔子吃了一根胡萝卜.
-  The rabbit is eating a carrot in the kitchen. 兔子正在厨房里吃一根胡萝卜.
-  The rabbit likes traveling by car. 兔子喜欢乘车出游.
+  The rabbit ate a carrot **at noon**. 中午,兔子吃了一根胡萝卜.
+  The rabbit is eating a carrot **in the kitchen**. 兔子正在厨房里吃一根胡萝卜.
+  The rabbit likes traveling **by car**. 兔子喜欢乘车出游.
 
 
 
