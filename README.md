@@ -1324,7 +1324,7 @@
 + **by：在···附近/旁边；不超过···边界；不迟于···**
   + by 2 o'clock. 在2点之前.
   + by tomorrow. 在明天之前.
-  + 在表示时间点之前时，by和before的含义近似，但是before是泛指某个时间点之前，而by相当于限定了一条时间线，更侧重于不超过，不迟于这条时间线
+  + 在表示时间点之前时，by和before的含义近似，但是before是泛指某个时间点之前，而by相当于限定了一条时间线，更侧重于不超过，不迟于这条时间线.
     Please finish your homework by 8PM. 请在8点前完成你的作业.
     Please finish your homework before 8PM. 请在8点前完成你的作业(更强调8点是截至时间，不能在迟)
 + **until：直到···为止**
@@ -1367,13 +1367,21 @@
   + Could you tell me something about your school? 你能给我讲一些关于你学校的的事情吗?
 + **of：此外的；附加的**
   + He thought of something important. 他想起了一些重要的事情.
-  + think of仅仅是想起了····，而think about是想到关于···的事
+  + think of仅仅是想起了····，而think about是想到关于···的事.
 + **on：在···上面，关于**
   + Would you like some advice on learning English? 你想要些关于学习英语的建议吗?(在学习英语事上)
 
 
 
 ### 数值介词
+
++ **at：在某处，从空间的某个点引申而来**
+  + at a hight price.在一个高的价格(点)
+  + at a fast rate. 以一个很快的速率(点)
++ **by：后接度量标准**
+  + They get paid by the hour. 他们按小时拿报酬(本义旁边，引申为相关，某种属性)
++ **for：以···的价钱**
+  + l bought these books for 100 Yuan. 我买这些书花了100元(也可以理解为表原因)
 
 
 
