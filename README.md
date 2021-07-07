@@ -1352,6 +1352,13 @@
 
 ### 原因介词
 
++ **for：因为···；由于···**
+  + This rabbit is famous for being able to speak. 这只兔子因会说话出名.
++ **with：和···一起；···是和···分不开的原因**
+  + The rabbit is shaking with cold. 兔子冷得发抖(冷和发抖对于兔子来说是分不开的，也就是在阐述原因)
++ **because of/ due to/ owing to/ on account of + 名词：因为···，这几个是固定搭配**
+  + The rabbit didn't go out because of the rain. 因为下雨,兔子没出去.
+
 
 
 ### 关于介词
