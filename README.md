@@ -1118,25 +1118,25 @@
 ### 1.6.2.介词构成
 
 >+ **简单介词**
->  + in：在···里···
->  + to：朝···
->  + with：和···
+>    + in：在···里···
+>    + to：朝···
+>    + with：和···
 >+ **短语介词(视作介词；不单独表完整义)**
->  + by way of：通过···方式
->  + at the end of：在···的最后
->  + along with：和···一起
->  + because of：因为···
->  + previous to：···之前
+>    + by way of：通过···方式
+>    + at the end of：在···的最后
+>    + along with：和···一起
+>    + because of：因为···
+>    + previous to：···之前
 >+ **合成介词**
->  + into：到···之内
->  + onto：到···之上
->  + within：在···之内
->  + notwithstanding：尽管
+>    + into：到···之内
+>    + onto：到···之上
+>    + within：在···之内
+>    + notwithstanding：尽管
 >+ **分词介词(动词的分词充当)**
->  + including：包括···
->  + regarding：关于···；至于···
->  + considering：鉴于···；考虑到
->  + given：考虑到···；如果···
+>    + including：包括···
+>    + regarding：关于···；至于···
+>    + considering：鉴于···；考虑到
+>    + given：考虑到···；如果···
 
 
 
@@ -1202,108 +1202,107 @@
 ### 1.6.5.空间介词
 
 >+ **in：在···里面**
->  + in the house. 在房屋里.
->  + in the tree. 有动词进到树里面了 .
->    There are some birds in the tree. 小鸟在树上(进到树里了)
+>    + in the house. 在房屋里.
+>    + in the tree. 有动词进到树里面了 .
+>        There are some birds in the tree. 小鸟在树上(进到树里了)
 >+ **on：在···上面，物体与物体接触**
->  + on the table. 在桌子上.
->  + on the tree. 长在树上的 .
->    There are some apples on the tree. 树上有一些苹果.
+>    + on the table. 在桌子上.
+>    + on the tree. 长在树上的 .
+>        There are some apples on the tree. 树上有一些苹果.
 >+ **at：在某处，确定的具体的点**
->  + at the corner. 在街道拐角.
->  + at the bus station. 在车站.
+>    + at the corner. 在街道拐角.
+>    + at the bus station. 在车站.
 
 
 
 >+ **over：覆盖；在···正上方；越过上空(可以描述动态，而above不可以)**
->  + The mother put a  blanket over the child. 妈妈把毯子盖在孩子身上(覆盖：接触)
->  + the bridge over the river. 在河上的桥(在···正上方：不接触)
->  + The rabbit climbed over the fence. 兔子爬过栅栏(越过上空：不接触)
+>    + The mother put a  blanket over the child. 妈妈把毯子盖在孩子身上(覆盖：接触)
+>    + the bridge over the river. 在河上的桥(在···正上方：不接触)
+>    + The rabbit climbed over the fence. 兔子爬过栅栏(越过上空：不接触)
 >+ **above：在···上方(高于平面，不可以描述动态)**
->  + the sky above us. 在我们上方的天空.
+>    + the sky above us. 在我们上方的天空.
 >+ **under：在···正下方，与over相对，物体与物体可以接触，也可以不接触**
->  + There is a ball under the desk. 桌子下有个球.
+>    + There is a ball under the desk. 桌子下有个球.
 >+ **below：在···下方，与above相对，低于某个平面，可以是正下方也可以不是**
->  + The rabbit dived below the surface of the water.  兔子潜入水下.
+>    + The rabbit dived below the surface of the water.  兔子潜入水下.
 
 
 
 >+ **near：在···附近；在···周边**
->  + neat the hospital. 在医院附件.
+>    + neat the hospital. 在医院附件.
 >+ **by：在···旁边，通常与beside、next to可以互换**
->  + There is a hotel by/beside/next to the river. 在河边有个旅馆.
+>    + There is a hotel by/beside/next to the river. 在河边有个旅馆.
 >+ **beside：在···旁边(非空间比较)，通常与beside、next to可以互换**
->  + There is a hotel by/beside/next to the river. 在河边有个旅馆.
->  + My carrot looks bigger beside yours. 我的胡萝卜和你的一起看着更大.
+>    + There is a hotel by/beside/next to the river. 在河边有个旅馆.
+>    + My carrot looks bigger beside yours. 我的胡萝卜和你的一起看着更大.
 >+ **next to：靠近；紧挨着；下一个，通常与beside、next to可以互换**
->  + There is a hotel by/beside/next to the river. 在河边有个旅馆.
+>    + There is a hotel by/beside/next to the river. 在河边有个旅馆.
 
 
 
 >+ **across：从表面穿过**
->  + go across the street. 穿过马路.
->  + swim across the river. 游过河.
+>    + go across the street. 穿过马路.
+>    + swim across the river. 游过河.
 >+ **through：从内部穿过**
->  + go through the tunnel. 穿过隧道.
->  + walk through the forest. 穿过森林.
->  + look through the window. 透过窗户看.
+>    + go through the tunnel. 穿过隧道.
+>    + walk through the forest. 穿过森林.
+>    + look through the window. 透过窗户看.
 
 
 
 >+ **between：在···之间，between···and**
->  + The carrot is between the rabbit and the wolf. 胡萝卜在兔子和狼之间.
+>    + The carrot is between the rabbit and the wolf. 胡萝卜在兔子和狼之间.
 >+ **among：在···之间，一般指在三者及更多物体之间，在口语中也会使用between代替among**
->  + The rabbit is standing among the carrots. 兔子站在胡萝卜之间.
+>    + The rabbit is standing among the carrots. 兔子站在胡萝卜之间.
 
 
 
 >+ **round/around：围绕；环绕**
->  + trees round/around the field. 环绕田地四周的树.
->  + around the world. 世界各地.
+>    + trees round/around the field. 环绕田地四周的树.
+>    + around the world. 世界各地.
 
 
 
 >+ **along：沿着；顺着**
->  + Walk along this road. 沿着这条路一直走.
+>    + Walk along this road. 沿着这条路一直走.
 
 
 
 >+ **to：向；朝···**
->  + go to school. 去上学.
+>    + go to school. 去上学.
 >+ **toward/towards：朝着···的方向**
->  + walk toward/towards home. 朝家走.
+>    + walk toward/towards home. 朝家走.
 
 
 
 >+ **onto：到···上面**
->  + The rabbit jumped onto the table. 兔子跳到桌子上.
+>    + The rabbit jumped onto the table. 兔子跳到桌子上.
 >+ **into：到···里面**
->  + walk into the house. 走进房子.
+>    + walk into the house. 走进房子.
 >+ **out of：从里面出来**
->  + get out of the car. 从车里出来.
+>    + get out of the car. 从车里出来.
 >+ **opposite：在···对面**
->  + Our school is opposite my house. 我们的学校在我家对面.
+>    + Our school is opposite my house. 我们的学校在我家对面.
 
 
 
 >+ **against：与···相反；倚，靠**
->  + We were rowing against the current. 我们逆水行舟.
->  + The rabbit was leaning against the tree. 兔子正倚着—颗树.
+>    + We were rowing against the current. 我们逆水行舟.
+>    + The rabbit was leaning against the tree. 兔子正倚着—颗树.
 
 
 
 >+ **up：沿···向上**
->  + up the hill. 上山.
->  + up the river. 沿河流逆流而上.
+>    + up the hill. 上山.
+>    + up the river. 沿河流逆流而上.
 >+ **down：沿···向下**
->  + walk down the road. 沿着这条路走下去.
->  + roll down the hill. 从山上滚下去.
+>    + walk down the road. 沿着这条路走下去.
+>    + roll down the hill. 从山上滚下去.
 
 
 
->**off：离···有一定距离**
->
->+ New Zealand lies off the eastern coast of Australia. 新西兰离澳大利亚东海岸有一些距离.
+>+ **off：离···有一定距离**
+>  + New Zealand lies off the eastern coast of Australia. 新西兰离澳大利亚东海岸有一些距离.
 
 
 
@@ -1383,52 +1382,52 @@
 ### 1.6.8.原因介词
 
 >+ **for：因为···；由于···**
->  + This rabbit is famous for being able to speak. 这只兔子因会说话出名.
+>    + This rabbit is famous for being able to speak. 这只兔子因会说话出名.
 >+ **with：和···一起；···是和···分不开的原因**
->  + The rabbit is shaking with cold. 兔子冷得发抖(冷和发抖对于兔子来说是分不开的，也就是在阐述原因)
+>    + The rabbit is shaking with cold. 兔子冷得发抖(冷和发抖对于兔子来说是分不开的，也就是在阐述原因)
 >+ **because of/ due to/ owing to/ on account of + 名词：因为···，这几个是固定搭配**
->  + The rabbit didn't go out because of the rain. 因为下雨,兔子没出去.
+>    + The rabbit didn't go out because of the rain. 因为下雨,兔子没出去.
 
 
 
 ### 1.6.9.关于介词
 
 >+ **about：在···外面；关于**
->  + Could you tell me something about your school? 你能给我讲一些关于你学校的的事情吗?
+>    + Could you tell me something about your school? 你能给我讲一些关于你学校的的事情吗?
 >+ **of：此外的；附加的**
->  + He thought of something important. 他想起了一些重要的事情.
->  + think of仅仅是想起了····，而think about是想到关于···的事.
+>    + He thought of something important. 他想起了一些重要的事情.
+>    + think of仅仅是想起了····，而think about是想到关于···的事.
 >+ **on：在···上面，关于**
->  + Would you like some advice on learning English? 你想要些关于学习英语的建议吗?(在学习英语事上)
+>    + Would you like some advice on learning English? 你想要些关于学习英语的建议吗?(在学习英语事上)
 
 
 
 ### 1.6.10.数值介词
 
 >+ **at：在某处，从空间的某个点引申而来**
->  + at a hight price.在一个高的价格(点)
->  + at a fast rate. 以一个很快的速率(点)
+>    + at a hight price.在一个高的价格(点)
+>    + at a fast rate. 以一个很快的速率(点)
 >+ **by：后接度量标准**
->  + They get paid by the hour. 他们按小时拿报酬(本义旁边，引申为相关，某种属性)
+>    + They get paid by the hour. 他们按小时拿报酬(本义旁边，引申为相关，某种属性)
 >+ **for：以···的价钱**
->  + l bought these books for 100 Yuan. 我买这些书花了100元(也可以理解为表原因)
+>    + l bought these books for 100 Yuan. 我买这些书花了100元(也可以理解为表原因)
 
 
 
 ### 1.6.11.状态介词
 
 >+ **in：在···里；在···状态中**
->  + in progress. 在进行(状态)中.
->  + in a dilemma. 处于进退两难的境地中
+>    + in progress. 在进行(状态)中.
+>    + in a dilemma. 处于进退两难的境地中
 >+ **on：在···之上；受到之下···的支持(的状态)**
->  + on a diet. 在节食(在节食支持的状态)
->  + on drugs. 吃药(在药物支持的状态)
+>    + on a diet. 在节食(在节食支持的状态)
+>    + on drugs. 吃药(在药物支持的状态)
 >+ **at：在某处；在某个状态**
->  + at work. 在工作(工作的地点/状态)
->  + at dinner. 在吃完饭(吃饭的地点/状态)
+>    + at work. 在工作(工作的地点/状态)
+>    + at dinner. 在吃完饭(吃饭的地点/状态)
 >+ **under：在···下面；在(前提)下**
->  + under construction. 在施工中(在施工器具之下)
->  + under discussion. 在讨论中(在某个前提或者说共识之下)
+>    + under construction. 在施工中(在施工器具之下)
+>    + under discussion. 在讨论中(在某个前提或者说共识之下)
 
 
 
