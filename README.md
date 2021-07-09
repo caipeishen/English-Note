@@ -639,7 +639,7 @@
 
 **(1)表示事实**
 
-+ ~~I eat a carrot.~~  语法没问题，但是表达意思很怪(我吃一根胡萝卜)，也不像是表达事实
++ ~~I eat a carrot.~~  语法没问题，但是表达意思很怪(我吃一根胡萝卜)，也不像是表达事实，一般不这样说
 + The rabbit **eats** carrots. 兔子吃胡萝卜(没有用冠词a 用的名词复数，表达事实)
 + The sun **rises** in the east. 太阳从东边升起
 + The earth **revolves** around the sun. 地球绕太阳转
