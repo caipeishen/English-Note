@@ -1494,33 +1494,37 @@
 
 >没有限定的作用，只不过用了个代词接着说话，补充信息而已
 
-+ The rabbit ate the carrot**, which** was on the table.  兔子吃胡萝卜，桌子上的那个(补充信息)
-  == The rabbit ate the carrot**, the carrot** was on the table.  兔子吃胡萝卜，胡萝卜在桌子上
-+ They went to London，where they lived for six months.  他们去了[伦敦](https://baike.baidu.com/item/伦敦/862)，在那儿呆了六个月的时间
-  == They went to London，the London they lived for six months. 他们去了[伦敦](https://baike.baidu.com/item/伦敦/862)，在伦敦呆了六个月的时间
++ The rabbit ate the carrot**, which** was on the table.  
+  兔子吃胡萝卜，桌子上的那个(补充信息)
+  = The rabbit ate the carrot**, the carrot** was on the table.  
+  = 兔子吃胡萝卜，胡萝卜在桌子上
 
 
 
 >非限定形容词从句因为补充的特点经常用做插入语，插入语直接去掉不影响句意
 
-+ My head, <u>**which is big**</u>, is useful when it rains. 我有大头，下雨不愁
-+ The biggest carrot, <u>**which the rabbit ate**</u>, was on the table. 最大的胡萝卜在桌上，兔子吃了它
++ My head, **which is big**, is useful when it rains. 
+  我有大头，下雨不愁
++ The biggest carrot, **which the rabbit ate**, was on the table. 
+  最大的胡萝卜在桌上，兔子吃了它
 
 
 
 > 非限定形容词从句也可以代替整句话
 >
 
-+ **The rabbit ate the carrot**, **which** was not surprising. 兔子吃胡萝卜，**兔子吃胡萝卜这件事**并不意外
++ **The rabbit ate the carrot**, **which** was not surprising. 
+  兔子吃胡萝卜，兔子吃胡萝卜这件事并不意外
 
 
 
->#### 限定性 vs 非限定性
+**限定性形容词从句 vs 非限定性形容词从句**
 
 + I have a head **which** is round. 我有一个圆的头
 + I have a head**, which** is round. 我有一个头，它是圆的
++ 限定非限定指的是英文中的先行词(头)，而非中文的句意。非限定中逗号后面的句子是解释补充说明这个先行词，中文翻译过来恰恰是限定这个先行词(头)，所以可能会有误解
 
-限定非限定指的是英文中的先行词(头)，而非中文的句意。非限定中逗号后面的句子是解释说明这个先行词，中文翻译过来恰恰是限定这个先行词(头)，所以可能会有误解
+
 
 
 
