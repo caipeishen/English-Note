@@ -1547,14 +1547,18 @@
 
 >句子主语由从句充当，主语以引导词开始，主语除去引导词剩下的词序和中文基本一致
 
+
+
+**(1)确定信息做主语从句**
+
 + **That the rabbit ate a carrot** is obvious.  
   兔子吃了胡萝卜，这是明显的（That从属连词 引导词）
 
 
 
-**(1)引导词**
+**(2)不确定信息做主语从句**
 
->在问句中：疑问代词/副词，这里叫连接代词/副词
+>在问句中：疑问代词/副词，这里做引导词叫连接代词/连接副词
 
 + **Whether** the rabbit ate the carrot is obvious.
 + **Where** the rabbit ate the carrot is obvious.
@@ -1565,14 +1569,14 @@
 
 
 
-**(2)形式主语**
+**(3)形式主语**
 
 > 上方的句子会出现说了很长才出现关键信息，母语人士通常使用下方的形式主语
 
 + **That the hungry rabbit  had already eaten a carrot for dinner this evening** is obvious.
   显得头重脚轻，母语人士很少这样说话，可以改为
 + **It** is obvious **that the hungry rabbit had already eaten a carrot for dinner this evening**.
-  这里的It不是平时指代物体的代词"它"，而是指代**后面的从句**，本身没有实际意义，所以被称为**形式主语**
+  这里的It不是平时指代物体的代词"它"，而是指代后面的从句，本身没有实际意义，所以被称为形式主语
 
 
 
@@ -1602,7 +1606,7 @@
 **(1)确定信息做宾语从句**
 
 + I saw **that the rabbit ate a carrot**.
-  我看见**这兔子吃了跟胡萝卜**
+  我看见这兔子吃了跟胡萝卜
 
 
 
@@ -1621,7 +1625,6 @@
 
 > 从句的引导词基本都在从句的开头，而其他的词遵照正常的陈述语序，基本也和中文一样
 >看到 whether who what where when how，不一定是包含疑问代词/副词的问句
-> 
 
 + You told me whether ~~does~~ the rabbit eat the carrot.
 + You told me where ~~does~~ the rabbit eat the carrot.
@@ -1632,7 +1635,7 @@
 
 **(4)引导词that的省略**
 
-> 在口语或非正式书面语中，宾语从句的引导词that可以省略，其他引导词不可以
+> 在口语或非正式书面语中，有些宾语从句的引导词that可以省略，其他引导词不可以
 
 + I knew (**that**) the rabbit ate a carrot.
   我知道这兔子吃了胡萝卜
@@ -1645,11 +1648,11 @@
 
 > 否定加在谓语动词前，而非从句中
 
-+ I **don't** think (that) the rabbit is smart.  
++ I **don't** think (that) the rabbit is smart.
   ~~I think(that) the rabbit isn't smart.~~
-+ I **don't** believe (that) you will give me some coins.  
++ I **don't** believe (that) you will give me some coins.
   ~~I believe(that) you won't give me some coins.~~
-+ I **don't** expect (that) you will give this video a thumbs-up.  
++ I **don't** expect (that) you will give this video a thumbs-up.
   ~~I expect (that) you won't give this video a thumbs-up.~~
 
 
@@ -1675,9 +1678,10 @@
 
 ### 3.2.3.表语从句(主语补语)
 
->I am a **rabbit**. 
->The carrot tastes **good**.
 >主语 + 系动词 + 表语(主语补语)
+
++ I am **a rabbit**. 
++ The carrot tastes **good**.
 
 
 
