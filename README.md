@@ -1481,9 +1481,12 @@
 
 > 关系副词 = 介词 + which
 
-+ This was the **place at which** the rabbit ate the carrot.
-+ This is the **reason for which** the rabbit ate the carrot.
-+ That was the **day on which** the rabbit ate the carrot for the first time.
++ This was the place **where** the rabbit ate the carrot.
+  This was the place **at which** the rabbit ate the carrot.
++ This is the reason **why** the rabbit ate the carrot.
+  This is the reason **for which** the rabbit ate the carrot.
++ That was the day **when** the rabbit ate the carrot for the firsttime.
+  That was the day **on which** the rabbit ate the carrot for the first time.
 
 
 
@@ -1820,31 +1823,25 @@
 
 ### 3.3.2.地点副词从句
 
-**地点副词(状语)从句**
-
 > 引导词：where + 强调形式(wherever不管哪里， everywhere所有地方，anywhere任何地方)
 >
 
 + The rabbit ate the carrot **where he found it**.
-  兔子在**找到胡萝卜的地方**吃了它 (地点副词从句直接等于地点)
+  兔子在找到胡萝卜的地方吃了它 (地点副词从句直接等于地点)
 
 
 
-> 存在各个句子成分
-
-+ **形容词从句**：The rabbit ate the carrot at the place **where he found it**. (形容词从句修饰**先行词place**)
-+ **表语从句**：This is **where he found the carrot**.
-+ **主语从句**：**Where he found the carrot** is a secret.
-
-
-
-> 比较，只看见**where**引导词不能确定是哪种从句
+> 只看见where引导词不能确定是哪种从句
 >
 
-+ The rabbit ate the carrot **where he found it**.  地点副词状语从句(副词从句直接等于地点)
-  The rabbit ate the carrot at the **place where he found it**. 形容词从句(从句修饰先行词place)
-+ This is **where he found the carrot**. 表语从句
-  **Where he found the carrot** is a secret. 主语从句
++ The rabbit ate the carrot **where he found it**.  
+  地点副词状语从句(副词从句直接等于地点)
++ The rabbit ate the carrot at the place **where he found it**. 
+  形容词从句(从句修饰先行词place)
++ This is **where he found the carrot**. 
+  表语从句
++ **Where he found the carrot** is a secret. 
+  主语从句
 
 
 
@@ -1880,9 +1877,9 @@
 **(3)比较副词从句："越···越..."**
 
 + **The more** you practice  English, **the more** fluent you become.
-  你**越多练习**英语，你就**越流利**
+  你越多练习英语，你就越流利
 + **The more** coins you give me, **the more** videos I make.
-  你投币**越多**，我做的视频也**越多**
+  你投币越多，我做的视频也越多
 
 
 
@@ -1892,14 +1889,14 @@
 
 + **If** the rabbit sees a carrot, he **will** eat it.
   If引导了从句，使用的是一般现在时，之后是主句用一般将来时，有人会说这就是”~~主将从现~~“，其实并没有这一种固定的说法，If l saw a carrot, I would eat it. If I had seen a carrot, I would have eaten it.按照这两句(虚拟语气)，那么是不是还会有”~~主过去将来从过去~~“、”~~主过去将来完成从过去完成~~“？那么到底为什么说”主将从现“呢？
-+ ”~~主将从现~~“，中的现，往往指的不是现在的时间，而是一般的状态(简单的，默认的，普通的)。If I see a carrot... 这真的是明确在将来发生的事吗？如果真确定了，干嘛还用”如果“，这不是自相矛盾吗。英语的将来时态指的是非常确定会发生的事儿，I will eat a carrot. 是我确定我将来会吃跟胡萝卜，现在的If I see a carrot...这个条件并不确定是否会形成，所以条件只能用一般状态，而不是If I will see a carrot...
++ ”~~主将从现~~“，中的现，往往指的不是现在的时间，而是一般的状态(简单的，默认的，普通的)。If I see a carrot... 这真的是明确在将来发生的事吗？如果真确定了，干嘛还用”如果“，这不是自相矛盾吗。英语的将来时态指的是非常确定会发生的事儿，I will eat a carrot. 是我确定我将来会吃跟胡萝卜，所以用一般将来时，而If I see a carrot...这个条件并不确定是否会形成，所以条件只能用一般状态，而不是~~If I will see a carrot~~...
 
 
 
-> 条件句总是比主句在石台上落后一个时间段，这也可以应用于虚拟语气。
+> 条件句总是比主句在时间上落后一个时间段，这也可以应用于虚拟语气。
 
-+ If l saw a carrot, l would eat it.
-+ If l had seen a carrot, l would have eaten it.
++ If l **saw** a carrot, l **would** eat it.
++ If l **had seen** a carrot, l **would have eaten** it.
 
 
 
@@ -1927,25 +1924,21 @@
 
 ### 3.3.5.让步副词从句
 
-> 和条件副词从句有些相同的地方，都是某种情况/做出某种假设，但让步副词从句接下来会更进一步，做出一个相反/相对的阐述，即使/就算···也···，所以才有让步这一说
+> 和条件副词从句有些相同的地方，都是某种情况/做出某种假设，但让步副词从句接下来会更进一步，做出一个相反/相对的阐述，最常见的是即使/就算···也···，所以才有让步这一说
 
 
 
 **(1)假设**
 
 + **Even** if l see a carrot, I **will** not eat it.
-  **即使**我看到了一根胡萝卜，我**也**不会吃它.
-
-这里的Even去掉，句子照样通顺，只不过加了even就有了让步的意思，就算我看见胡萝卜这个情况，我也会做出一个在这个情况下相反的动作，即不吃它
+  即使我看到了一根胡萝卜，我也不会吃它(这里的Even去掉，句子照样通顺，只不过加了even就有了让步的意思，就算我看见胡萝卜这个情况，我也会做出一个在这个情况下相反的动作，即不吃它)
 
 
 
 **(2)事实**
 
 + **Although** I see a carrot, I **will** not eat it.
-  **尽管**我看到了一根胡萝卜，**但**我不会吃它.
-
-尽管我看到了一根胡萝卜是事实，但我还是不会吃它。虽然中文翻译是尽管...但...，但是英文中不会添加but，因为我们这里是复杂句，加上but就有了复合句，有复合句有复杂句就混乱了， ~~Although l see a carrot, **but** l will not eat it.~~
+  尽管我看到了一根胡萝卜，但我不会吃它(尽管我看到了一根胡萝卜是事实，但我还是不会吃它。虽然中文翻译是尽管...但...，但是英文中不会添加but，因为我们这里是复杂句，加上but就有了复合句，有复合句有复杂句就混乱了， ~~Although l see a carrot, **but** l will not eat it.~~)
 
 
 
