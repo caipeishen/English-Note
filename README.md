@@ -1746,20 +1746,20 @@
 **(1)在某一时间点之前，引导词：before**
 
 + The rabbit ate a carrot at home **before the wolf stopped by**.
-  **大灰狼串门之前**,兔子吃了根胡萝卜.
+  大灰狼串门之前，兔子吃了根胡萝卜.
 + **Before the wolf stopped by,** the rabbit ate a carrot at home.
-  **大灰狼串门之前**，兔子吃了根胡萝卜(从句在主句前，需要加上逗号)
+  大灰狼串门之前，兔子吃了根胡萝卜(从句在主句前，需要加上逗号)
 
 
 
 **(2)在某一时间点之中(当时)，引导词：when, while, as**
 
 + The rabbit was eating a carrot **when I reached home**.
-  **我到家的时候**,兔子在吃胡萝卜.
+  我到家的时候，兔子在吃胡萝卜.
 + The rabbit was eating a carrot **while I was making a video**.
-  **我做视频的过程中**,兔子在吃胡萝卜.
+  我做视频的过程中，兔子在吃胡萝卜.
 + I ate a carrot **as I made the video**.
-  我一边吃胡萝卜**一边做视频**.
+  我一边吃胡萝卜一边做视频.
 
 
 
@@ -1771,7 +1771,7 @@
 
 + **While**：时间段
   The rabbit was eating a carrot **while** I was making a video.
-  我做视频的过程中,兔子在吃胡萝卜.
+  我做视频的过程中，兔子在吃胡萝卜.
 
 + **As**：同时
   l ate a carrot **as** I made the video.
@@ -1782,37 +1782,39 @@
 **(3)在某一时间点之后，引导词：after**
 
 + The rabbit ate a carrot **after** the wolf stopped by.
-  **大灰狼串过门之后**，兔子吃了根胡萝卜.
+  大灰狼串过门之后，兔子吃了根胡萝卜.
 
 
 
 **(4)从之前某一时间点开始算，引导词：since**
 
+> 从某时间点算起，往往暗示了对之后有影响，这样情况使用完成时
+
 + The rabbit has shared three carrots **since** the wolf stopped by.
-  **自从大灰狼来串门**，兔子已经分享了三根胡萝卜了.
+  自从大灰狼来串门，兔子已经分享了三根胡萝卜了.
 
 
 
 **(5)直到在之后的某一时间点，引导词：until**
 
 + The rabbit waited **until** the wolf stopped by.
-  **兔子一直在等**，直到大灰狼来串门.
+  兔子一直在等，直到大灰狼来串门.
 + The rabbit didn't eat any carrot **until** the wolf stopped by.
-  兔子**直到大灰狼来串门**才吃了胡萝
+  兔子直到大灰狼来串门才吃了胡萝
 
 
 
 **(6)一····就····，引导词：as soon as**
 
 + The  rabbit will eat a carrot **as soon as** the wolf leaves.
-  大灰狼**一离开**兔子**就要**吃一个胡萝卜.
+  大灰狼一离开兔子就要吃一个胡萝卜.
 
 
 
 **(7)下次····，引导词：the next time**
 
 + The rabbit will share the biggest carrot **the next time** the wolf stops by.
-  **下次大灰狼来串门**，兔子会一起分享最大的胡萝卜.
+  下次大灰狼来串门，兔子会一起分享最大的胡萝卜.
 
 
 
