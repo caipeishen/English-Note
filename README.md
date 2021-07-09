@@ -633,8 +633,8 @@
 
 **(1)表示事实**
 
-+ I **eat** carrots.
-+ The rabbit **eats** carrots.
++ ~~I eat a carrot.~~  语法没问题，但是表达意思很怪(我吃一根胡萝卜)，也不像是表达事实
++ The rabbit **eats** carrots. 兔子吃胡萝卜(没有用冠词a 用的名词复数，表达事实)
 + The sun **rises** in the east. 太阳从东边升起
 + The earth **revolves** around the sun. 地球绕太阳转
 
@@ -648,7 +648,7 @@
 
 **(3)表示预计发生的事**
 
-+ The bus **leaves** at 8PM tonight.
++ The bus **leaves** at 8PM tonight.(也可以当作事实)
 
 
 
@@ -679,7 +679,7 @@
 ### 1.4.3.现在完成时
 
 > 助动词have的变位 + 动词的过去分词
->对于现在而言，某个动作是否已经完成了，往往考虑过去的动作对现在的影响
+>对于现在而言，某个动作已经完成了(并没有指出动作具体的开始时间)，往往考虑过去的动作对现在的影响
 
 
 
