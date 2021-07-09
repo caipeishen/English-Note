@@ -1687,21 +1687,17 @@
 
 **(1)表语从句(系动词：be动词)**
 
-> 表语从句其实就是将主语从句反过来
-> **That the rabbit ate a carrot** is secret. 👉 The secret is **that the rabbit ate a carrot**.
->
-
-+ The problem **is** that the rabbit is hungry.
-+ The reason **is** that there's no more carrot.
-+ The question **is** whether the rabbit is hungry.
-+ The question **is** what the rabbit should eat.
-+ The question **is** where/when/how the rabbit should eat the carrot.
++ The problem is **that the rabbit is hungry**.
++ The reason is **that there's no more carrot**.
++ The question is **whether the rabbit is hungry**.
++ The question is **what the rabbit should eat**.
++ The question is **where/when/how the rabbit should eat the carrot**.
 
 
 
 **(2)表语从句(系动词：非be动词)**
 
-> 例如fell, seem, look, taste这样的系动词，下方的It是形式主语，没有实际意义，句子真正表达的意思，全部含在后面的从句中，在语法上来说，是的的确确的标语成分(而非主语从句)。
+> 例如fell, seem, look, taste这样的系动词，
 >
 
 + It seems **that the rabbit is hungry**.
