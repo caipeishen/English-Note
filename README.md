@@ -654,7 +654,7 @@
 
 ### 1.4.2.现在进行时
 
-> 助动词be的变位 + 动词的现在分词
+> 助动词be的变位(am/is/are) + 动词的现在分词
 > 正在进行的动作
 
 
@@ -672,7 +672,8 @@
 
 > 例句
 
-+ I'm having lunch. 我正在吃午饭
++ I'm having lunch. 我正在吃午饭.
++ You are watching my video. 你正在看我的视频.
 
 
 
