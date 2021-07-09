@@ -1697,7 +1697,7 @@
 
 **(2)表语从句(系动词：非be动词)**
 
-> 例如fell, seem, look, taste这样的系动词，
+> 例如fell, seem, look, taste这样的系动词
 >
 
 + It seems **that the rabbit is hungry**.
@@ -1708,14 +1708,16 @@
 ### 3.2.4.同位语从句
 
 > My teacher, **Papa Rabbit**, likes carrots.
-> 同位语其实就是用不同的方式把同一个概念再说一遍，用逗号隔开
+> 同位语就是用不同的方式把同一个概念再说一遍，用逗号隔开，但从句中有引导词也就不用逗号隔开
 
-+ The fact **that the rabbit ate the carrot did the carrot** did not surprise me.
-  **兔子吃了胡萝卜**这个事实并没让我吃惊
++ The fact **that the rabbit ate the carrot** did not surprise me.
+  兔子吃了胡萝卜这个事实并没让我吃惊.
++ The question **whether the rabbit will eatthe carrot** is on all our minds.
+  兔子是否会吃胡萝卜这个问题萦绕在我们所有人心中.
 + I have no idea **who ate the carrot**.
-  我不知道**谁吃了那胡萝卜**
+  我不知道谁吃了那胡萝卜.
 + I am sure of the fact **that there's a carrot on the table**.
-  我确定**桌上有跟胡萝卜**这件事
+  我确定桌上有跟胡萝卜这件事.
 
 
 
@@ -1735,8 +1737,7 @@
 
 ## 3.3.副词性从句(状语从句)
 
-> 副词是指在句子中表示行为或状态特征的词，用以来补充说明动词、形容词、其他副词等
-> 从句子成份上说充当了句子的状语，所以也叫**状语从句**
+> 副词是指在句子中表示行为或状态特征的词，用以来补充说明动词、形容词、其他副词等，从句子成份上说充当了句子的状语，所以也叫状语从句
 
 
 
@@ -1747,7 +1748,7 @@
 + The rabbit ate a carrot at home **before the wolf stopped by**.
   **大灰狼串门之前**,兔子吃了根胡萝卜.
 + **Before the wolf stopped by,** the rabbit ate a carrot at home.
-  **大灰狼串门之前**,兔子吃了根胡萝卜.
+  **大灰狼串门之前**，兔子吃了根胡萝卜(从句在主句前，需要加上逗号)
 
 
 
