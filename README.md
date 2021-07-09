@@ -606,7 +606,7 @@
 
 ## 1.4.时态合集
 
-> 动词时间+动词的状态，合称时态
+> 动词时间+动词状态，合称时态
 
 ![](./images/16种时态.png)
 
@@ -624,9 +624,15 @@
 
 
 
+> 常用时态
+
+![](./images/常用时态.png)
+
+
+
 ### 1.4.1.一般现在时
 
-> **动词原形 + [s(第三人称单数)]**
+> **构成：动词原形 + [s(第三人称单数)]**
 > 一般现在时，其实跟现在没有什么关系，最常见的情况是表达习惯和客观的事实
 
 
@@ -654,14 +660,12 @@
 
 ### 1.4.2.现在进行时
 
-> **助动词be的变位(am/is/are) + 动词的现在分词**
+> **构成：助动词be的变位(am/is/are) + 动词的现在分词**
 > 正在进行的动作，加助动词就是为了帮助谓语动词展示出三大本领，动词变成现在分词也是为了三大本领
 
 
 
-**现在分词**
-
->通常：+ing
+>**现在分词**，通常：+ing，现在分词做谓语动词表示进行中的状态，做非谓语动词可以表示形容词
 >动词在此基础上改变拼写（方便发音或避免误解，其实英语很多不规则都有不按规则的道理），如：
 
 + write 👉 writing，不是~~writeing~~
@@ -679,19 +683,12 @@
 
 ### 1.4.3.现在完成时
 
-> **助动词have的变位(have/has) + 动词的过去分词**
+> **构成：助动词have的变位(have/has) + 动词的过去分词**
 >对于现在而言，某个动作已经完成了(没有指出动作具体的开始时间)，往往考虑过去的动作对现在的影响，助动词是为了帮助谓语动词展示三大本领，动词变成过去分词也是为了三大本领
 
 
 
-**过去分词**
-
->过去分词通常：+ed，过去分词 ≠ 过去式
-
-
-
->有些动词是不规则变化，如：
->
+>**过去分词**，通常：+ed，过去分词 ≠ 过去式，过去分词表示完成状态，有些动词是不规则变化，如：
 
 + eat 👉 eaten;  give, see, fall 👉  giv**en**, se**en**, fall**en**
 + bring 👉 brought; bring,buy, fight, think 👉 br**ought**, b**ought**, **fought**, t**hought**
@@ -710,7 +707,7 @@
 
 ### 1.4.4.现在完成进行时
 
-> **have的变位(have/has) + been(be的过去分词,都是been) + 动词的现在分词**
+> **构成：have的变位(have/has) + been(be的过去分词,都是been) + 动词的现在分词**
 >动作已经持续一段时间了，并且以后还会继续做，是将现在进行时和现在完成时进行融合
 
 
@@ -726,7 +723,7 @@
 
 ### 1.4.5.一般过去时
 
-> **+动词过去式，各个人称都是一样的**
+> **构成：+动词过去式，各个人称都是一样的**
 >某个动作在过去是否发生过，往往考虑的是过去的事实
 
 + eat(原形) 👉 ate(过去式)(**为什么要变因为时间变了，谓语动词包含时间的本领**)
@@ -741,8 +738,6 @@
 + You **watched** my video. 你看了我的视频
 
 
-
-**过去式**
 
 > 过去式通常：+ed(和过去分词通常一样)，有些动词时不规则变化，如：
 
@@ -771,7 +766,7 @@
 
 ### 1.4.6.过去进行时
 
-> **助动词be的变位(was/were) + 动词的现在分词**
+> **构成：助动词be的变位(was/were) + 动词的现在分词**
 > 某个动作在过去时间里在进行中的，过去的一段视频
 
 
@@ -789,7 +784,7 @@
 
 ### 1.4.7.过去完成时
 
->**助动词have的变位(had) + 动词的过去分词**
+>**构成：助动词have的变位(had) + 动词的过去分词**
 >主要表达过去(B)对过去(A)的影响（顺序：B A 现在）
 
 
@@ -816,7 +811,7 @@
 
 ### 1.4.8.过去完成进行时
 
-> **助动词have的变位(had) + been(be的过去分词) + 动词的现在分词**
+> **构成：助动词have的变位(had) + been(be的过去分词) + 动词的现在分词**
 > 对于过去某个点已经完成了，而且还要继续进行的动作
 
 
@@ -834,7 +829,7 @@
 
 ### 1.4.9.一般将来时
 
-> **助动词will + 动词原形，各个人称都是一样的**
+> **构成：助动词will + 动词原形，各个人称都是一样**
 > 将来某个时间点发生的动作(说话者十分确定会发生的事)，如果不太确定就不能用(需要借助**动词语气**)
 
 
@@ -855,7 +850,7 @@
 
 ### 1.4.10.将来进行时
 
-> **助动词will + be(will已经算是变位过的助动词) + 动词的现在分词**
+> **构成：助动词will + be(will已经算是变位过的助动词) + 动词的现在分词，各个人称都是一样**
 >在将来某个时间，某个动作是在进行的过程中(比一般将来时还要笃定)
 
 + I **will be eating** a carrot tomorrow from 1 PM to 3 PM.
@@ -865,31 +860,46 @@
 
 ### 1.4.11.将来完成时态
 
-> **助动词will + have(前面的will已经算是变位过了) + 动词的过去分词**
->现在完成时表达对现在的影响；将来完成时表达对将来的影响(比将来进行时更加笃定)
+> **构成：助动词will + have原形(will已经算是变位过了) + 动词的过去分词，各个人称都是一样**
+>将来完成时表达对将来的影响(比将来进行时更加笃定) 
 
 
 
-> 我明天4点前就会吃完胡萝卜，对于将来的时间点(明天4点)来说，我在那之前就会完成吃胡萝卜的动作，所以对4点钟是由影响的，影响就是：4点钟之后我就可以发视频了
+> 例句
 >
 
-+ I **will have eaten** the carrots by 4 PM tomorrow. 
++ I **will have finished making** thevideo by 4PM tomorrow, so I canpublish it after that.
+  这里要表达的意思就是，对于明天下午4点钟那个时间点来说,我在那之前就会完成做视频这个动作，所以对4点钟那时候是有影响的，什么影响呢，4点钟之后我就能够发视频啦.
+
+
+
+> 现在完成时 👉 将来完成时
+
 + The rabbit **has eaten** a carrot. 👉 The rabbit **will have eaten** a carrot.
   这兔子在将来某个时间点已经吃了个胡萝卜
 + You **have watched** my video. 👉 You **will have watched** my video.
   你在将来某个时间点已经看过了我的视频
-+ I **have thought** of you 👉 I will **have thought** of you.
++ I **have thought** of you 👉 I **will have thought** of you.
   我在将来某个时间点已经想过你了
 
 
 
 ### 1.4.12.将来完成进行时
 
-> **will** + **have** + been + 动词的现在分词
+> **构成：助动词will + have原形(will已经变位) + been(be的过去分词) + 动词的现在分词，各个人称一样**
 >现在完成进行时表示现在已经完成，而且还会继续；将来完成进行时表示将来已经完成，而且还会继续
 
-+ I **will have been eating** carrots **for 2 hours** by **3 PM tomorrow**.
-  我确定**明天下午三点钟时**，我不但已经吃了**两个钟头**胡萝卜(也就是明天下午一点开始吃)而且还要继续吃
+
+
+> 例句
+
++ I **will have been eating** carrots for 2 hours by 3 PM tomorrow.
+  我确定明天下午三点钟时，我不但已经吃了两个钟头胡萝卜(也就是明天下午一点开始吃)而且还要继续吃
+
+
+
+> 现在完成进行时 👉 将来完成进行时
+
 + You **have been watching** my video. 👉 You **will have been watching** my video
   你在将来某个时间点之前已经看来我视频一段时间了，还要在那个时间之后继续看一段时间
 + I **have been thinking** of you. 👉 I **will have been thinking** of you.
@@ -899,36 +909,36 @@
 
 ### 1.4.13.一般过去将来时
 
-> 这里的过去时相对于过去的将来，和现在没有什么关系
-> **would**(will的过去式) + 动词原形；助动词be的变位(**was/were**) + going to
+> **构成：would(will的过去式) + 动词原形，各个人称都是一样；助动词be的变位(was/were) + going to**
+> 这里的将来是相对于过去的将来，和现在没有什么关系
 
-+ I **said** I **would eat** a carrot for lunch.
+
+
+> 例句
+
++ I said I **would eat** a carrot for lunch.
   我(之前)说过我会午饭吃跟胡萝卜(午饭时间对于之前我说那句话的时间来说式在将来，但至于现在午饭时间有没有到，不得而知)
-+ I **knew** you **would watch** my video.
++ I knew you **would watch** my video.
   我(之前)就知道你会看完的视频(你看我视频这件事，对于我做出这个判断的时间来说式在将来)
-
-
-
-> **would**(will的过去式) + 动词原形
-
-+ I **said** I **would** eat a carrot for lunch. 
-+ I **knew** you **would** watch my video.  
-
-
-
-> 助动词be的变位(**was/were**) + going to
-
 + I said I **was going to** eat a carrot for lunch.
-+ I knew you **were going to** watch my video.
+  我(之前)说过我会午饭吃跟胡萝卜
 
 
 
 **Would的多义**
 
+>过去将来时
+
 + I said I **would** eat carrot for lunch.
-  我之前说过我午饭会吃胡萝卜(**will的过去式变位，构成时态**)
+  我之前说过我午饭会吃胡萝卜(will的过去式变位，构成时态)
+
+>动词的虚拟语气表达和事实相反
+
 + If I were you, I **would** eat a  carrot.
-  如果我是你，我会吃胡萝卜(构成动词eat的**虚拟语气**：我不可能是你，所以这里的吃是虚拟动作)
+  如果我是你，我会吃胡萝卜(构成动词eat的虚拟语气：我不可能是你，所以这里的吃是虚拟动作)
+
+> 礼貌用语
+
 + **Would** you pass me the carrot, please?
   能请你把胡萝卜递过来吗？(比Will you pass me the carrot?更礼貌)
 + **Would** you like a carrot for lunch?
@@ -938,28 +948,40 @@
 
 ### 1.4.14.过去将来进行时
 
-> **would** + be + 动词的现在分词
+> **构成：would(will的过去式) + be助动词原形 + 动词的现在分词，各个人称都是一样**
 
-+ I **said** I **would be eating** a carrot at 1 PM tomorrow/yesterday.
-  我之前说我明天下午1点会在吃胡萝卜(我**之前说**我明天/昨天下午1点**会**是**在吃**胡萝卜这个过程中)
+
+
+> 例句
+
++ I said I **would be eating** a carrot at 1 PM tomorrow/yesterday.
+  我之前说我明天下午1点会在吃胡萝卜(我之前说我明天/昨天下午1点会是在吃胡萝卜这个过程中)
 
 
 
 ### 1.4.15.过去将来完成时
 
-> **would** + have + 动词的过去分词
+> **构成：would(will的过去式) + have助动词原形 + 动词的过去分词，各个人称都是一样**
 
-+ I **said** I **would have eaten** a carrot by 1 PM tomorrow/yesterday.
-  我**(之前)说**我明天/昨天下午1点**会**已经**吃掉了**跟胡萝卜(我之前说我明天/昨天下午1点会已经做完了吃胡萝卜这个过程)
+
+
+> 例句
+
++ I said I **would have eaten** a carrot by 1 PM tomorrow/yesterday.
+  我(之前)说我明天/昨天下午1点会已经吃掉了跟胡萝卜(我之前说我明天/昨天下午1点会已经做完了吃胡萝卜这个过程)
 
 
 
 ### 1.4.16.过去将来完成进行时
 
-> **would** + have + been + 动词的现在分词
+> **构成：would(will的过去式) + have助动词原形 + been + 动词的现在分词，各个人称都是一样**
+
+
+
+> 例句
 
 + I **said** I **would have been eating** lunch for 2 hours by 1 PM tomorrow/yesterday.
-  我**(之前)说**我明天/昨天下午1点前会**已经吃了两种头午饭**(我**之前说**我**会**明天/昨天下午1点时在吃午饭这个过程中，**之前吃了两种头**，之后还会**继续吃**)
+  我(之前)说我明天/昨天下午1点前会已经吃了两种头午饭(我之前说我会明天/昨天下午1点时在吃午饭这个过程中，之前吃了两种头，之后还会继续吃)
 
 
 
