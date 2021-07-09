@@ -1965,23 +1965,21 @@
 
 
 
-**(1)好像某事发生过的方式**
+**(1)假象某事发生过的方式**
 
 >l feel good as if l just ate a carrot.
 >我感觉良好，就好像我刚吃了根胡萝卜—样.
 
-+ 方式副词从句
-  **主句直接交代发生的情况，根据主句发生的情况用从句提出一个与事实相反的假设。**
-  I feel good as if I just ate a carrot.
++ 方式副词从句：**主句直接交代发生的情况，根据主句发生的情况用从句提出一个与事实相反的假设**
+  I feel good **as** if I just ate a carrot.
   我感觉良好，就好像我刚吃了根胡萝卜—样.
-  You spend (so much) money as if you were a millionaire.
-  你花了很多钱，就好像你是百万富翁
-+ 虚拟语气
-  **因为假设的条件并非事实，我感觉良好这种情况也并未发生，句子的情况都未发生**
-  If I had eaten a carrot, I would feel good.
+  You spend (so much) money **as** if you were a millionaire.
+  你花了很多钱，就好像你是百万富翁.
++ 虚拟语气：**因为假设的条件并非事实，我感觉良好这种情况也并未发生，句子的情况都未发生**
+  If I **had eaten** a carrot, I **would** feel good.
   如果我刚才吃了根胡萝卜的话，我现在就会感觉良好.
-  If you were a millionaire, you would spend a lot of money.
-  如果你是百万富翁，你会花很多钱
+  If you **were** a millionaire, you **would** spend a lot of money.
+  如果你是百万富翁，你会花很多钱.
 
 
 
