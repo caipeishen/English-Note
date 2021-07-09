@@ -1409,7 +1409,7 @@
 
 **中英思维方式差异 - 关于形容词(句子)**
 
-> 单个形容词修饰名词【形容词(单个) + 名字】；但是句子做形容词时【名词 + 关系词 + 形容词(句子)】
+> 单个形容词修饰名词【形容词(单个) + 名词】；但是句子做形容词时【名词 + 关系词 + 形容词(句子)】
 
 + 中国：这兔子在吃一根我买来的胡萝卜. ~~The rabbit is eating a I bought carrot~~.
 + 英国：这兔子在吃一根**胡萝卜**([**胡萝卜的关系词**]我买). The rabbit is eating a **carrot**([**that**] I bought).
@@ -1429,41 +1429,48 @@
 
 ### 3.1.3.关系代词引导的形容词从句
 
-> 关系代词（that, who, whom, whose, which）所代替的先行词是人或物的名词或代词，并在句中充当主语、宾语、定语等成分。 
+> 关系代词(that, who, whom, whose, which)所代替的先行词是人或物的名词或代词，并在句中充当主语、宾语、定语等成分
 
++ 下面第一句中that关系词代替I bought，起代词的作用
 + The rabbit is eating a carrot **that** I bought.
-
 + The teacher **who** ate a carrot is a rabbit.
-
 + The teacher **whom** I saw yesterday is a rabbit.
-
 + The teacher **whose** favorite food is carrot is a rabbit.
-
 + The food **which/that** the teacher likes is a carrot.
 
->**that**先行词是**唯一**的，**which**先行词是**多选一**
->The rabbit ate **the largest** carrot that I've ever seen. 兔子吃的是我见过最大的胡萝卜
->The rabbit ate a carrot **which** I bought.  兔子吃的是我买的那一根(世界上所有胡萝卜 吃的我买的)
->The rabbit ate a carrot **that** I bought. 也是对的
->
->如何区分用which还是that？
->如果连提问都不用知道对象是谁，只能用that
->如果你还可以问which one are you talking about?，那么就可以用which或者that
+
+
+> that vs which：that先行词是唯一的，which先行词是多选一
+
++ The rabbit ate **the largest** carrot that I've ever seen. 
+  兔子吃的是我见过最大的胡萝卜
++ The rabbit ate a carrot **which** I bought.  
+  兔子吃的是我买的那一根(世界上所有胡萝卜 吃的我买的)
++ The rabbit ate a carrot **that** I bought. 
+  这里which替换that也是对的，我买的
+
+
+
+> 如何区分用which还是that？
+
++ 如果连提问都不用知道对象是谁，只能用that
++ 如果你还可以问which one are you talking about?，那么就可以用which或者that
 
 
 
 ### 3.1.4.关系副词引导的形容词从句
 
-> 关系副词（when, where, why, that）可代替的先行词是时间、地点或理由的名词，在从句中作状语(修饰动词)。
+> 关系副词(when, where, why, that)可代替的先行词是时间、地点或理由的名词，在从句中作状语(修饰动词)
 >
 
-+ This was the **place where the rabbit ate the carrot**.
++ 下面第一句中where the rabbit ate the carrot修饰place，起副词的作用
++ This was the **place where the rabbit ate the carrot**. 
 + This is the **reason why the rabbit ate the carrot**.
 + That was the **day when the rabbit ate the carrot for the first time**.
 
 
 
-**可以将关系副词转成关系代词**  **关系副词 = 介词 + which**
+**可以将关系副词转成关系代词：关系副词 = 介词 + which**
 
 + This was the **place at which** the rabbit ate the carrot.
 
@@ -1478,9 +1485,8 @@
 >形容词从句/定语从句的主要功能：限定范围
 >
 
-+ The rabbit ate the carrot **which was on the table**. 兔子吃的是桌子上的那根胡萝卜
-
-限定carrot的范围，有好多胡萝卜，但兔子只是吃的其中的一根，哪一根，在桌子上的那一根，这样的从句属于限定性形容词从句
++ The rabbit ate the carrot **which was on the table**. 
+  兔子吃的是桌子上的那根胡萝卜(限定carrot的范围，有好多胡萝卜，但兔子只是吃的其中的一根，哪一根，在桌子上的那一根，这样的从句属于限定性形容词从句)
 
 
 
