@@ -1383,6 +1383,11 @@
 > 句子简单的叠加，属于并列关系，简单句和简单句用连词连在一起，不分主次
 >例如，and、so、for、but
 
++ The rabbit was hungry, **so** it ate the carrot.
+  兔子很饿，所以他吃了胡萝卜
++ You must really like me, **for** you have given all my videos a thumbs-up.
+  你肯定很喜欢我英语兔，因为你给我所有视频都点赞啦.
+
 
 
 # 3.主从复合句(复杂句)
@@ -1967,7 +1972,7 @@
 
 **(1)假象某事发生过的方式**
 
->l feel good as if l just ate a carrot.
+>l feel good **as** if l just ate a carrot.
 >我感觉良好，就好像我刚吃了根胡萝卜—样.
 
 + 方式副词从句：**主句直接交代发生的情况，根据主句发生的情况用从句提出一个与事实相反的假设**
@@ -2008,12 +2013,18 @@
 
 
 > ~~Because the rabbit was hungry, so he ate the carrot.~~
->
-> 中文中使用【因为···所以···】，但英文中不能这样说【Because ···, so ···】，**because**引导从句，所以主句前什么也不用加，构成复杂句；而**so**是用来构成一个复合句的连词，如果两者都用复杂句和复合句就混淆了，除了because引导从句，还可以用**since**、**as**，他们有什么区别的。1. 从因果或者从语气上来说，because > since > as，2. 语序的区别because引导的从句可以放在主句前后都可以，而since/as引导的从句一般只能放在主句之前
+>中文中使用【因为···所以···】，但英文中不能这样说【Because ···, so ···】，**because**引导从句，所以主句前什么也不用加，构成复杂句；而**so**是用来构成一个复合句的连词，如果两者都用复杂句和复合句就混淆了，
 
 
 
-**(1)because 常用在实实在在的因果关系**
+> 除了because引导从句，还可以用since、as，他们有什么区别的
+
++ 从因果或者从语气上来说，because > since > as
++ 语序的区别because引导的从句可以放在主句前后都可以，而since/as引导的从句一般只能放在主句之前
+
+
+
+**(1)because：常用在实实在在的因果关系**
 
 + The rabbit ate the carrot **because he was hungry**.
   兔子吃了胡萝卜，因为他饿了.
@@ -2022,16 +2033,16 @@
 
 
 
-**(2)since  常用在大家都知道的情况(这里since不是时间某个点开始，而是介绍某个原因)**
+**(2)since：常用在大家都知道的情况(这里since不是时间某个点开始，而是介绍某个原因)**
 
 + **Since you are hungry**, you can eat the carrot. 
-  既然你饿了，你可以吃这胡萝卜 
+  既然你饿了，你可以吃这胡萝卜 .
 + **Since all my videos are excellent**, you should give this video a thumbs-up.
   众所周知,英语兔只出精品，所以要点赞.
 
 
 
-**(3)as  引出的是显而意见的事实**
+**(3)as：引出的是显而意见的事实**
 
 + **As you were not here**, we ate the carrot without you.
   因为你之前不在这儿，所以吃胡萝卜没带你一个.
@@ -2049,10 +2060,10 @@
 
 **(5)because vs for**
 
-+ Because you like me(原因), you have given all my videos a thumbs-up(结果). 
++ **Because you like me**(原因), you have given all my videos a thumbs-up(结果). 
   因为你喜欢我，所以你给所有英语兔视频都点赞了. (因为你喜欢我，所以点赞了，由原因推测出结果)
 
-+ You must really like me(推测的结果), for you have given all my videos a thumbs-up(这么推测的原因).
++ You must really like me(推测的结果), **for you have given all my videos a thumbs-up**(这么推测的原因).
   你一定喜欢我，因为你给所有英语兔视频都点赞了. (推测的结果：你喜欢我，这么推测的原因：你给所有视频都点赞了，由推测的结果，引出推测的原因，和because是很不同的用法)
 
 
