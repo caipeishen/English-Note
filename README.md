@@ -665,7 +665,7 @@
 
 **(3)表示预计发生的事**
 
-+ The bus **leaves** at 8PM tonight.(也可以当作事实)
++ The bus **leaves** at 8 PM tonight.(也可以当作事实)
 
 
 
@@ -879,7 +879,7 @@
 > 例句
 >
 
-+ I **will have finished making** thevideo by 4PM tomorrow, so I canpublish it after that.
++ I **will have finished making** the video by 4 PM tomorrow, so I can publish it after that.
   这里要表达的意思就是，对于明天下午4点钟那个时间点来说,我在那之前就会完成做视频这个动作，所以对4点钟那时候是有影响的，什么影响呢，4点钟之后我就能够发视频啦.
 
 
@@ -1727,7 +1727,7 @@
 
 + The fact **that the rabbit ate the carrot** did not surprise me.
   兔子吃了胡萝卜这个事实并没让我吃惊.
-+ The question **whether the rabbit will eatthe carrot** is on all our minds.
++ The question **whether the rabbit will eat the carrot** is on all our minds.
   兔子是否会吃胡萝卜这个问题萦绕在我们所有人心中.
 + I have no idea **who ate the carrot**.
   我不知道谁吃了那胡萝卜.
