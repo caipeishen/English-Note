@@ -12,7 +12,7 @@
 
 ## 1.1.谓语动词
 
-> 五种谓语动词对应五种基本句型
+> 五种谓语动词(限定动词)对应五种基本句型
 
 1. 可以独立完成的动作						主语+**不及物动词**									   He **sleeps**.
 2. 有一个动作的承受者                        主语+**单及物动词**+宾语                             He **likes** you.
@@ -90,21 +90,38 @@
 
 ## 1.2.非谓语动词
 
-> 非谓语动词不受主语限制，不具备表达时间和人称的本领
+> 非谓语动词不受主语限制，不具备表达时间和人称的本领(也称非限定动词)
 > 非谓语动词可以充当除谓语动词外的所有句子成分，取代所有从句，简化句子
 
-~~The rabbit like eat carrots.~~  为什么不能这样造句呢？其实就是没搞清楚非谓语动词
+
+
+> ~~The rabbit like eat carrots.~~
+> 为什么不能这样造句呢？其实就是没搞清楚非谓语动词.
+
+
+
+**谓语动词vs非谓语动词**
+
+>谓语动词进行修改可以改为非谓语动词，非谓语动词几乎可以取代所有从句，从而简化句子
+>只不过这样的动词就不再具有表示动作时间，状态，语态，语气的功能
+>
+>**谓语动词是句子的核心，而非谓语动词只可能出现在剩下的非核心部分中**
+>
+>句子成分：什么+怎么样，其中体现怎么样这个动词，一个简单句中只能有一个就是谓语动词，而剩下的像是动词的动词，都不能重复表达这个概念就是非谓语动词。
+>
+>也解释了为什么两个简单句不能仅仅用逗号连接，
+>~~I **am** a rabbit, I **eat** carrots.~~ 出现了两个谓语动词，上面所述一个简单句只能有一个谓语动词。①可以改写为并列句，使用连词相连，I am a rabbit, so I eat carrots. 这样知道有两个并列的句子，知道有两个谓语动词；②或者把他变成一个主句，一个从句， Because I am a rabbit, I eat carrots.
 
 
 
 ### 1.2.1.动词不定式
 
->不受时间，人称等概念限制  **to + 动词原形**
+>不受时间，人称等概念限制：**to + 动词原形**
 
 + **To be** or not **to be**, that is the question. (完全不定式)
-  生存还是毁灭，这是一个问题
+  生存还是毁灭，这是一个问题.
 + You helped me (**to**) cook the carrot. (裸不定式)
-  你帮我烧(做菜)了胡萝卜
+  你帮我烧(做菜)了胡萝卜.
 
 
 
@@ -112,52 +129,53 @@
 
 + **To eat** a carrot every day is good for the rabbit.
   一天吃一根胡萝卜对兔子有好处. (单独看到to eat 不知道是谁吃，什么时候吃，还不能确定所以才是不定式，不受具体的人和时间的限制，就是单纯的再说一天吃一个胡萝卜的概念)
-+ It is goods for the rabbit **to eat** a carrot every day. = It is goods that the rabbit eats a carrot every day.一天吃一根胡萝卜对兔子有好处 (这是转为了形式主语)
++ It is goods for the rabbit **to eat** a carrot every day. 
+  一天吃一根胡萝卜对兔子有好处 (形式主语)
 
 
 
 **(2)不定式作宾语**
 
-+ The rabbit likes **to eat carrots**.
-  兔子喜欢吃胡萝卜
-+ I consider it important **to eat a carrot every day**.
++ The rabbit likes **to eat** carrots.
+  兔子喜欢吃胡萝卜.
++ I consider it important **to eat** a carrot every day.
   我发现每天吃一个胡萝卜很重要.
 
 
 
 **(3)不定式作宾语补语**
 
-+ The rabbit expected the wolf **to eat a carrot**.
++ The rabbit expected the wolf **to eat** a carrot.
   兔子指望狼吃一根胡萝卜. 
-+ 有些谓语动词，**see, find, watch, have make, let** ···,这些**使役动词**后接宾语，再接省略to的动词不定式作宾语补足语，也就是裸不定式
++ 有些谓语动词，**see, find, watch, have make, let** ···,这些使役动词后接宾语，再接省略to的动词不定式作宾语补足语，也就是裸不定式.
 + Carrots make the rabbit **feel** happy.
-  胡萝卜使兔子感到快乐
+  胡萝卜使兔子感到快乐.
 
 
 
 (**4)不定式作定语**
 
 + The rabbit has a lot of carrots **to eat**.
-  兔子有很多胡萝卜要吃. 不定式to eat 做后置宾语修饰carrots. 表示胡萝卜是会被吃的，他们之间是动宾关系
+  兔子有很多胡萝卜要吃. 不定式to eat 做后置宾语修饰carrots. 表示胡萝卜是会被吃的，他们之间是动宾关系.
 
 
 
 **(5)不定式作状语**
 
 + 表原因
-  I was surprised **to get a thumbs-up**.
-  我很吃惊(因为)得到一个赞
+  I was surprised **to get** a thumbs-up.
+  我很吃惊(因为)得到一个赞.
   l was surprised because I got a thumbs-up. (相当于原因状语从句)
   我很吃惊,因为有人给我点赞了.
 
 + 表目的
-  I will do anything **to get a thumbs-up**.
-  我为了得到一个赞会做任何事
+  I will do anything **to get** a thumbs-up.
+  我为了得到一个赞会做任何事.
   I will do anything in order that I get a thumbs-up. (相当于目的状语从句)
-  为了点赞量我能做出任何事儿
+  为了点赞量我能做出任何事儿.
 
 + 表结果
-  l got enough thumbs-up **to make another video**.
+  l got enough thumbs-up **to make** another video.
   我得到足够的赞,可以去做另一个视频啦!
   l got enough thumbs-up, so that I made another video. (相当于结果状语从句)
   我得到了很多点赞,于是我做了另一个视频.
@@ -170,48 +188,48 @@
 
 >把不定式和状态相结合，to + 动词原形 (状态)
 
-+ to be eating a carrot
-  The rabbit seemed to be eating a carrot.
++ to be eating
+  The rabbit seemed **to be eating** a carrot.
   这兔子之前似乎在吃一根胡萝卜(的过程中).
 
-+ to have eaten a carrot
++ to have eaten
+  The rabbit will appear **to have eaten** a carrot.
+  这兔子之后会看起来像是吃过了一根胡萝卜.
 
-+ to have been eating a carrot
++ to have been eating
 
 
 
 ### 1.2.2.动名词
 
-> 把动词原形后 + ing，就能把动词转化为**名词**来用。名词可以做的成分，动名词同样可以承担。
+> 动词+ing，就能把动词转化为名词来用，名词可以做的成分，动名词同样可以承担。
 
 
 
 **(1)动名词作主语**
 
-+ Carrots are healthy for the rabbit.
-  胡萝卜对兔子来说很健康.
 + **Eating carrots** is healthy for the rabbit.
-  **吃胡萝卜**(这个行为)对兔子来说很健康.
+  吃胡萝卜(这个行为)对兔子来说很健康.
 
 
 
 **(2)动名词作主语补语(表语)**
 
 + The rabbit's hobby is **growing carrots**.
-  兔子的爱好是**种胡萝卜**.
+  兔子的爱好是种胡萝卜.
 
 
 
 **(3)动名词作定语**
 
-+ a **sleeping** pill 安眠药，这里作定语修饰药，是为了睡眠用的，也就是 a pill for **sleeping**(名词).
++ a **sleeping** pill 安眠药，这里作定语修饰药，是为了睡眠用的，也就是 a pill for sleeping(名词).
 
 
 
 **(4)动名词作宾语**
 
 + The rabbit likes **eating carrots**.
-  兔子喜欢**吃胡萝卜**
+  兔子喜欢吃胡萝卜
 
 
 
@@ -230,32 +248,30 @@
 
 >这里宾语不能是谓语动词，只能是非谓语动词(动名词)
 
-+ The rabbit is fond of **eating** carrots.
++ The rabbit **is fond of eating** carrots.
   兔子喜欢吃胡萝卜.
-+ The rabbit is looking forward to **seeing** the wolf again.
++ The rabbit is **looking forward to seeing** the wolf again.
   兔子期望再次见到狼.(look forward to 是个短语，句子中的to，不是不定式中的to)
 
 
 
 **(7)不定式作宾语 vs 动名词作宾语**
 
->forgot + to 忘记去做；forgot + doing 忘记做过
-
 + The rabbit stopped **to eat** a carrot.
-  兔子**停下(手里的活)**去吃―根胡萝卜. (停下手中的活，去作另一件事)
-  The rabbit stopped **eating** a carrot.
-  兔子**停止吃**一根胡萝卜. (停止正在作的事)
+  兔子停下(手里的活)去吃―根胡萝卜. (停下手中的活，去作另一件事；去吃胡萝卜)
+  The rabbit stopped **eating** a carrot.	
+  兔子停止吃一根胡萝卜. (停止正在作的事；停止吃胡萝卜)
 
 + The wolf forgot **to invite** the rabbit to her party.
-  狼**忘记邀请**兔子去她的聚会. (没邀请)
+  狼忘记邀请兔子去她的聚会. (forgot + to 忘记去做)
   The wolf forgot **inviting** the rabbit to her party.
-  狼**忘记了邀请过**兔子去她的聚会. (邀请过 但忘了这件事)
+  狼忘记邀请过兔子去她的聚会. (forgot + doing 忘记做过)
 
 
 
 ### 1.2.3.现在分词
 
->现在分词并不带时间的属性，只带状态(现在进行时，过去进行时等，里面的时间是由be动词携带，而非现在分词)，现在分词基本上相当于**形容词**
+>现在分词不带时间属性，只带状态(现在进行时，里面的时间是由助动词携带，而现在分词携带的进行状态)，现在分词基本上相当于形容词
 >
 
 + a **talking** rabbit (现在分词)
@@ -267,8 +283,10 @@
 
 **(1)动名词作定语 vs 现在分词作定语**
 
-+ a sleeping pill 一片安眠药，这里的sleeping是动名词，用来说明药片的性质，功能和用途，相当于 a pill for sleeping
-+ a **sleeping** rabbit **≠** a rabbit for sleeping，这里的sleeping是现在分词，相当于一个性形容词，用来修饰兔子的状态，在睡觉，只知道兔子的状态是在睡觉，但是不知道具体的时间
++ a **sleeping** pill 
+  一片安眠药，这里的sleeping是动名词，用来说明药片的性质，功能和用途，相当于 a pill for sleeping
++ a **sleeping** rabbit **≠** a rabbit for sleeping
+  这里的sleeping是现在分词，相当于一个性形容词，用来修饰兔子的状态，在睡觉，只知道兔子的状态是在睡觉，但是不知道具体的时间
 
 
 
@@ -298,10 +316,10 @@
 
 **(4)动词不定式作宾语补足语 vs 现在分词作宾语补足语**
 
-+ The wolf saw the rabbit **eating** a carrot. (现在分词)
-  狼之前看到兔子正在吃一根胡萝卜. (表示动作正在进行中，强调动作进行的状态)
 + The wolf saw the rabbit **eat** a carrot. (动词不定式)
   狼之前看到兔子吃了根胡萝卜. (表示一个动作自始至终的过程，强调动作已经发生了)
++ The wolf saw the rabbit **eating** a carrot. (现在分词)
+  狼之前看到兔子正在吃一根胡萝卜. (表示动作正在进行中，强调动作进行的状态)
 
 
 
@@ -314,41 +332,35 @@
   听到这个消息,兔子很激动. （表示时间）
   When he heard the news, the rabbit became excited.
   听到这个消息时,兔子很激动. (时间状语从句)
-
 + **Not knowing what to eat**, the rabbit skipped lunch.
   不知道吃什么,兔子没吃中饭.（表示原因）
   Because he didn't know what to eat, the rabbit skipped lunch.
   听到这个消息时,兔子很激动.(原因状语从句)
-
-现在分词做状语跟相应的状语从句之间，有一种剪不断理还乱的关系，其实非谓语动词在很大程度上简化了从句，使得句子言简意赅
++ 现在分词做状语跟相应的状语从句之间，有一种剪不断理还乱的关系，其实非谓语动词在很大程度上简化了从句，使得句子言简意赅
 
 
 
 ### 1.2.4.过去分词
 
->不自带时间概念，和现在分词一样，只是携带**状态**
->
->**minced** meat 绞过的肉
->**minced** carrot 绞过的胡萝卜
->
->The rabbit will eat **minced** carrot next week.
->兔子下周会吃搅碎的胡萝卜.
->
+>不自带时间概念，和现在分词一样，只是携带状态
+
++ The rabbit will eat **minced** carrot next week.
+  兔子下周会吃搅碎的胡萝卜.
 
 
 
->minced (过去分词) 作定语，可以把单个过去分词看做**形容词**
->
->a **minced** carrot 一根绞碎的胡萝卜
->a **painted** room 一个漆过了的房间
->an **excited** rabbit 一只激动的兔子
+>**minced (过去分词) 作定语，可以把单个过去分词看做形容词**
+
++ a **minced** carrot 一根绞碎的胡萝卜
++ a **painted** room 一个漆过了的房间
++ an **excited** rabbit 一只激动的兔子
 
 
 
->**过去分词短语修饰名词**，要放在名词之后，即**后置定语**
->
->The carrot cake **eaten by** the rabbit is delicious.
->被兔子吃了的胡萝卜很美味.
+>**过去分词短语修饰名词，要放在名词之后，即后置定语**
+
++ The carrot cake **eaten by** the rabbit is delicious.
+  被兔子吃了的胡萝卜很美味.
 
 
 
@@ -361,22 +373,22 @@
 
 
 
-**(2)现在分词作主语补语(表语)和过去分词作主语补语区别**
+**(2)现在分词作主语补语 vs 过去分词作主语补语**
 
 + The story is interesting. (**主动**)
-  故事有趣.  现在分词暗含主动关系，即被描述的是做出动作的人/物，暗含意义是故事**让**人感到有兴趣
+  故事有趣.  现在分词暗含主动关系，即被描述的是做出动作的人/物，暗含：故事**让**人感到有兴趣
   The rabbit is interested. (**被动**)
-  兔子很感兴趣. 而过去分词暗含被动关系，即被描述的是动作的接受者，暗含意义是,兔子**被**某事某物引起了兴趣
+  兔子很感兴趣. 而过去分词暗含被动关系，即被描述的是动作的接受者，暗含：兔子**被**某事某物引起了兴趣
 
 + The rabbit was frightening.  (主动)
-  兔子**让**人感到害怕.
+  兔子让人感到害怕.
   The rabbit was frightened. (被动)
-  兔子(**被事**)感到害怕.
+  兔子(被事)感到害怕.
 
 + l am interesting. (主动)
   我是有趣的(我让人感到有趣)
   l am interested. (被动)
-  我**被**某人/某物引起了兴趣.
+  我被某人/某物引起了兴趣.
 
 
 
@@ -384,19 +396,26 @@
 
 + The rabbit found his carrot **stolen**.
   兔子发现他的胡萝卜被偷了.
+
+
+
+**(4)过去分词作状语**
+
 + **Seen** from the hill, the carrot field looks beautiful. (表地点)
-  从山上看,胡萝卜田看上去很美.
+  从山上看，胡萝卜田看上去很美.
 + **Born** in a rabbit family,the rabbit's only work is growing carrots. (表原因)
-  由于出生在一个兔子家庭里,兔子的唯一工作就是种胡萝卜.
+  由于出生在一个兔子家庭里，兔子的唯一工作就是种胡萝卜.
 + **Given** another chance,the rabbit would go to the wolf's party. (表条件)
-  如果再给兔子一次机会,他会去参加狼的聚会.
+  如果再给兔子一次机会，他会去参加狼的聚会.
 
 
 
->~~**Seeing** from the hill, **the carrot field** looks beautiful.~~
->  从山上看，胡萝卜田看上去很美. (这里主语胡萝卜田是被看，所以用过去分词)
->
->如何区分到底使用现在分词，还是过去分词，其实还是看句子中主语到底是主动的含义，还是被动的含义
+**如何区分现在分词，还是过去分词**
+
+> 其实还是看句子中主语到底是主动的含义，还是被动的含义
+
++ **Seen** from the hill, **the carrot field** looks beautiful. 
+  从山上看，胡萝卜田看上去很美. (这里主语胡萝卜田是被看，所以用过去分词)
 
 + **Seeing** the carrot field, **the rabbit** ran towards it.
   看到胡萝卜田，兔子朝着它跑去.  主语是兔子，兔子主动看到了胡萝卜田
@@ -405,9 +424,9 @@
 
 **(4)高级用法 👉 独立主格**
 
->**一个简单句出去核心的谓语动词外，其他的动词转为对应的过去分词或现在分词的用法，称作独立主格**。
+>**一个简单句出去核心的谓语动词外，其他的动词转为对应的过去分词或现在分词的用法，称作独立主格**
+
 >因为在以上的句子中，现在分词/过去分词是在句中的状语里(并非句子的主语)，但是在状语本身里，分词修饰的对象(以上句中的work和weather)，隐含了一层"主语"的意味，虽然并不是整句的主语
->
 
 + The work **finished**(过去分词), the rabbit **went**(谓语动词) home. (简单句)
   工作完成后，兔子回家了. (这里的finished过去分词修饰的the work)
@@ -422,7 +441,7 @@
 
 
 
-> 使用独立主格
+> **使用独立主格**
 
 >Because the wolf invited him, the rabbit decided to go to the party.
 >因为狼邀请了兔子，所以兔子决定去参加聚会了.
@@ -459,18 +478,6 @@
 + 名词/代词 + 副词
 + 名词/代词 + 介词短语
 + ······
-
-
-
-**(6)谓语动词vs非谓语动词**
-
->谓语动词进行修改可以改为非谓语动词，非谓语动词几乎可以取代所有从句，从而简化句子
->只不过这样的动词就不再具有表示动作时间，状态，语态，语气的功能
->
->**谓语动词是句子的核心，而非谓语动词只可能出现在剩下的非核心部分中**
->
->句子成分：什么+怎么样，其中体现怎么样这个动词，一个简单句中只能有一个就是谓语动词，而剩下的像是动词的动词，都不能重复表达这个概念就是非谓语动词。也解释了为什么两个简单句不能仅仅用逗号连接，
->~~I **am** a rabbit, I **eat** carrots.~~ 出现了两个谓语动词，上面所述一个简单句只能有一个谓语动词。①可以改写为并列句，使用连词相连，I am a rabbit, so I eat carrots. 这样知道有两个并列的句子，知道有两个谓语动词；②或者把他变成一个主句，一个从句， Because I am a rabbit, I eat carrots.
 
 
 
