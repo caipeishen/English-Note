@@ -599,7 +599,7 @@
 
 
 
->从句之间也可以相互变换
+>虚拟语气可以存在不同类型的从句中
 
 + I **suggest** that you **(should) eat** a carrot. (宾语从句)
 + It it **suggested** that you **(should) eat** a carrot. (主语从句)
