@@ -210,6 +210,8 @@
 
 + **Eating carrots** is healthy for the rabbit.
   吃胡萝卜(这个行为)对兔子来说很健康.
++ **Being handsome** and **being strong** are his nature.
+  他是帅气的和强壮的(handsome和strong都是形容词，不能做主语，如果变成非谓语就可以做主语，想变成非谓语动词最起码有谓语动词，可以加be，变成非谓语动词being)
 
 
 
@@ -438,6 +440,8 @@
   天气允许的话，兔子就出门.
 + If the weather **permits**, the rabbit will go out.
   天气允许的话，兔子就出门.
++ Being a teacher, I like singing. ~~I being a teacher, I like singing.~~
+  我是一个老师，我喜欢唱歌(当前后句子主语一致，省略第一个句子的主语，不算是独立主格，严格来说而是分词做状语)
 
 
 
@@ -500,7 +504,7 @@
 
 ### 1.3.2.祈使语气
 
-> 命令/请求：用第二人称(你)，一般现在时，去掉你，并保证动词原
+> 命令/请求：用第二人称(你)，一般现在时，省略主语【你】，并保证动词原
 
 + Rabbit, eat the carrot!
 + Please, give me a thumbs-up!
@@ -2104,4 +2108,4 @@
 **(2)so  因此是；结果是，这里是属于复合句，并不是复杂句，两个同等地位的句子**
 
 + l like this video, **so** I'll give it a thumbs-up. 
-  我喜欢这个视频，因此点赞了
+  我喜欢这个视频，因此点赞了 	
