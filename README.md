@@ -705,9 +705,9 @@
 
 >**过去分词**，通常：+ed，过去分词 ≠ 过去式，谓语动词和非谓语动词过去分词都表示完成状态，不规则变化：
 
-+ eat 👉 eaten;  give, see, fall 👉  giv**en**, se**en**, fall**en**
-+ bring 👉 brought; bring,buy, fight, think 👉 br**ought**, b**ought**, **fought**, t**hought**
-+ fell 👉 felt;  fell, keep, sleep, leave 👉 fe**lt**, ke**pt**, sle**pt**, le**ft**
++ eat(eaten)；give(given)；see(seen)；fall(fallen)
++ bring(brought)；buy(bought)；fight(fought)；think(thought)
++ fell(felt)；fell(felt)；keep(kept)；sleep(slept)；leave(left)
 
 
 
