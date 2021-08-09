@@ -32,7 +32,7 @@
 4. 宾语补语：补充宾语信息  He considers you **smart**.
 5. 主语补语：补充主语信息  He is tall. He looks **tall**.
 6. 定语：修饰主语和宾语   **The little white** rabbit ate **a large** carrot.
-7. 状语：修饰动词、形容词和形容词 The rabbit ate **quickly**.  It is **very** important.(修饰形容词)
+7. 状语：修饰动词、形容词 The rabbit ate **quickly**.  It is **very** important.(修饰形容词)
 8. 同位语：再把主语说一遍 Papa Rabbit, **an English teacher**, eat a carrot.
 
 
