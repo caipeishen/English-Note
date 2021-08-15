@@ -1450,6 +1450,35 @@
 
 
 
+**定语从句的引导词按照先行词的种类分类，共分5类，只有8个引导词**
+
++ 人：who  whom  whose
++ 物：that  which  whose
++ 时间：that  which  when
++ 地点：that which where
++ 原因：that  which why
+
+
+
+**谁决定引导词的用法**
+
++ 先行词(用来缩小范围)
++ 引导词在从句中能够充当的成分(缺成分用that补充，不缺用副词)，共同决定了定语从句的引导词的用法
+
+
+
+**举例**
+
++ I will never forget the day **when** I met you.
++ I will never forget the day **that** we spent.
+
+ 
+
++ You had better have some reason **why** you are late.
++ You had better have some reason **that** sounds perfect.
+
+
+
 **(1)关系代词引导的形容词从句**
 
 > 关系代词(that, who, whom, whose, which)所代替的先行词是人或物的名词或代词，并在句中充当主语、宾语、定语等成分
@@ -1501,20 +1530,8 @@
   This was the place **at which** the rabbit ate the carrot.
 + This is the reason **why** the rabbit ate the carrot.
   This is the reason **for which** the rabbit ate the carrot.
-+ That was the day **when** the rabbit ate the carrot for the firsttime.
++ That was the day **when** the rabbit ate the carrot for the first time.
   That was the day **on which** the rabbit ate the carrot for the first time.
-
-
-
-**(4)如果不明白以上，理解下方名词性从句的引导词是按照从句的类型分类，一共把引导词分为三类**
-
-> 并且英语中所有的从句都一定是陈述句的形式，也就是引导词+主语+谓语[+宾语]
-
-+ that：当从句是陈述句时，并且that不充当任何成分，也没有任何意思
-+ whether：当从句是一般疑问句时，并且whether在从句中也补充当成份，意思是"是否"
-+ 所有的特殊疑问词：当从句是特殊疑问句时，不用加
-
-
 
 
 
@@ -1574,6 +1591,16 @@
 
 
 
+**名词性从句的引导词是按照从句的类型分类，一共把引导词分为三类**
+
+> 并且英语中所有的从句都一定是陈述句的形式，也就是引导词+主语+谓语[+宾语]
+
++ that：当从句是陈述句时，并且that不充当任何成分，也没有任何意思
++ whether：当从句是一般疑问句时，并且whether在从句中也补充当成份，意思是"是否"
++ 所有的特殊疑问词：当从句是特殊疑问句时，不用加
+
+
+
 ### 3.2.1.主语从句
 
 >句子主语由从句充当，主语以引导词开始，主语除去引导词剩下的词序和中文基本一致
@@ -1589,7 +1616,7 @@
 
 **(2)不确定信息做主语从句**
 
->在问句中：疑问代词/副词，这里做引导词叫连接代词/连接副词
+>在问句中：疑问代词/疑问副词，这里做引导词叫连接代词/连接副词
 
 + **Whether** the rabbit ate the carrot is obvious.
 + **Where** the rabbit ate the carrot is obvious.
