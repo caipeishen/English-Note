@@ -69,6 +69,10 @@
 
 ## 3.同化
 
+> 现有”同化“现象，再总结出规律
+
+
+
 ### 3.1.逆行同化
 
 > 前面音收到后面音影响
@@ -167,6 +171,10 @@
 
 ## 4.异化
 
+> 现有”异化“现象，再总结出规律
+
+
+
 ### 4.1."s"
 
 > /s/送气音如果再接一个送气/t/，/k/，/p/，根本不好发音，这里只是变为不送气版本而已，声带并不振动，严格来说，他们并不是/d/，/g/，/b/的音，不等同于~~浊化~~
@@ -181,15 +189,41 @@
 
 > 在美式英语中往往会让之前的元音”r化“，但出现两个r化时，会让前面"r化"消失，否则有点拗口
 
-+ surprise → su(r)prise
-+ particular → pa(r)ticular
-+ governor → gove(r)nor
++ su**r**prise
++ pa**r**ticular
++ gove**r**nor
 
 
 
+## 5.省音
 
 
-## 5.省音(吞音)
+
+### 5.1.单词内省音
+
++ 通常省音：diff**e**rent
++ 可选择：sim**i**lar
++ 必须省音：debt, know, write
+
+
+
+### 5.2.单词之间省音
+
++ t的省音: las**t** year
++ d的省音: you an**d** me
++ h-dropping: tell **h**er I love her
++ g-dropping: how ya doin'? 
+
+
+
+> 示例
+
++ nex**t** door
++ mos**t** common
++ mus**t** be 
++ you an**d** me 
++ gi**ve** me that 
++ What's **h**is name?
 
 
 
