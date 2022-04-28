@@ -212,7 +212,7 @@
 + t的省音: las**t** year
 + d的省音: you an**d** me
 + h-dropping: tell **h**er I love her
-+ g-dropping: how ya doin'? 
++ g-dropping: how ya doin**'**? 
 
 
 
@@ -228,6 +228,23 @@
 
 
 ## 6.缩读
+
+> 用于口语中，不能用于书面语和演讲
+
++ want to = wanna
++ going to = gonna
++ have got to = gotta 
++ out of = outta
++ kind of = kinda
++ a lot of = a lotta
++ don't know = dunno
++ give me = gimme
++ would have = would've / would'a
++ you and I = you 'n' I
++ come on = c'mon
++ what are you = wachya / watcha
++ what do you = whaddya / wadya
++ what did you = whatdja / wadja
 
 
 
