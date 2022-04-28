@@ -250,6 +250,10 @@
 
 ## 7.弱读
 
+> 让饱满的元音发音变成一个弱一点的音，而这个弱一点的音，通常是中央元音，/ə/
+
+
+
 > 一般来说，弱读的是：少音节的虚词，如介词，代词，连词，一般不影响句子意思的关键词
 
 What **do** you want **to** **do**? 
@@ -261,32 +265,23 @@ so **would** you like me **to** **do** it **for** you?
 > 常用单词的弱读，中间的元音一般都会变成中原元音，/ə/
 
 + 介词
-
   + at
   + for
   + from
   + of
   + to
-
 + 冠词
-
   + an
   + some
-
 + 连词
-
   + and 
   + but
-
 + 代词
-
   + you
   + us
   + them
   + her
-
 + 助动词
-
   + am
   + are
   + have
@@ -298,7 +293,16 @@ so **would** you like me **to** **do** it **for** you?
   + could
   + should
 
-  
+
+
+> 什么时候不弱读？
+
++ 句末：
+  + May I do it for **you**?
++ 对比：
+  + government **of** the people, **by** the people, **for** the people.
++ 强调：
+  + I'm not **A** rabbit! I'm **THE** rabbit.
 
 
 
