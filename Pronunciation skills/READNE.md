@@ -207,7 +207,7 @@
 
 
 
-### 5.2.单词之间省音
+### 5.2.单词间省音
 
 + t的省音: las**t** year
 + d的省音: you an**d** me
@@ -249,6 +249,56 @@
 
 
 ## 7.弱读
+
+> 一般来说，弱读的是：少音节的虚词，如介词，代词，连词，一般不影响句子意思的关键词
+
+What **do** you want **to** **do**? 
+**From** **what** I **can** tell, you **must** be tired **of** it, **but** I'm not, 
+so **would** you like me **to** **do** it **for** you?
+
+
+
+> 常用单词的弱读，中间的元音一般都会变成中原元音，/ə/
+
++ 介词
+
+  + at
+  + for
+  + from
+  + of
+  + to
+
++ 冠词
+
+  + an
+  + some
+
++ 连词
+
+  + and 
+  + but
+
++ 代词
+
+  + you
+  + us
+  + them
+  + her
+
++ 助动词
+
+  + am
+  + are
+  + have
+  + has
+  + do 
+  + does
+  + would
+  + can
+  + could
+  + should
+
+  
 
 
 
