@@ -1,6 +1,15 @@
 听的时候，注重内容，融入场景，脑中不要有中文翻译(脑中想着刚才听到的英文和场景)，练习一个盒子两条路
 
 
+1.听力不是把每一个单词都听清楚，而是听到了关键词根据自己掌握的其用法来猜出来的，听力本身就是半听半猜
+2. 重视英语分节奏和重读规律，一般重读的也就是我们能听清的几个单词，节奏感比连读规律更重要
+3. 单词的发音不要有太大的偏差，但是的单个单词发音时的生硬感和在句子中被读的感觉又不一样。
+
+
+深度学习基础词汇：儿童的动画片
+
+
+
 常用表达结构和习惯
 追求深度步追求广度
 
@@ -31,6 +40,38 @@
 		可理解i+1
 		有趣 EnglishPod、ESLPod、  Sweet Valley Kid(2)、Sweet Valley Twins(4)、Sweet Valley High(6)、魔法树屋、Sideny Sheldon悬疑小说
 	阅读的力量
+
+	一、Dr.Seuss苏斯博士系列（0Lto700L）
+	（儿童图书，文字图画，入门到国内初中）
+	1.Dr.Seuss's ABC(0L)
+	2.Green Eggs and Ham(210L)
+	3.One Fish,Two Fish,Red Fish,Blue Fish(270L)
+	4.Fox in Socks(380L)
+	5.The Cat in the Hat(420L)
+	6.The Lorax(560L)
+
+	二、Magic Tree House神奇树屋系列（380Lto600L）
+	（Mary Pope Osborne，故事，国内初中到国内高中）
+	1.#14 Day of the Dragon King(380L)
+	2.#13 Vacation Under The Volcano(410L)
+	3.#8 Midnight on the Moon(490L)
+	4.#20 A Perfect Time for Pandas(540L)
+	5#27.Thanksgiving on Thursday(590L)
+
+	三、Roald Dahl罗尔德·达尔系列（560Lto1000L+）（Roald Dahl，儿童文学，国内初中到国内本科）
+	1.The Magic Finger(560L)
+	2.The Enormous Crocodile(600L)
+	3.George's Marvelous Medicine(640L)
+	4.The Witches(740L)
+	※5.Charlie and the Chocolate Factory(810L)
+	6.James and the Giant Peach(870L)
+	7.Boy and Going Solo(1020L)
+
+	五、E.B.White 童书系列（680Lto920L）（E.B.White，儿童文学、英文写作指南，国内高中到国内本科）
+	1.Charlotte's Web(680L)
+	2.The Trumpet of the Sawn(750L)
+	3.Stuart Little(920L)
+	4.The Elements of Style(无蓝思值数据)
 
 二、https://www.bilibili.com/video/BV1hL4y1j7Rk?p=7
 
