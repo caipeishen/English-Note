@@ -1883,8 +1883,12 @@
 
 + The rabbit ate the carrot **where he found it**.
   兔子在找到胡萝卜的地方吃了它 (地点副词从句直接等于地点)
+  
++ The rabbit ate the carrot at the **place** where he found it.
 
+  这句话是定语(形容词)从句，从句修饰先行词place
 
+  
 
 > 只看见where引导词不能确定是哪种从句
 >
