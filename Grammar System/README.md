@@ -1387,6 +1387,26 @@
 
 
 
+## 1.6.分词做状语(简化句子)
+
+1. 前后主语一致
+2. 去掉状从主语 & 连词(可留)
+3. 从句 v.变分词
+4. doing 主动进行/主动一般
+5. done 被动完成/被动一般
+
+
+
+> 示例
+
++ She felt tired. She went to bed early.
++ Because she felt tired, she went to bed early.
++ Feeling tired, she went to bed early.
+
+
+
++ Waiting for a bus, a brick fell on my head. ❌（主语不一致）
+
 
 
 # 2.并列复合句(复合句)
